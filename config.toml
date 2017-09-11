@@ -77,7 +77,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     name = "Categories"
-    url = "/categories"
+    url = "/categories/"
     identifier = "fa fa-sitemap"
     weight = 2
 
