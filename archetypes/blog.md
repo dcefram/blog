@@ -1,10 +1,14 @@
 +++
 author = ""
 categories = []
+date = {{ .Date }}
 description = ""
-linktitle = ""
+draft = false
 featured = ""
-featuredpath = ""
 featuredalt = ""
+featuredpath = "date"
+linktitle = ""
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
 type = "post"
+
 +++
