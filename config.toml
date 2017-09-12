@@ -9,9 +9,9 @@ googleAnalytics = ""
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "Writing software for SplitmediaLabs."
+    description          = "Writing thoughts and software"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Daniel Cefram"
+    navbarTitle          = "Daniel Cefram Ramirez"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = true
@@ -46,7 +46,7 @@ googleAnalytics = ""
 [params.intro]
     header    = "Daniel Cefram Ramirez"
 
-    paragraph = "Writing software for SplitmediaLabs. I bought this domain for my own vanity email address, but then I decided to dump thoughts here to justify the costs of the domain."
+    paragraph = "Full stack developer. Writing code using React, SCSS, and Go. I bought this domain for my own vanity email address, but then I decided to dump thoughts here to justify the costs of the domain."
 
     about     = "I'm a web developer trying to use web technologies in desktop application projects. My current stack used at work is React and SCSS. Outside of work, I'm torn between Elixir and Go, both are lovely."
 
