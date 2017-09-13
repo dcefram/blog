@@ -46,11 +46,13 @@ export class Tooltip extends PureComponent {
     // lodash pick, just pass valid props based on what ReactTooltip expects
     const props = pick(this.props, [...]);
 
-    return <ReactTooltip
-      {...props}
-      class={className}
-      getContent={this.handleContent}
-    />
+    return (
+      <ReactTooltip
+        {...props}
+        class={className}
+        getContent={this.handleContent}
+      />
+    );
   }
 }
 ```
@@ -89,7 +91,7 @@ handleContent = () => {
       className={className}
       dangerouslySetInnerHTML={{ __html: this.props.dangerousContent }}
     />
-  )
+  );
 };
 ```
 
