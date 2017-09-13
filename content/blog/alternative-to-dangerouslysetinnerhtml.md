@@ -128,7 +128,7 @@ P.S. In the start of this blog post, I said:
 
 > I found a sort of better way to tackle usecases that need to 'parse' html tags.
 
-The more accurate sentence would be that in one my merge requests, the code reviewer hated the idea
+The more accurate sentence would be that in one of my merge requests, the code reviewer hated the idea
 of using `dangerouslySetInnerHTML` and suggested to me to just pass a React Component to the `content`
 attribute, which I really liked and thought that I should post it in my blog in case someone might
 have the same scenario.
