@@ -1,7 +1,7 @@
 +++
 author = "Daniel Cefram Ramirez"
 date = 2017-02-16T15:29:13Z
-description = "I'm a web developer trying to use web technologies in desktop application projects. My current stack used at work is React and SCSS."
+description = "I'm a full stack developer trying to use web technologies in desktop application projects. My current stack used at work is React and SCSS."
 draft = false
 image = "/images/2017/02/DSC_0084_2.jpg"
 slug = "about"
@@ -9,17 +9,17 @@ title = "About"
 
 +++
 
-Outside of work, I use Vue and Stylus for the frontend, and Hapi.js for the backend. However, I am currently learning [Gin](https://github.com/gin-gonic/gin) for the backend.
+Outside of work, I use Vue and Stylus for the frontend, and  [Gin](https://github.com/gin-gonic/gin) for the backend.
 
-I am currently trying to wrap my head around Go just to add a compiled programming language to my skill set, and because Node.js just eats up my virtual server's RAM. I will blog about my progress in that part from time to time.
+I used to primarily use Node.js for backend development, but has since moved on to Go after my VPS bills skyrocketed after hosting a couple of Node.js "side projects".
 
-I tried to learn Rust too, but I can't help but feel like it takes more time to create a web server/backend and besides, [it's not yet recommended to use it unless I am creating an API, using external services, and writing SQL myself](http://www.arewewebyet.org/). I'll still use Rust for systems development, but for backend development, I'll have to stick with Go.
+I tried to learn Rust too, but I can't help but feel like it takes more time to create a web server/backend and besides, [it's not yet recommended to use it unless I am creating an API, using external services, and writing SQL myself](http://www.arewewebyet.org/). I'm currently studying Elixir, after stumbling accross [this benchmark](https://gist.github.com/omnibs/e5e72b31e6bd25caf39a) that shows Phoenix framework ahead of Gin.
 
 ## Work
 
 I am currently employed as a software developer at [SplitmediaLabs](https://www.splitmedialabs.com/). I'm involved in developing an [awesome video production software](https://xsplit.com) and a [social networking platform for gamers](https://player.me).
 
-Outside of work, I do pickup some sides here and there, but I'm currently self studying Go language. So yeah, there goes my spare time.
+Outside of work, I do pickup some sides here and there, and also learn Elixir if I have free time.
 
 ## Others
 
