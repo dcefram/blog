@@ -39,8 +39,6 @@ Wait, that image is from our pictorial before the wedding... let me steal some o
 
 {{< img-post "date" "wed2.jpg" "One of our wedding shots" >}}
 {{< img-post "date" "wed3.jpg" "One of our wedding shots" >}}
-![](/content/images/2017/02/wed2.jpg)
-![](/content/images/2017/02/wed3.jpg)
 
 Oh, btw, huge thanks to all who came to the wedding... and specially to the people who exerted extra effort to helped us make this event successful: Kuya Carlo, Kuya Jojo, Kuya Leo, Bro. Demot, to our witnesses, Kuya Aiane and his wife, Ate Joy and her husband, to our ushers and usherettes, bridesmaids and groomsmen, the maid of honor and the best man, the emcees, and the people who made the reception lively, ie. Ate Weng, Ate Nancy, Ate Myla, Jeric, Israel, Gelo, Oliver, Shuji, kuya Jaymar, and to the people who tried to tell our love story through dancing... Te Shiii, Ate Sarah, Ate Cindy, Ate Hazel, Joy, Zyryll, Odessa, Laluvs... and the [father of my colleague](http://www.ignacioscatering.com/) who supplied us with stupendous food.
 
