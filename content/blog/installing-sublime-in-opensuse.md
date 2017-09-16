@@ -22,7 +22,7 @@ better JS support, like configuring the root path so that it would match how my 
 handles import paths, and with the fact that Gogland got better tooling when it came to coding in
 Go Language, I'm now using it as my primary editor.
 
-But for the past few days, Sublime Text announced that they just released Sublime Text 3 out of Beta.
+But a day or two ago, Sublime Text announced that they just released Sublime Text 3 out of Beta.
 I wanted to test it out in my OpenSUSE laptop since I paid for a Sublime Text license, and would wanted
 to encourage myself that I didn't just waste 70 dollars on a product that got outdated pretty quickly after
 VSCode came out. But alas, zypper does not have the latest and greated Sublime Text 3 :(
