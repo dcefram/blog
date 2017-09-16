@@ -20,11 +20,11 @@ need to open 2 or more projects at the same time (Gogland eats up way too much R
 In my previous post, I stated that I switched to VSCode away from Sublime, but since Gogland got
 better JS support, like configuring the root path so that it would match how my webpack config
 handles import paths, and with the fact that Gogland got better tooling when it came to coding in
-Go Language.
+Go Language, I'm now using it as my primary editor.
 
 But for the past few days, Sublime Text announced that they just released Sublime Text 3 out of Beta.
 I wanted to test it out in my OpenSUSE laptop since I paid for a Sublime Text license, and would wanted
-to encourage myself that I didn't just waste 70 dollars on a product that got pretty outdated after
+to encourage myself that I didn't just waste 70 dollars on a product that got outdated pretty quickly after
 VSCode came out. But alas, zypper does not have the latest and greated Sublime Text 3 :(
 
 So here are my notes on how to install Sublime Text 3, the manual way... Since sublime does release
