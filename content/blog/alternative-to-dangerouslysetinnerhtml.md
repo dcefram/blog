@@ -8,7 +8,7 @@ featured = ""
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "Alternative to dangerouslySetInnerHTML in React"
+title = "Alternative to dangerously set inner html in React"
 type = "post"
 
 +++
