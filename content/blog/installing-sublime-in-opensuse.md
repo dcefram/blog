@@ -25,7 +25,7 @@ Go Language, I'm now using it as my primary editor.
 But a day or two ago, Sublime Text announced that they just released Sublime Text 3 out of Beta.
 I wanted to test it out in my OpenSUSE laptop since I paid for a Sublime Text license, and would wanted
 to encourage myself that I didn't just waste 70 dollars on a product that got outdated pretty quickly after
-VSCode came out. But alas, zypper does not have the latest and greated Sublime Text 3 :(
+VSCode came out. But alas, zypper does not have the latest and greatest Sublime Text 3 :(
 
 So here are my notes on how to install Sublime Text 3, the manual way... Since sublime does release
 tarballs for Linux, we'll go ahead and use that.
