@@ -1,11 +1,10 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Nerd Diary"]
+tags = ["Geek-ism"]
 date = 2017-04-24T11:21:03Z
 description = "Instructions to create bootable linux flash drives in Windows and in Linux, along with how to reuse/revert the flash drive."
 draft = false
 slug = "when-distro-hopping"
-tags = ["Nerd Diary"]
 title = "When distro hopping..."
 type = "post"
 

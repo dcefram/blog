@@ -1,11 +1,10 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Programming", "React", "Nerd Diary"]
+tags = ["React", "JavaScript"]
 date = 2017-02-18T08:10:44Z
 description = ""
 draft = false
 slug = "using-datasets-to-avoid-inline-arrow-functions"
-tags = ["Programming", "React", "Nerd Diary"]
 title = "Using datasets to avoid inline arrow functions"
 type = "post"
 

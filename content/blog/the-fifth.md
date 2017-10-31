@@ -1,11 +1,10 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Personal"]
+tags = ["Personal"]
 date = 2017-06-17T08:09:00Z
 description = ""
 draft = false
 slug = "the-fifth"
-tags = ["Personal"]
 title = "The Fifth"
 type = "post"
 

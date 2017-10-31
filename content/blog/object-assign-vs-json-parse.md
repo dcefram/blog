@@ -1,11 +1,10 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Programming", "Nerd Diary"]
+tags = ["JavaScript"]
 date = 2017-02-25T05:50:12Z
 description = ""
 draft = false
 slug = "object-assign-vs-json-parse"
-tags = ["Programming", "Nerd Diary"]
 title = "Using JSON parse and stringify to clone objects"
 type = "post"
 

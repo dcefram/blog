@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Nerd Diary"]
+tags = ["Geek-ism"]
 date = 2017-05-29T06:26:05Z
 description = ""
 draft = false
@@ -9,7 +9,6 @@ featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 slug = "my-notes-in-setting-up-arch"
-tags = ["Nerd Diary"]
 title = "My notes in setting up Arch"
 type = "post"
 

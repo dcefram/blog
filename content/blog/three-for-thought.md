@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Personal"]
+tags = ["Personal"]
 date = 2017-04-17T05:41:00Z
 description = ""
 draft = false
@@ -9,7 +9,6 @@ featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 slug = "three-for-thought"
-tags = ["Personal"]
 title = "Three for thought"
 type = "post"
 

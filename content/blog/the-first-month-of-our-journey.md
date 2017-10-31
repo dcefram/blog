@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Personal"]
+tags = ["Personal"]
 date = 2017-02-16T16:00:00Z
 description = ""
 draft = false
@@ -9,7 +9,6 @@ featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 slug = "the-first-month-of-our-journey"
-tags = ["Personal"]
 title = "The first month of our journey"
 type = "post"
 

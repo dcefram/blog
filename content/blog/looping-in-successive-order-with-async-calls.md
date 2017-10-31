@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Programming", "Nerd Diary"]
+tags = ["JavaScript"]
 date = 2017-03-25T07:38:14Z
 description = ""
 draft = false
@@ -9,7 +9,6 @@ featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 slug = "looping-in-successive-order-with-async-calls"
-tags = ["Programming", "Nerd Diary"]
 title = "Looping in successive order with Async calls"
 type = "post"
 

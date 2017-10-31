@@ -1,11 +1,10 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Programming", "Nerd Diary"]
+tags = ["JavaScript", "CSS"]
 date = 2017-03-04T08:13:23Z
 description = ""
 draft = false
 slug = "responsive-web-designs-through-eqcss"
-tags = ["Programming", "Nerd Diary"]
 title = "Responsive web designs through EQCSS"
 type = "post"
 

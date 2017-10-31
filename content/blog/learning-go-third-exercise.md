@@ -1,11 +1,10 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Nerd Diary", "Programming"]
+tags = ["Golang"]
 date = 2017-07-22T06:20:00Z
 description = ""
 draft = false
 slug = "learning-go-third-exercise"
-tags = ["Nerd Diary", "Programming"]
 title = "Learning Go: Third Exercise"
 type = "post"
 

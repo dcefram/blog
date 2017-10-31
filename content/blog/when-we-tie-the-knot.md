@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Personal"]
+tags = ["Personal"]
 date = 2017-01-17T10:10:00Z
 description = ""
 draft = false
@@ -9,7 +9,6 @@ featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 slug = "when-we-tie-the-knot"
-tags = ["Personal"]
 title = "When we tie the knot"
 type = "post"
 

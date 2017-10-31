@@ -1,11 +1,10 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Programming", "Tools", "Nerd Diary"]
+tags = ["Geek-ism"]
 date = 2017-03-10T18:18:14Z
 description = ""
 draft = false
 slug = "why-i-switched-to-visual-studio-code"
-tags = ["Programming", "Tools", "Nerd Diary"]
 title = "Why I switched to Visual Studio Code"
 type = "post"
 

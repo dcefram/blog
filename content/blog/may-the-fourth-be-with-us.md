@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Personal"]
+tags = ["Personal"]
 date = 2017-05-17T05:57:00Z
 description = ""
 draft = false
@@ -9,7 +9,6 @@ featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 slug = "may-the-fourth-be-with-us"
-tags = ["Personal"]
 title = "May the Fourth be with... us"
 type = "post"
 

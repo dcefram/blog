@@ -1,6 +1,6 @@
 +++
-author = ""
-categories = ["Nerd Diary", "Programming", "React"]
+author = "Daniel Cefram Ramirez"
+tags = ["React", "JavaScript"]
 date = 2017-09-13T00:34:15+08:00
 description = "dangerouslySetInnerHTML in React is generally discouraged. I found a sort of better way to tackle usecases that need to 'parse' html tags."
 draft = false

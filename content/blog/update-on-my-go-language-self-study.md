@@ -1,5 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
+tags = ["Golang"]
 date = 2017-08-03T08:20:07Z
 description = ""
 draft = false

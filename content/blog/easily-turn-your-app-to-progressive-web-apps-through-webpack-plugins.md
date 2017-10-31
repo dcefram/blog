@@ -1,11 +1,10 @@
 +++
 author = "Daniel Cefram Ramirez"
-categories = ["Programming", "Nerd Diary"]
+tags = ["Webpack"]
 date = 2017-03-18T03:26:00Z
 description = ""
 draft = false
 slug = "easily-turn-your-app-to-progressive-web-apps-through-webpack-plugins"
-tags = ["Programming", "Nerd Diary"]
 title = "Easily turn your app to Progressive Web Apps through webpack plugins"
 type = "post"
 
