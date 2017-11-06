@@ -21,36 +21,37 @@ error handling. Here's why.
 
 While the idea of forcing developers to handle each possible error points immediately was good,
 forcing our code style to be littered with `if err != nil` isn't "pretty" or good. On my case, I had
-a function that had to use `strconv.Atoi` multiple times... 4 strings to be exact. And since I would
-wan't to throw an error (or return an error) once one of those `strconv.Atoi` fails, I was forced to
+a function that had to use multiple functions that could return an error... And since I would
+wan't to throw an error (or return an error) once one of those functions fails, I was forced to
 litter my code with if statements:
 
 ```go
 func someFunc() error {
-  // ... Some code that parses 2 strings, and splits each string to 2
+  // ... Some other code
 
-  majorPrev, err := strconv.Atoi(majorPrevStr)
-
-  if err != nil {
-    return err
-  }
-
-  minorPrev, err := strconv.Atoi(minorPrevStr)
+  version, err := strconv.Atoi(ver)
 
   if err != nil {
     return err
   }
 
-  majorCur, err := strconv.Atoi(majorCurStr)
-
-  if err != nil {
-    return err
+  if version >= someCondition {
+    version = version + 1
   }
 
-  minorCur, err := strconv.Atoi(minorCurStr)
+  file, err := ioutit.ReadFile("./some-file-" + fmt.Sprintf("%04d", version))
 
   if err != nil {
-    return err
+    return error
+  }
+
+  contents := string(file)
+  contents = strings.Replace(contents, "some-string", someString, -1)
+
+  err = ioutil.WriteFile("./some-file-" + fmt.Sprintf("%04d", version),[]byte(contents), os.ModePerm)
+
+  if err != nil {
+    return error
   }
 
   // Rest of the code
@@ -68,13 +69,21 @@ But what would be really neater is if Go had `try` `catch`...
 
 ```go
 func someFunc() error {
-  // ... Some code that parses 2 strings, and splits each string to 2
+  // ... Some other code
 
   try {
-    majorPrev := strconv.Atoi(majorPrevStr)
-    minorPrev := strconv.Atoi(minorPrevStr)
-    majorCur := strconv.Atoi(majorCurStr)
-    minorCur := strconv.Atoi(minorCurStr)
+    version := strconv.Atoi(ver)
+
+    if version >= someCondition {
+      version = version + 1
+    }
+
+    file= ioutit.ReadFile("./some-file-" + fmt.Sprintf("%04d", version))
+
+    contents := string(file)
+    contents = strings.Replace(contents, "some-string", someString, -1)
+
+    ioutil.WriteFile("./some-file-" + fmt.Sprintf("%04d", version),[]byte(contents), os.ModePerm)
   } catch (error) {
     return error
   }
