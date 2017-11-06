@@ -22,7 +22,7 @@ error handling. Here's why.
 While the idea of forcing developers to handle each possible error points immediately was good,
 forcing our code style to be littered with `if err != nil` isn't "pretty" or good. On my case, I had
 a function that had to use multiple functions that could return an error... And since I would
-wan't to throw an error (or return an error) once one of those functions fails, I was forced to
+want to throw an error (or return an error) once one of those functions fails, I was forced to
 litter my code with if statements:
 
 ```go
@@ -42,7 +42,7 @@ func someFunc() error {
   file, err := ioutit.ReadFile("./some-file-" + fmt.Sprintf("%04d", version))
 
   if err != nil {
-    return error
+    return err
   }
 
   contents := string(file)
@@ -51,7 +51,7 @@ func someFunc() error {
   err = ioutil.WriteFile("./some-file-" + fmt.Sprintf("%04d", version),[]byte(contents), os.ModePerm)
 
   if err != nil {
-    return error
+    return err
   }
 
   // Rest of the code
