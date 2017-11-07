@@ -12,10 +12,11 @@ type = "post"
 
 I've bought some books and courses for the Go programming language, and though I learned more in
 [a tour of Go](https://tour.golang.org/) than the books and courses I bought, I was able to learn
-some few new concepts that wasn't related to Go.
+some few new concepts that wasn't related to Go. Not really a waste of money in that sense :)
 
-I created tools using Go language as the language of choice nowadays, and I feel like the larger the
-project, the harder it is to modify the code. It is true that there this is the case for most
+Right now, Go language is my language of choice for creating tools, and I did create a couple including
+some internal tools I use at work. With that said, I feel like the larger the codebase/project gets,
+the harder it is to modify the code. It is true that there this is the case for most
 projects, but I just feel like there is a lot of repetition going on.
 
 Since my end goal was to choose and use a language for my own personal hobby project
