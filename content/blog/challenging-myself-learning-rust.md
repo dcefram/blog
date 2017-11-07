@@ -5,7 +5,7 @@ date = 2017-11-07T22:41:33+08:00
 description = ""
 draft = false
 linktitle = ""
-title = "Challenging Myself Learning Rust"
+title = "Challenging Myself: Learning Rust"
 type = "post"
 
 +++
