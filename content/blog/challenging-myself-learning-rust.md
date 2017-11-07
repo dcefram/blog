@@ -16,8 +16,8 @@ some few new concepts that wasn't related to Go. Not really a waste of money in 
 
 Right now, Go language is my language of choice for creating tools, and I did create a couple including
 some internal tools I use at work. With that said, I feel like the larger the codebase/project gets,
-the harder it is to modify the code. It is true that there this is the case for most
-projects, but I just feel like there is a lot of repetition going on.
+the harder it is to modify the code. It is true that this is the case for most projects,
+but I just feel like there is a lot of repetition going on.
 
 Since my end goal was to choose and use a language for my own personal hobby project
 (which is a web publishing platform for my own use), I thought of learning the direct competitor of
