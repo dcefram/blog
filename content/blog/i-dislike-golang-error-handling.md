@@ -94,16 +94,3 @@ func someFunc() error {
 
 I find it easier to debug errors caught in the `catch` block in other languages, since errors caught
 there would also return the line number and column where the error was thrown.
-
-# Error tracing
-
-How errors are treated also makes debugging in Golang hard. There might be a better way that I am
-not aware of, but if ever there is, I can say that it isn't straightforward.
-
-With what we currently have out of the box, the sample code that I provided above would be hard to
-debug if ever `someFunc()` did return an error. `error` does not contain the line number where it
-was triggered, thus we would have to rely on exposing some meaningful "string" in the error message
-by implementing the `Error` interface.
-
-So yeah, it is doable, but I think this is unnecessary extra effort for something that should've
-been made easy in the language itself.
