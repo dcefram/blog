@@ -109,7 +109,7 @@ a package using relative paths, and this makes it a pain to fork and contribute 
 
 The reason being is that when you fork a project, and use `go get`, you would end up having a path
 that uses your repo's path (ex: `$GOPATH/src/github.com/<YourUser>/<ForkedLibary>`). Now, if that
-library imports some of its own sub packagess between different source files, you would need to manually
+library imports some of its own sub packages between different source files, you would need to manually
 update them in order for it to work... and before pushing, you'll have to remember to revert all
 your updated `import`s so that it could be pulled back to the original repository.
 
