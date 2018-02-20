@@ -18,7 +18,7 @@ type = "post"
 
 The three keywords that sticks out for our first month together :D
 
-### \#breakfastdiary
+### breakfastdiary
 
 We started to document our mornings with an instagram post of what we eat during breakfast. It's more of a 'record' just to keep track of what to cook next ;)
 
