@@ -26,7 +26,7 @@ Most people tend to scare away from looking for other opportunities, but I just 
 
 # Contented
 
-I, on the other hand, am content on whatever was thrown at me. I'm not sure why, but I guess this is part of being a dad (p.s. I always wondered why a dad on my former team was always happy even though it turned out that his raise wasn't large enough to be happy... Now I know why). This year, I got a single digit percent raise, but I don't feel demotivated at all… yet.
+I, on the other hand, am content on whatever was thrown at me. I'm not sure why, but I guess this is part of being a dad (p.s. I always wondered why a dad on my former team was always happy even though there's nothing to be happy about... Now I know why). This year, I got a single digit percent raise, but I don't feel demotivated at all… yet.
 
 However, if I do find another opportunity that would be a lot more attractive overall than my current work, I might go for it. I'll just make sure to wrap things up first, since I do feel some sort of ownership with the project I'm currently working on.
 
