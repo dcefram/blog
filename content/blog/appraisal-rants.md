@@ -16,7 +16,7 @@ Most of the people at the company found out their raise yesterday, and I can tel
 
 On a lighter note, I found it funny that I felt that I was some sort of the bad guy when I tried to forward a job opening to a co-worker of mine since I was completely aware that he/she (what's a gender neutral word for this :|) was demotivated due to the raise.
 
-Wait, wait, I know that it isn't wrong to share opportunities to other people… But when you put it on the context that Kel was thinking of how to comfort his teammates, you'll see that I was acting on the extreme side… Or maybe not. I don't know, but I think that if people aren't happy anymore with their job, I guess it's time to pack and leave and search for a greener pasture. Why waste your time on a job that you feel that you aren't getting what you deserve.
+Wait, wait, I know that it isn't wrong to share opportunities to other people… But when you put it on the context that Kel was thinking of how to comfort his teammates, you'll see that I was acting on the extreme side… Or maybe not. I don't know, but I think that if people aren't happy anymore with their job, I guess it's time to pack, leave, and search for a greener pasture. Why waste your time on a job that you feel that you aren't getting what you deserve.
 
 Let's get this straight, a job isn't something that you should get attached to. That might be a lot blurry if you have shares on the company, or if you're the founder/co-founder of the company. But if you're just an employee, even if you might be a pioneer employee, you shouldn't get attached too much to the point that you're investing your emotions into it… Because, the end of the day, there's a high chance that you are considered dispensable. That's the reality.
 
@@ -36,7 +36,7 @@ Oh wait, don't mix up the feeling of ownership with the "emotional attachment" I
 
 Now now, I'm not saying that the only basis for people staying on their jobs is their salary or compensation. It just so happens to be the case right now due to the fact that we just had our PA results and our conversations mainly revolved around money.
 
-Obviously, there are other factors that could keep an employee happy. I, on my part, am much more interested on a job that could allow me to learn new things. I just don't know why, but I just get excited when there is something new to learn.
+Obviously, there are other factors that could keep an employee happy. I, on my part, am much more interested on a job that could allow me to learn new things. I don't know why, but I just get excited when there is something new to learn.
 
 Off the top of my head, me being content, learning opportunity, challenge, flexible hours, and the recognition that I exist through dialog (ie. big boss and big scientist has some direct conversations with me, and all seems well) are some of the factors that keeps me pushing through at my current work.
 
