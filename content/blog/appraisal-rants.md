@@ -30,6 +30,6 @@ I on the other hand am content on whatever was thrown at me. I'm not sure why, b
 
 However, if I do find another opportunity that would be a lot more attractive overall than my current work, I might go for it. I'll just make sure to wrap things up first, since I do feel some sort of ownership with the project I'm currently working on.
 
-Oh wait, don't mix up the feeling of ownership with the "emotional attachment" I was talking about earlier. One is a must as a professional, while the other is just simply being disillusioned.
+Oh wait, don't mix up the feeling of ownership with the "emotional attachment" I was talking about earlier. One is a must as a professional, while the other is just simply being delusional.
 
 I'll be posting this on my public blog too, because I can.
