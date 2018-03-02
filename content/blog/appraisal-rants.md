@@ -14,7 +14,7 @@ Most of the people at the company found out their raise yesterday, and I can tel
 
 # Bad vs. Good
 
-On a lighter note, I found it funny that I felt that I was some sort of the bad guy when I tried to forward a job opening to a co-worker of mine since I was completely aware that she/he (what's a gender neutral word for this :|) was demotivated due to the raise.
+On a lighter note, I found it funny that I felt that I was some sort of the bad guy when I tried to forward a job opening to a co-worker of mine since I was completely aware that he/she (what's a gender neutral word for this :|) was demotivated due to the raise.
 
 Wait, wait, I know that it isn't wrong to share opportunities to other people… But when you put it on the context that Kel was thinking of how to comfort his teammates, you'll see that I was acting on the extreme side… Or maybe not. I don't know, but I think that if people aren't happy anymore with their job, I guess it's time to pack and leave and search for a greener pasture. Why waste your time on a job that you feel that you aren't getting what you deserve.
 
