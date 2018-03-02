@@ -10,7 +10,7 @@ type = "post"
 
 +++
 
-Most of the people at the company found out their raise yesterday, and I can tell you a lot of them got super demotivated. I myself on the other hand is not expecting much anyways, due to the fact that the project I'm working on is not yet pushed to the public. However, I was able to talk to the people that felt that they got the short end of the stick (and also through second hand information based on gossips), and I'll just document what my thoughts are about all this shenanigan.
+Most of the people at the company found out their raise yesterday, and I can tell you a lot of them got super demotivated. I myself on the other hand was not expecting much anyways, due to the fact that the project I'm working on is not yet pushed to the public. However, I was able to talk to the people that felt that they got the short end of the stick (and also through second hand information based on gossips), and I'll just document what my thoughts are about all this shenanigan.
 
 # Bad vs. Good
 
