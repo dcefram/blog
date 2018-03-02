@@ -38,6 +38,6 @@ Now now, I'm not saying that the only basis for people staying on their jobs is 
 
 Obviously, there are other factors that could keep an employee happy. I, on my part, am much more interested on a job that could allow me to learn new things. I don't know why, but I just get excited when there is something new to learn.
 
-Off the top of my head, me being content, learning opportunity, challenge, flexible hours, and the recognition that I exist through dialog (ie. big boss and big scientist has some direct conversations with me, and all seems well) are some of the factors that keeps me pushing through at my current work.
+Off the top of my head, me being content, the learning opportunity, the challenge, flexible hours, and the recognition that I exist through dialog (ie. big boss and big scientist has some direct conversations with me, and all seems well) are some of the factors that keeps me pushing through at my current work.
 
 I'll be posting this on my public blog too, because I can.
