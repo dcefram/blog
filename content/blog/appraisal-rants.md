@@ -18,9 +18,9 @@ On a lighter note, I found it funny that I felt that I was some sort of the bad 
 
 Wait, wait, I know that it isn't wrong to share opportunities to other people… But when you put it on the context that Kel was thinking of how to comfort his teammates, you'll see that I was acting on the extreme side… Or maybe not. I don't know, but I think that if people aren't happy anymore with their job, I guess it's time to pack, leave, and search for a greener pasture. Why waste your time on a job that you feel that you aren't getting what you deserve.
 
-Let's get this straight, a job isn't something that you should get attached to. That might be a lot blurry if you have shares on the company, or if you're the founder/co-founder of the company. But if you're just an employee, even if you might be a pioneer employee, you shouldn't get attached too much to the point that you're investing your emotions into it… Because, the end of the day, there's a high chance that you are considered dispensable. That's the reality.
+Let's get this straight, a job isn't something that you should get attached to. That might be a lot blurry if you have shares on the company, or if you're the founder/co-founder of the company. But if you're just an employee, even if you might be a pioneer employee, you shouldn't get attached too much to the point that you're investing your emotions into it… Because, at the end of the day, there's a high chance that you are considered dispensable. That's the reality.
 
-Be realistic. They would most likely fire you if they feel that they're getting the short end of the stick. Do the same if the situation is the other way around.
+Be realistic. They would most likely fire you if they feel that they are getting the short end of the stick. Do the same if the situation is the other way around.
 
 Most people tend to scare away from looking for other opportunities, but I just don't get it why. If you felt that you deserve more, then that should mean that you are confident enough on your skills that your work should be compensated higher than what it is now. So if you're confident on your skills, and you're not happy with your current work anymore, then what is stopping you on applying for another job?
 
