@@ -14,9 +14,9 @@ Most of the people at the company found out their raise yesterday, and I can tel
 
 # Bad vs. Good
 
-On a lighter note, I found it funny that I felt that I was some sort of the bad guy when I tried to forward a job opening to a co-worker of mine since I was completely aware that he/she (what's a gender neutral word for this :|) was demotivated due to the raise.
+On a lighter note, I found it funny that I felt that I was some sort of the bad guy when I tried to forward a job opening to a co-worker of mine since I was completely aware that they was demotivated due to the raise.
 
-Wait, wait, I know that it isn't wrong to share opportunities to other people… But when you put it on the context that Kel was thinking of how to comfort his teammates, you'll see that I was acting on the extreme side… Or maybe not. I don't know, but I think that if people aren't happy anymore with their job, I guess it's time to pack, leave, and search for a greener pasture. Why waste your time on a job that you feel that you aren't getting what you deserve.
+Wait, wait, I know that it isn't wrong to share opportunities to other people… But when you put it on the context that one of my co-worker was thinking of how to comfort his teammates, you'll see that I was acting on the extreme side… Or maybe not. I don't know, but I think that if people aren't happy anymore with their job, I guess it's time to pack, leave, and search for a greener pasture. Why waste your time on a job that you feel that you aren't getting what you deserve.
 
 Let's get this straight, a job isn't something that you should get attached to. That might be a lot blurry if you have shares on the company, or if you're the founder/co-founder of the company. But if you're just an employee, even if you might be a pioneer employee, you shouldn't get attached too much to the point that you're investing your emotions into it… Because, at the end of the day, there's a high chance that you are considered dispensable. That's the reality.
 
