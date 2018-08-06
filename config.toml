@@ -1,6 +1,6 @@
-baseurl = "http://log.danielcefram.com"
+baseurl = "http://blog.danielcefram.com"
 languageCode = "en"
-title = "Daniel Cefram's"
+title = "/dump"
 theme = "kiss"
 copyright = "&copy; <a href=\"http://danielcefram.com\">Daniel Cefram</a> 2017"
 disqusShortname = "dcefram"
@@ -17,9 +17,9 @@ customCSS = ["css/custom.css"]
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = false # Adds OpenGraph and Twitter cards
-homeTitle = "Daniel Cefram's journey of stupendous imagination" # Title for home page
+homeTitle = "Daniel Cefram's dump file" # Title for home page
 poweredby = false # Adds powered by hugo and kiss below Copyright
-description = "Journey of Stupendous Imagination"
+description = "ideas, thoughts, and rants of a software developer"
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -33,7 +33,7 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 twitter = "dcefram"
 github = "dcefram"
-email = "me@danielcefram.com"
+email = "dcefram@gmail.com"
 linkedin = "daniel-cefram-ramirez"
 facebook = ""
 instagram = ""

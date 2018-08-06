@@ -1,8 +1,0 @@
-#!/bin/sh
-USER=dcefram
-HOST=ssh.danielcefram.com
-DIR=web/main
-
-hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
-
-exit 0
