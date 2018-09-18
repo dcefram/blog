@@ -1,4 +1,5 @@
 # My Blog
 
-Link: http://danielcefram.com
+Link: http://blog.danielcefram.com
+
 Theme: git@github.com:dcefram/kiss.git
