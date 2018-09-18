@@ -1,3 +1,7 @@
 [submodule "themes/kiss"]
 	path = themes/kiss
 	url = git@github.com:dcefram/kiss.git
+[submodule "public"]
+	path = public
+	url = git@github.com:dcefram/dcefram.github.io.git
+	branch = master
