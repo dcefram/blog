@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on /dump</title>
+    <link>http://blog.danielcefram.com/tags/react/</link>
+    <description>Recent content in React on /dump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;http://danielcefram.com&#34;&gt;Daniel Cefram&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Wed, 13 Sep 2017 00:34:15 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.danielcefram.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alternative to dangerously set inner html in React</title>
+      <link>http://blog.danielcefram.com/blog/alternative-to-dangerouslysetinnerhtml/</link>
+      <pubDate>Wed, 13 Sep 2017 00:34:15 +0800</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/alternative-to-dangerouslysetinnerhtml/</guid>
+      <description>Scenarios wherein you need to render a string with html tags in it would still require you to use dangerouslySetInnerHTML&amp;hellip; so if your problem is as such, then I guess there&amp;rsquo;s still no better way to parse strings with html tags.
+As for scenarios wherein we would need to pass a content to a reusable component through attributes, then this would work. A simple example might help right?
+The scenario In this example, we&amp;rsquo;ll be using ReactTooltip as our reusable component.</description>
+    </item>
+    
+    <item>
+      <title>Using datasets to avoid inline arrow functions</title>
+      <link>http://blog.danielcefram.com/blog/using-datasets-to-avoid-inline-arrow-functions/</link>
+      <pubDate>Sat, 18 Feb 2017 08:10:44 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/using-datasets-to-avoid-inline-arrow-functions/</guid>
+      <description>Adding an inline anonymous/arrow function in React is not recommended due to the nature of how react behaves. The render method would always be called each time a state or property is updated, which would then create a new function if we are using inline arrow functions, and then this would force the GC (garbage collector) to clean the previous arrow function.
+render() { // Not good :\  return &amp;lt;div onClick={e =&amp;gt; console.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>Why I switched to Visual Studio Code | /dump</title>
+
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+<link rel="stylesheet" href="http://blog.danielcefram.com/css/style.css"/><link rel='stylesheet' href='/css/custom.css'></head>
+<body>
+
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="site-title">
+        <h1 class="title is-4"><a class="" href="http://blog.danielcefram.com">/dump</a></h1>
+        <h4>ideas, thoughts, and rants of a software developer</h4>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile"><a class="level-item" href='mailto:dcefram@gmail.com' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+    <polyline points="22,6 12,13 2,6"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://github.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://linkedin.com/in/daniel-cefram-ramirez' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path stroke-width="1.8" d="m5.839218,4.101561c0,1.211972 -0.974141,2.194011 -2.176459,2.194011s-2.176459,-0.982039 -2.176459,-2.194011c0,-1.211094 0.974141,-2.194011 2.176459,-2.194011s2.176459,0.982917 2.176459,2.194011zm0.017552,3.94922l-4.388022,0l0,14.04167l4.388022,0l0,-14.04167zm7.005038,0l-4.359939,0l0,14.04167l4.360816,0l0,-7.370999c0,-4.098413 5.291077,-4.433657 5.291077,0l0,7.370999l4.377491,0l0,-8.89101c0,-6.915523 -7.829986,-6.66365 -9.669445,-3.259423l0,-1.891237z"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://twitter.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="subtitle is-6 is-pulled-right">
+      
+      
+<a class="tags subtitle is-6" href="/tags/geek-ism">#Geek-ism</a>
+
+
+
+      
+    </div>
+    <h2 class="subtitle is-6">March 10, 2017</h2>
+    <h1 class="title">Why I switched to Visual Studio Code</h1>
+      
+    <div class="content">
+      <p>I used to be a Sublime Text user, and used to always go back to Sublime after trying out other editors. I actually bought a license for $70 even though I could do away without it. I bought it to encourage the developers to keep on improving Sublime.</p>
+
+<p>But Sublime&rsquo;s development seems to be slow, but at least it is stable. The only caveat is that some of the plugins isn&rsquo;t working as intended (ie. lack of code completion even with CodeIntel, etc.) so I always tried out other text editors and an IDE.</p>
+
+<p>I first tried out Adobe&rsquo;s Brackets. I liked the features, but it was too slow that I decided to switch back to Sublime.</p>
+
+<p>The next text editor I tried out was Atom, which was way quicker than Brackets, but still struggles to load larger files. It felt like a slower Sublime Text, which is why I again went back to Sublime.</p>
+
+<p>And then came WebStorm. It was perfect. Great code completion, integrated terminal, and the refactoring tool was really handy. The initial launch was slow, but was forgivable since it&rsquo;s pretty quick after that. I would&rsquo;ve bought a license for it&hellip; but came Visual Studio Code.</p>
+
+<p>Visual Studio Code had all the advantages of WebStorm, but is free. It&rsquo;s leaner than WebStorm in terms of memory usage, is quicker to launch, and behaves like an IDE. It&rsquo;s as quick as a text editor, but as powerful as an IDE. Note that it also uses Electron, just like Atom, but it could load larger files (it can even load a file with more than a million lines) unlike Atom.</p>
+
+<p>You get intellisense (Code Completion), refactoring, Node JS debugging, an integrated terminal, an integrated Git tool, and jumping into symbol definitions is as quick as what you would get with WebStorm.</p>
+
+<p>Even the Go Plugin was really neat, wherein it could detect all the packages that I added in my GOPATH.</p>
+
+<p>I feel that Microsoft did it right on this one, and I never thought I would say that I actually like &ldquo;Visual Studio&rdquo;.</p>
+
+    </div>
+    
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <aside><div id="disqus_thread"></div></aside>
+    <script type="text/javascript">
+      var disqus_shortname = 'dcefram';
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; <a href="http://danielcefram.com">Daniel Cefram</a> 2017</p>
+    
+  </div>
+</section>
+
+</body>
+</html>

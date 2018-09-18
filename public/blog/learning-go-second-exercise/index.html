@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>Learning Go: Second Exercise | /dump</title>
+
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+<link rel="stylesheet" href="http://blog.danielcefram.com/css/style.css"/><link rel='stylesheet' href='/css/custom.css'></head>
+<body>
+
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="site-title">
+        <h1 class="title is-4"><a class="" href="http://blog.danielcefram.com">/dump</a></h1>
+        <h4>ideas, thoughts, and rants of a software developer</h4>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile"><a class="level-item" href='mailto:dcefram@gmail.com' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+    <polyline points="22,6 12,13 2,6"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://github.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://linkedin.com/in/daniel-cefram-ramirez' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path stroke-width="1.8" d="m5.839218,4.101561c0,1.211972 -0.974141,2.194011 -2.176459,2.194011s-2.176459,-0.982039 -2.176459,-2.194011c0,-1.211094 0.974141,-2.194011 2.176459,-2.194011s2.176459,0.982917 2.176459,2.194011zm0.017552,3.94922l-4.388022,0l0,14.04167l4.388022,0l0,-14.04167zm7.005038,0l-4.359939,0l0,14.04167l4.360816,0l0,-7.370999c0,-4.098413 5.291077,-4.433657 5.291077,0l0,7.370999l4.377491,0l0,-8.89101c0,-6.915523 -7.829986,-6.66365 -9.669445,-3.259423l0,-1.891237z"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://twitter.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="subtitle is-6 is-pulled-right">
+      
+      
+<a class="tags subtitle is-6" href="/tags/golang">#Golang</a>
+
+
+
+      
+    </div>
+    <h2 class="subtitle is-6">July 21, 2017</h2>
+    <h1 class="title">Learning Go: Second Exercise</h1>
+      
+    <div class="content">
+      <p>Today&rsquo;s exercise is all about slices. We&rsquo;ll need to generate an image by passing a slice of slices to <code>pic.Show</code>.</p>
+
+<p><strong>Here&rsquo;s the link:</strong> <a href="https://tour.golang.org/moretypes/18" target="_blank">https://tour.golang.org/moretypes/18</a></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+
+<span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;golang.org/x/tour/pic&#34;</span>
+
+<span style="color:#66d9ef">func</span> <span style="color:#a6e22e">Pic</span>(<span style="color:#a6e22e">dx</span>, <span style="color:#a6e22e">dy</span> <span style="color:#66d9ef">int</span>) [][]<span style="color:#66d9ef">uint8</span> {
+	<span style="color:#a6e22e">slice</span> <span style="color:#f92672">:=</span> make([][]<span style="color:#66d9ef">uint8</span>, <span style="color:#a6e22e">dy</span>)
+
+	<span style="color:#66d9ef">for</span> <span style="color:#a6e22e">fIndex</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">slice</span> {
+		<span style="color:#a6e22e">slice</span>[<span style="color:#a6e22e">fIndex</span>] = make([]<span style="color:#66d9ef">uint8</span>, <span style="color:#a6e22e">dx</span>)
+		<span style="color:#66d9ef">for</span> <span style="color:#a6e22e">sIndex</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">slice</span>[<span style="color:#a6e22e">fIndex</span>] {
+			<span style="color:#a6e22e">slice</span>[<span style="color:#a6e22e">fIndex</span>][<span style="color:#a6e22e">sIndex</span>] = uint8(<span style="color:#a6e22e">fIndex</span> ^ <span style="color:#a6e22e">sIndex</span>)
+		}
+	}
+
+	<span style="color:#66d9ef">return</span> <span style="color:#a6e22e">slice</span>
+}
+
+<span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+	<span style="color:#a6e22e">pic</span>.<span style="color:#a6e22e">Show</span>(<span style="color:#a6e22e">Pic</span>)
+}</code></pre></div>
+<p>Quite simple&hellip; I did learn something new too. I just figured out that the second value returned by <code>range</code> is <strong>NOT</strong> a reference to the value, which means that you cannot use that to manipulate the slice.</p>
+
+    </div>
+    
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <aside><div id="disqus_thread"></div></aside>
+    <script type="text/javascript">
+      var disqus_shortname = 'dcefram';
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; <a href="http://danielcefram.com">Daniel Cefram</a> 2017</p>
+    
+  </div>
+</section>
+
+</body>
+</html>

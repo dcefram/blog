@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>Image Resizing in CLI | /dump</title>
+
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+<link rel="stylesheet" href="http://blog.danielcefram.com/css/style.css"/><link rel='stylesheet' href='/css/custom.css'></head>
+<body>
+
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="site-title">
+        <h1 class="title is-4"><a class="" href="http://blog.danielcefram.com">/dump</a></h1>
+        <h4>ideas, thoughts, and rants of a software developer</h4>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile"><a class="level-item" href='mailto:dcefram@gmail.com' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+    <polyline points="22,6 12,13 2,6"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://github.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://linkedin.com/in/daniel-cefram-ramirez' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path stroke-width="1.8" d="m5.839218,4.101561c0,1.211972 -0.974141,2.194011 -2.176459,2.194011s-2.176459,-0.982039 -2.176459,-2.194011c0,-1.211094 0.974141,-2.194011 2.176459,-2.194011s2.176459,0.982917 2.176459,2.194011zm0.017552,3.94922l-4.388022,0l0,14.04167l4.388022,0l0,-14.04167zm7.005038,0l-4.359939,0l0,14.04167l4.360816,0l0,-7.370999c0,-4.098413 5.291077,-4.433657 5.291077,0l0,7.370999l4.377491,0l0,-8.89101c0,-6.915523 -7.829986,-6.66365 -9.669445,-3.259423l0,-1.891237z"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://twitter.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="subtitle is-6 is-pulled-right">
+      
+      
+<a class="tags subtitle is-6" href="/tags/crystal">#crystal</a>
+
+
+
+  
+  | <a class="tags subtitle is-6" href="/tags/tools">#tools</a>
+  
+
+      
+    </div>
+    <h2 class="subtitle is-6">September 18, 2018</h2>
+    <h1 class="title">Image Resizing in CLI</h1>
+      
+    <div class="content">
+      
+
+<p>For the past few weeks, I was looking for a new compiled language that I can make use of for my tools as I grew tired of Go language&rsquo;s verbosity. I tried learning Rust, but as I expected, it was more suited for system projects, and found out how much pain it could be for smaller tools due to how strict the compiler is.</p>
+
+<p>With that, I eyed for both Nim and Crystal language, with the latter prevailing as my language of choice for my personal tools. The first project I thought of using Crystal on was my image resizer CLI tool that I would use for the images that I would eventually upload to my blog(s).</p>
+
+<p>Here&rsquo;s the Github Repo of my project: <a href="https://github.com/dcefram/iresize" target="_blank">iresize</a> (tagalog word of resize something)</p>
+
+<h3 id="the-idea">The idea</h3>
+
+<p>I already had in mind a particular usecase for my tool:</p>
+
+<ul>
+<li>It should be able to resize a bunch of files inside a directory or resize a specific file</li>
+<li>It should be able to resize the image while preserving the aspect ratio IF one of the dimensions is not provided (ie. If width is only given, height should automatically scale preserving the original aspect ratio)</li>
+<li>It would be great if I can watch a folder for new files added into it, and automatically resize them and place them to the output folder.</li>
+</ul>
+
+<p>With that, the command should be like:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ iresize --input<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;./&#34;</span> --output<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;../output/&#34;</span> --height<span style="color:#f92672">=</span><span style="color:#ae81ff">720</span> --watch
+$ <span style="color:#75715e"># or the short-form of the flags
+</span><span style="color:#75715e"></span>$ iresize -I <span style="color:#e6db74">&#34;./&#34;</span> -O <span style="color:#e6db74">&#34;../output&#34;</span> -H <span style="color:#ae81ff">720</span> --watch</code></pre></div>
+<h3 id="implementation">Implementation</h3>
+
+<p>Crystal language provides tools that makes scaffolding a project really easy, similar to Rust and Nim&rsquo;s tooling: <code>crystal init app iresize #iresize is the app name</code></p>
+
+<p>The next step was to try out how Crystal handles arguments, or better yet, if they have a Flags parser in their standard library (Like Go&rsquo;s Flag library)&hellip; And yes, <a href="https://crystal-lang.org/api/0.26.1/OptionParser.html" target="_blank">they do have</a>, and a better flag parser than Go at that :)</p>
+
+<p>I thought of making the main file the Go language way (wherein the only purpose of the main file is to glue things together), wherein we usually handle CLI arguments at the entry file.</p>
+
+<p>Unlike Go, we do not need any &ldquo;main&rdquo; function, and all I did was copy paste the example code in the OptionParser API documentation to my entry file, and got everything working:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-ruby" data-lang="ruby">require <span style="color:#e6db74">&#34;option_parser&#34;</span>
+
+input_path <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;./&#34;</span>
+output_path <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;./output&#34;</span>
+height <span style="color:#f92672">=</span> <span style="color:#66d9ef">nil</span>
+width <span style="color:#f92672">=</span> <span style="color:#66d9ef">nil</span>
+watch <span style="color:#f92672">=</span> <span style="color:#66d9ef">false</span>
+
+<span style="color:#66d9ef">OptionParser</span><span style="color:#f92672">.</span>parse! <span style="color:#66d9ef">do</span> <span style="color:#f92672">|</span>parser<span style="color:#f92672">|</span>
+  parser<span style="color:#f92672">.</span>banner <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Usage: iresize [-i &lt;PATH&gt;] [-o &lt;PATH&gt;] [-h &lt;SIZE&gt;]&#34;</span>
+  parser<span style="color:#f92672">.</span>on(<span style="color:#e6db74">&#34;-I PATH&#34;</span>, <span style="color:#e6db74">&#34;--input=PATH&#34;</span>, <span style="color:#e6db74">&#34;Path to the folder filled with images, or Path to the target image&#34;</span>) { <span style="color:#f92672">|</span>path<span style="color:#f92672">|</span> input_path <span style="color:#f92672">=</span> path }
+  parser<span style="color:#f92672">.</span>on(<span style="color:#e6db74">&#34;-O PATH&#34;</span>, <span style="color:#e6db74">&#34;--output=PATH&#34;</span>, <span style="color:#e6db74">&#34;Path to the output folder&#34;</span>) { <span style="color:#f92672">|</span>path<span style="color:#f92672">|</span> output_path <span style="color:#f92672">=</span> path }
+  parser<span style="color:#f92672">.</span>on(<span style="color:#e6db74">&#34;-H SIZE&#34;</span>, <span style="color:#e6db74">&#34;--height=SIZE&#34;</span>, <span style="color:#e6db74">&#34;Target height&#34;</span>) { <span style="color:#f92672">|</span>size<span style="color:#f92672">|</span> height <span style="color:#f92672">=</span> size }
+  parser<span style="color:#f92672">.</span>on(<span style="color:#e6db74">&#34;-W SIZE&#34;</span>, <span style="color:#e6db74">&#34;--width=SIZE&#34;</span>, <span style="color:#e6db74">&#34;Target width&#34;</span>) { <span style="color:#f92672">|</span>size<span style="color:#f92672">|</span> width <span style="color:#f92672">=</span> size }
+  parser<span style="color:#f92672">.</span>on(<span style="color:#e6db74">&#34;--watch&#34;</span>, <span style="color:#e6db74">&#34;Watch folder&#34;</span>) { watch <span style="color:#f92672">=</span> <span style="color:#66d9ef">true</span> }
+  parser<span style="color:#f92672">.</span>on(<span style="color:#e6db74">&#34;-h&#34;</span>, <span style="color:#e6db74">&#34;--help&#34;</span>, <span style="color:#e6db74">&#34;Show this help&#34;</span>) { puts parser }
+<span style="color:#66d9ef">end</span>
+
+puts {
+  <span style="color:#e6db74">:input_path</span>  <span style="color:#f92672">=&gt;</span> input_path,
+  <span style="color:#e6db74">:output_path</span> <span style="color:#f92672">=&gt;</span> output_path,
+  <span style="color:#e6db74">:height</span>      <span style="color:#f92672">=&gt;</span> height,
+  <span style="color:#e6db74">:width</span>       <span style="color:#f92672">=&gt;</span> width,
+}</code></pre></div>
+<p>All looks good so far. The next step was to create a class that would consume the Hash map that contains all the needed info.</p>
+
+<p>I won&rsquo;t get into details on how I implemented the whole class, as you can check it out in the Github repository that I linked above.</p>
+
+<p>The idea was that I would have to check if <code>:input_path</code> is a directory or not by using <code>File.info(path, true)</code>. That method returns a <code>File::Type</code>, which is an Enum that has all the properties that I need:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-ruby" data-lang="ruby"><span style="color:#66d9ef">File</span><span style="color:#f92672">::</span><span style="color:#66d9ef">Type</span><span style="color:#f92672">::</span><span style="color:#66d9ef">Directory</span>
+<span style="color:#66d9ef">File</span><span style="color:#f92672">::</span><span style="color:#66d9ef">Type</span><span style="color:#f92672">::</span><span style="color:#66d9ef">File</span>
+<span style="color:#66d9ef">File</span><span style="color:#f92672">::</span><span style="color:#66d9ef">Type</span><span style="color:#f92672">::</span><span style="color:#66d9ef">Unknown</span></code></pre></div>
+<p>I return <code>File::Type::Unknown</code> for files that isn&rsquo;t either a Directory, a Symlink, or a File.</p>
+
+<p>The next step is to filter out the files that aren&rsquo;t images. All I did was create an array that holds the &ldquo;valid&rdquo; image file extensions (<code>File.extname(path)</code>), and then iterated through the files list (<code>Dir.children(path)</code>).</p>
+
+<p>Now comes the magic part&hellip; To resize the images, I used a magick wand, no really, I used <a href="https://www.imagemagick.org/api/magick-image.php" target="_blank">ImageMagick</a>. Fortunately, someone already made a Crystal language binding for that C language library: <a href="https://github.com/blocknotes/magickwand-crystal" target="_blank">magickwand-crystal</a>.</p>
+
+<p>I just glued the exposed API, which includes writing a new image.</p>
+
+<p>As for implementing the watcher, all I made use of is <code>spawn</code>, <code>blocks</code>, and a forever <code>loop</code>. I save the &ldquo;already&rdquo; processed images to an array (which is stored in the heap), but this approach does not persist when you stop the process and run it again. I might think of creating a text file as a cache? Not sure if that&rsquo;s a good idea, but I&rsquo;ll like to create something like a redis for caching stuff so that the list of processed image persists even after you end the process.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>I&rsquo;m not a Ruby developer, and even without reading a proper book aside from the official documentation, I felt that the language is easy to get into, without stripping down the language features like Go.</p>
+
+<p>The tool that I made is pretty small, so the compile times is not that big of a deal, but I am aware that this is an issue that exists within the community. However, as long as this issue is still a thing, I&rsquo;ll stick onto writing small things, and even if I experiment using this for creating the backend of a website, I would go through the microservices route.</p>
+
+<p>One thing that I think should be implemented before Crystal can be version 1 is auto scaling across multiple threads. The current exposed API of Crystal&rsquo;s green threads is quite neat, and I would like it to remain that way. It would be great if that same code would simply work out of the box once Crystal gets parallelism working.</p>
+
+    </div>
+    
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <aside><div id="disqus_thread"></div></aside>
+    <script type="text/javascript">
+      var disqus_shortname = 'dcefram';
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; <a href="http://danielcefram.com">Daniel Cefram</a> 2017</p>
+    
+  </div>
+</section>
+
+</body>
+</html>

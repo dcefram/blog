@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>Stuffs that I dislike about Go | /dump</title>
+
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+<link rel="stylesheet" href="http://blog.danielcefram.com/css/style.css"/><link rel='stylesheet' href='/css/custom.css'></head>
+<body>
+
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="site-title">
+        <h1 class="title is-4"><a class="" href="http://blog.danielcefram.com">/dump</a></h1>
+        <h4>ideas, thoughts, and rants of a software developer</h4>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile"><a class="level-item" href='mailto:dcefram@gmail.com' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+    <polyline points="22,6 12,13 2,6"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://github.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://linkedin.com/in/daniel-cefram-ramirez' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path stroke-width="1.8" d="m5.839218,4.101561c0,1.211972 -0.974141,2.194011 -2.176459,2.194011s-2.176459,-0.982039 -2.176459,-2.194011c0,-1.211094 0.974141,-2.194011 2.176459,-2.194011s2.176459,0.982917 2.176459,2.194011zm0.017552,3.94922l-4.388022,0l0,14.04167l4.388022,0l0,-14.04167zm7.005038,0l-4.359939,0l0,14.04167l4.360816,0l0,-7.370999c0,-4.098413 5.291077,-4.433657 5.291077,0l0,7.370999l4.377491,0l0,-8.89101c0,-6.915523 -7.829986,-6.66365 -9.669445,-3.259423l0,-1.891237z"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://twitter.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="subtitle is-6 is-pulled-right">
+      
+      
+<a class="tags subtitle is-6" href="/tags/golang">#Golang</a>
+
+
+
+      
+    </div>
+    <h2 class="subtitle is-6">November 4, 2017</h2>
+    <h1 class="title">Stuffs that I dislike about Go</h1>
+      
+    <div class="content">
+      
+
+<h1 id="error-handling">Error handling</h1>
+
+<p>I should admit that I used to like Go&rsquo;s idea of error handling, wherein errors are treated as values.
+I also thought that forcing developers to handle each possible error points immediately
+was a good thing, rather than moving all of the code into a <code>try</code> <code>catch</code> block.</p>
+
+<p>But recently, while working on one of our project&rsquo;s internal tools, I came to grow tired of Go&rsquo;s
+error handling. Here&rsquo;s why.</p>
+
+<h3 id="repetition">Repetition</h3>
+
+<p>While the idea of forcing developers to handle each possible error points immediately was good,
+forcing our code style to be littered with <code>if err != nil</code> isn&rsquo;t &ldquo;pretty&rdquo; or good. On my case, I had
+a function that had to use multiple functions that could return an error&hellip; And since I would
+want to throw an error (or return an error) once one of those functions fails, I was forced to
+litter my code with if statements:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">someFunc</span>() <span style="color:#66d9ef">error</span> {
+  <span style="color:#75715e">// ... Some other code
+</span><span style="color:#75715e"></span>
+  <span style="color:#a6e22e">version</span>, <span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">strconv</span>.<span style="color:#a6e22e">Atoi</span>(<span style="color:#a6e22e">ver</span>)
+
+  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
+    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">err</span>
+  }
+
+  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">version</span> <span style="color:#f92672">&gt;=</span> <span style="color:#a6e22e">someCondition</span> {
+    <span style="color:#a6e22e">version</span> = <span style="color:#a6e22e">version</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>
+  }
+
+  <span style="color:#a6e22e">file</span>, <span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">ioutit</span>.<span style="color:#a6e22e">ReadFile</span>(<span style="color:#e6db74">&#34;./some-file-&#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Sprintf</span>(<span style="color:#e6db74">&#34;%04d&#34;</span>, <span style="color:#a6e22e">version</span>))
+
+  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
+    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">err</span>
+  }
+
+  <span style="color:#a6e22e">contents</span> <span style="color:#f92672">:=</span> string(<span style="color:#a6e22e">file</span>)
+  <span style="color:#a6e22e">contents</span> = <span style="color:#a6e22e">strings</span>.<span style="color:#a6e22e">Replace</span>(<span style="color:#a6e22e">contents</span>, <span style="color:#e6db74">&#34;some-string&#34;</span>, <span style="color:#a6e22e">someString</span>, <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>)
+
+  <span style="color:#a6e22e">err</span> = <span style="color:#a6e22e">ioutil</span>.<span style="color:#a6e22e">WriteFile</span>(<span style="color:#e6db74">&#34;./some-file-&#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Sprintf</span>(<span style="color:#e6db74">&#34;%04d&#34;</span>, <span style="color:#a6e22e">version</span>),[]byte(<span style="color:#a6e22e">contents</span>), <span style="color:#a6e22e">os</span>.<span style="color:#a6e22e">ModePerm</span>)
+
+  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
+    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">err</span>
+  }
+
+  <span style="color:#75715e">// Rest of the code
+</span><span style="color:#75715e"></span>}</code></pre></div>
+<p>Now, imagine that you also have other functions that you would call that also returns an error if it
+fails&hellip; You would want to handle those too, and in no time, your code will be littered with
+<code>if err != nil</code>.</p>
+
+<p>It would&rsquo;ve been better if we could at least have a ternary operator in golang, so that it would
+be a little &ldquo;neater&rdquo;.</p>
+
+<p>But what would be really neater is if Go had <code>try</code> <code>catch</code>&hellip;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">someFunc</span>() <span style="color:#66d9ef">error</span> {
+  <span style="color:#75715e">// ... Some other code
+</span><span style="color:#75715e"></span>
+  <span style="color:#a6e22e">try</span> {
+    <span style="color:#a6e22e">version</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">strconv</span>.<span style="color:#a6e22e">Atoi</span>(<span style="color:#a6e22e">ver</span>)
+
+    <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">version</span> <span style="color:#f92672">&gt;=</span> <span style="color:#a6e22e">someCondition</span> {
+      <span style="color:#a6e22e">version</span> = <span style="color:#a6e22e">version</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>
+    }
+
+    <span style="color:#a6e22e">file</span> = <span style="color:#a6e22e">ioutit</span>.<span style="color:#a6e22e">ReadFile</span>(<span style="color:#e6db74">&#34;./some-file-&#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Sprintf</span>(<span style="color:#e6db74">&#34;%04d&#34;</span>, <span style="color:#a6e22e">version</span>))
+
+    <span style="color:#a6e22e">contents</span> <span style="color:#f92672">:=</span> string(<span style="color:#a6e22e">file</span>)
+    <span style="color:#a6e22e">contents</span> = <span style="color:#a6e22e">strings</span>.<span style="color:#a6e22e">Replace</span>(<span style="color:#a6e22e">contents</span>, <span style="color:#e6db74">&#34;some-string&#34;</span>, <span style="color:#a6e22e">someString</span>, <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>)
+
+    <span style="color:#a6e22e">ioutil</span>.<span style="color:#a6e22e">WriteFile</span>(<span style="color:#e6db74">&#34;./some-file-&#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Sprintf</span>(<span style="color:#e6db74">&#34;%04d&#34;</span>, <span style="color:#a6e22e">version</span>),[]byte(<span style="color:#a6e22e">contents</span>), <span style="color:#a6e22e">os</span>.<span style="color:#a6e22e">ModePerm</span>)
+  } <span style="color:#a6e22e">catch</span> (<span style="color:#66d9ef">error</span>) {
+    <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">error</span>
+  }
+
+  <span style="color:#75715e">// Rest of the code
+</span><span style="color:#75715e"></span>}</code></pre></div>
+<p>I find it easier to debug errors caught in the <code>catch</code> block in other languages, since errors caught
+there would also return the line number and column where the error was thrown.</p>
+
+<h1 id="import-paths">Import paths</h1>
+
+<p>Go&rsquo;s <code>import</code> looks really cool and straightforward. It&rsquo;s easy to know where to look in case you are
+debugging a 3rd party library that you used in your project. There are plenty of articles though that
+point out the pitfalls of Go&rsquo;s dependency model, but with <a href="https://github.com/golang/dep" target="_blank">dep</a>, the
+version issue which is Go&rsquo;s weakness is well addressed.</p>
+
+<p>However, what is not addressed is how sub packages are handled. Go does not have any way to <code>import</code>
+a package using relative paths, and this makes it a pain to fork and contribute to 3rd party Go packages.</p>
+
+<p>The reason being is that when you fork a project, and use <code>go get</code>, you would end up having a path
+that uses your repo&rsquo;s path (ex: <code>$GOPATH/src/github.com/&lt;YourUser&gt;/&lt;ForkedLibary&gt;</code>). Now, if that
+library imports some of its own sub packages between different source files, you would need to manually
+update them in order for it to work&hellip; and before pushing, you&rsquo;ll have to remember to revert all
+your updated <code>import</code>s so that it could be pulled back to the original repository.</p>
+
+<p>If Go supports relative <code>import</code> paths, contributing to 3rd party libraries could have been less tedious.</p>
+
+    </div>
+    
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <aside><div id="disqus_thread"></div></aside>
+    <script type="text/javascript">
+      var disqus_shortname = 'dcefram';
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; <a href="http://danielcefram.com">Daniel Cefram</a> 2017</p>
+    
+  </div>
+</section>
+
+</body>
+</html>

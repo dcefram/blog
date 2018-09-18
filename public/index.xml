@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>/dump</title>
+    <link>http://blog.danielcefram.com/</link>
+    <description>Recent content on /dump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;http://danielcefram.com&#34;&gt;Daniel Cefram&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Tue, 18 Sep 2018 09:31:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.danielcefram.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Resizing in CLI</title>
+      <link>http://blog.danielcefram.com/blog/image-resizing-cli/</link>
+      <pubDate>Tue, 18 Sep 2018 09:31:25 +0800</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/image-resizing-cli/</guid>
+      <description>For the past few weeks, I was looking for a new compiled language that I can make use of for my tools as I grew tired of Go language&amp;rsquo;s verbosity. I tried learning Rust, but as I expected, it was more suited for system projects, and found out how much pain it could be for smaller tools due to how strict the compiler is.
+With that, I eyed for both Nim and Crystal language, with the latter prevailing as my language of choice for my personal tools.</description>
+    </item>
+    
+    <item>
+      <title>Stuffs that I dislike about Go</title>
+      <link>http://blog.danielcefram.com/blog/stuffs-that-i-dislike-about-go/</link>
+      <pubDate>Sat, 04 Nov 2017 21:31:38 +0800</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/stuffs-that-i-dislike-about-go/</guid>
+      <description>Error handling I should admit that I used to like Go&amp;rsquo;s idea of error handling, wherein errors are treated as values. I also thought that forcing developers to handle each possible error points immediately was a good thing, rather than moving all of the code into a try catch block.
+But recently, while working on one of our project&amp;rsquo;s internal tools, I came to grow tired of Go&amp;rsquo;s error handling.</description>
+    </item>
+    
+    <item>
+      <title>Installing Sublime in OpenSUSE</title>
+      <link>http://blog.danielcefram.com/blog/installing-sublime-in-opensuse/</link>
+      <pubDate>Sat, 16 Sep 2017 16:21:10 +0800</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/installing-sublime-in-opensuse/</guid>
+      <description>My daily driver nowadays is Gogland , and I sometimes use VSCode if ever I need to open 2 or more projects at the same time (Gogland eats up way too much RAM).
+In my previous post, I stated that I switched to VSCode away from Sublime, but since Gogland got better JS support, like configuring the root path so that it would match how my webpack config handles import paths, and with the fact that Gogland got better tooling when it came to coding in Go Language, I&amp;rsquo;m now using it as my primary editor.</description>
+    </item>
+    
+    <item>
+      <title>Alternative to dangerously set inner html in React</title>
+      <link>http://blog.danielcefram.com/blog/alternative-to-dangerouslysetinnerhtml/</link>
+      <pubDate>Wed, 13 Sep 2017 00:34:15 +0800</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/alternative-to-dangerouslysetinnerhtml/</guid>
+      <description>Scenarios wherein you need to render a string with html tags in it would still require you to use dangerouslySetInnerHTML&amp;hellip; so if your problem is as such, then I guess there&amp;rsquo;s still no better way to parse strings with html tags.
+As for scenarios wherein we would need to pass a content to a reusable component through attributes, then this would work. A simple example might help right?
+The scenario In this example, we&amp;rsquo;ll be using ReactTooltip as our reusable component.</description>
+    </item>
+    
+    <item>
+      <title>Migrated to Hugo</title>
+      <link>http://blog.danielcefram.com/blog/migrated-to-hugo/</link>
+      <pubDate>Mon, 11 Sep 2017 14:46:53 +0800</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/migrated-to-hugo/</guid>
+      <description>I&amp;rsquo;ve been using Ghost for quite sometime already, and my only opensource project in github that was starred by non-collegues is a Ghost theme that I made for my blog. But times has changed, which some of you who are avid readers of my blog might have noticed, my financial situation requires me to be a little more stringent&amp;hellip; which also meant that I had to downgrade my VPS.
+Ghost did well as a blogging platform, but the reasources it consumed, particularly RAM, was just too much.</description>
+    </item>
+    
+    <item>
+      <title>Update on my Go Language self study</title>
+      <link>http://blog.danielcefram.com/blog/update-on-my-go-language-self-study/</link>
+      <pubDate>Thu, 03 Aug 2017 08:20:07 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/update-on-my-go-language-self-study/</guid>
+      <description>So I&amp;rsquo;ve been busy lately that I wasn&amp;rsquo;t able to update anything in my blog. I&amp;rsquo;ve just refreshed all the exercises in the Tour of Go except for the web crawler.
+Here&amp;rsquo;s the link: https://github.com/dcefram/go-learn/tree/master/tour
+I also tried learning a little web development by following the web development tutorial in Go&amp;rsquo;s official docs. Here&amp;rsquo;s what I built: https://github.com/dcefram/gowiki
+My next stop is to refresh my knowledge in Gin, and start building a generic web platform for posting &amp;ldquo;tutorials&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Learning Go: Fourth Exercise</title>
+      <link>http://blog.danielcefram.com/blog/learning-go-fourth-exercise/</link>
+      <pubDate>Sat, 22 Jul 2017 07:10:33 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/learning-go-fourth-exercise/</guid>
+      <description>The fourth exercise is all about function closures. We&amp;rsquo;re tasked to create a Fibonacci function using function closures.
+Here&amp;rsquo;s the link: https://tour.golang.org/moretypes/26
+package main import &amp;#34;fmt&amp;#34; // fibonacci is a function that returns // a function that returns an int. func fibonacci() func() int { cur, next := 1, 0 return func() int { cur, next = next, cur+next return cur } } func main() { f := fibonacci() for i := 0; i &amp;lt; 10; i++ { fmt.</description>
+    </item>
+    
+    <item>
+      <title>Learning Go: Third Exercise</title>
+      <link>http://blog.danielcefram.com/blog/learning-go-third-exercise/</link>
+      <pubDate>Sat, 22 Jul 2017 06:20:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/learning-go-third-exercise/</guid>
+      <description>The third exercise is all about maps. We&amp;rsquo;ll need to count the number of times a word has occurred in a sentence.
+Here&amp;rsquo;s the link: https://tour.golang.org/moretypes/23
+package main import ( &amp;#34;golang.org/x/tour/wc&amp;#34; &amp;#34;strings&amp;#34; ) func WordCount(s string) map[string]int { words := strings.Fields(s) result := make(map[string]int) for _, word := range words { result[word]++ } return result } func main() { wc.Test(WordCount) } Since if the key is not present in the map, its value is always 0 instead of undefined.</description>
+    </item>
+    
+    <item>
+      <title>Learning Go: Second Exercise</title>
+      <link>http://blog.danielcefram.com/blog/learning-go-second-exercise/</link>
+      <pubDate>Fri, 21 Jul 2017 06:00:06 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/learning-go-second-exercise/</guid>
+      <description>Today&amp;rsquo;s exercise is all about slices. We&amp;rsquo;ll need to generate an image by passing a slice of slices to pic.Show.
+Here&amp;rsquo;s the link: https://tour.golang.org/moretypes/18
+package main import &amp;#34;golang.org/x/tour/pic&amp;#34; func Pic(dx, dy int) [][]uint8 { slice := make([][]uint8, dy) for fIndex := range slice { slice[fIndex] = make([]uint8, dx) for sIndex := range slice[fIndex] { slice[fIndex][sIndex] = uint8(fIndex ^ sIndex) } } return slice } func main() { pic.Show(Pic) } Quite simple&amp;hellip; I did learn something new too.</description>
+    </item>
+    
+    <item>
+      <title>Learning Go: First Exercise</title>
+      <link>http://blog.danielcefram.com/blog/learning-go-first-excersise/</link>
+      <pubDate>Thu, 20 Jul 2017 11:57:16 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/learning-go-first-excersise/</guid>
+      <description>I decided to blog my self study adventures in learning Go. I&amp;rsquo;ll start with A Tour of Go&amp;rsquo;s exercises and then follow through my own personal small project, probably a blogging platform that reads markdown files.
+I already did this, and have my go-learn self study codes in github, but I decided to do all of the exercises again after a couple of months not using Go since I was studying Rust.</description>
+    </item>
+    
+    <item>
+      <title>Six months in</title>
+      <link>http://blog.danielcefram.com/blog/six-months-in/</link>
+      <pubDate>Thu, 20 Jul 2017 06:02:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/six-months-in/</guid>
+      <description>I&amp;rsquo;m writing this blog post quite late, but I&amp;rsquo;ll try to recall the outstanding events for this month.
+Regional Assembly Day(s) We attended our first Regional Assembly together this month, and the topics were really good. The video drama however was what I would call &amp;ldquo;outstanding&amp;rdquo;. It &amp;rsquo;s something that my fragile brain (ie. I have bad memory) could easily remember&amp;hellip; even the line of one of the PoV (Point of View character) who said &amp;ldquo;Pag nabenta ko na ito, mabibili na namin ang apartment na gusto namin&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>The Fifth</title>
+      <link>http://blog.danielcefram.com/blog/the-fifth/</link>
+      <pubDate>Sat, 17 Jun 2017 08:09:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/the-fifth/</guid>
+      <description>Quick update about our fifth month together.
+A visit to the Chiropractor I experienced two seizures this month, one was when I was driving back to work and the the other was during one of the midweek meetings wherein I had an assignment. It was quite embarrassing to be honest since I did make a scene at the kingdom hall XD.
+We already went to multiple doctors, but we were not able to get any definitive reason as to why my migraine occurs, and as to why does it go into such an extent that I experience seizures&amp;hellip; So we decided to try out chiropractic.</description>
+    </item>
+    
+    <item>
+      <title>My notes in setting up Arch</title>
+      <link>http://blog.danielcefram.com/blog/my-notes-in-setting-up-arch/</link>
+      <pubDate>Mon, 29 May 2017 06:26:05 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/my-notes-in-setting-up-arch/</guid>
+      <description>I&amp;rsquo;m aware that there are many many articles on how to setup Arch Linux, with the official Wiki as the best one to check out first.
+I just documented my experience on setting up Arch with the objective that I should be able replicate the same setup and environment on other Computers if needed.
+Install Reflector This is so that we would use the fastest server in our mirrorlist</description>
+    </item>
+    
+    <item>
+      <title>May the Fourth be with... us</title>
+      <link>http://blog.danielcefram.com/blog/may-the-fourth-be-with-us/</link>
+      <pubDate>Wed, 17 May 2017 05:57:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/may-the-fourth-be-with-us/</guid>
+      <description>It is the fourth month of being together! &amp;lt;3
+It&amp;rsquo;s been a busy month, and a really stressful one (financially). But let me break it down the usual way :)
+Certification exams and their awful exam system So, my wife was sent to Singapore by her company to take important certification exam which I believe would propel her worth in the company by a mile :D The cool part is&amp;hellip; she didn&amp;rsquo;t even review well, in that I mean, I saw her review only once.</description>
+    </item>
+    
+    <item>
+      <title>When distro hopping...</title>
+      <link>http://blog.danielcefram.com/blog/when-distro-hopping/</link>
+      <pubDate>Mon, 24 Apr 2017 11:21:03 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/when-distro-hopping/</guid>
+      <description>So I&amp;rsquo;ve been distro hopping for the past couple of weeks, and I always googled how to format my boot drive and then write an ISO to my flash drive as bootable (boot-able, I&amp;rsquo;m getting a wrong spelling indicator with the &amp;ldquo;bootable&amp;rdquo; word XD) USB drive. Since I did that very frequently lately, I thought of just adding a blog post that would serve as my notes/reminder.
+Formatting Boot-able USB You won&amp;rsquo;t be able to detect a boot-able flash drive in Linux (ie.</description>
+    </item>
+    
+    <item>
+      <title>Three for thought</title>
+      <link>http://blog.danielcefram.com/blog/three-for-thought/</link>
+      <pubDate>Mon, 17 Apr 2017 05:41:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/three-for-thought/</guid>
+      <description>We just entered the 3rd month of being together, and a lot has happened, both positive and negative. I&amp;rsquo;ll start off with the positive:
+Successful JW Broadcasting We just hosted our group&amp;rsquo;s broadcasting for this month, and everything went smoothly. What I like about it being hosted on our place is that we were sure to watch the broadcasting of the month :)
+
+The second broadcasting within the month&amp;rsquo;s time period wasn&amp;rsquo;t hosted on our place, but we still went.</description>
+    </item>
+    
+    <item>
+      <title>Looping in successive order with Async calls</title>
+      <link>http://blog.danielcefram.com/blog/looping-in-successive-order-with-async-calls/</link>
+      <pubDate>Sat, 25 Mar 2017 07:38:14 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/looping-in-successive-order-with-async-calls/</guid>
+      <description>Let&amp;rsquo;s first define an example problem to better understand the issue we have with normal looping:
+For example, we have an array of post IDs that we would fetch and then print it out on the console
+const ids = [1, 2, 3, 4]; for (var id of ids) { fetch(`${API_URL}/${id}`).then(() =&amp;gt; { console.log(id, response.results); }); }  The output of the above code would be different results with the same id, wherein the id printed would be the last number</description>
+    </item>
+    
+    <item>
+      <title>The second month in one roof</title>
+      <link>http://blog.danielcefram.com/blog/the-second-month-in-one-roof/</link>
+      <pubDate>Sat, 18 Mar 2017 15:40:54 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/the-second-month-in-one-roof/</guid>
+      <description>As workaholics, our second month was a busy one. Nevertheless, we were able to squeeze in some quality time together&amp;hellip; which we would like to document on this blog :D
+The TV We finally bought a television this month, courtesy of our friend Sheryl. She lent us her credit card since Abenson got a &amp;ldquo;0% interest rate on installment&amp;rdquo; promo for HSBC cardholders, so we thought about taking advantage of that.</description>
+    </item>
+    
+    <item>
+      <title>Easily turn your app to Progressive Web Apps through webpack plugins</title>
+      <link>http://blog.danielcefram.com/blog/easily-turn-your-app-to-progressive-web-apps-through-webpack-plugins/</link>
+      <pubDate>Sat, 18 Mar 2017 03:26:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/easily-turn-your-app-to-progressive-web-apps-through-webpack-plugins/</guid>
+      <description>If ever we wanted our WebApp available even if the user does not have any internet connection, we would need to use service workers. But the thing with service workers is that they&amp;rsquo;re not &amp;ldquo;easy&amp;rdquo; to implement. It&amp;rsquo;s a good thing though that the GoogleChrome team released a node module that would generate the service worker code for your project: sw-precache.
+You can use that node module in your gulp file when building/bundling your app.</description>
+    </item>
+    
+    <item>
+      <title>Why I switched to Visual Studio Code</title>
+      <link>http://blog.danielcefram.com/blog/why-i-switched-to-visual-studio-code/</link>
+      <pubDate>Fri, 10 Mar 2017 18:18:14 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/why-i-switched-to-visual-studio-code/</guid>
+      <description>I used to be a Sublime Text user, and used to always go back to Sublime after trying out other editors. I actually bought a license for $70 even though I could do away without it. I bought it to encourage the developers to keep on improving Sublime.
+But Sublime&amp;rsquo;s development seems to be slow, but at least it is stable. The only caveat is that some of the plugins isn&amp;rsquo;t working as intended (ie.</description>
+    </item>
+    
+    <item>
+      <title>Responsive web designs through EQCSS</title>
+      <link>http://blog.danielcefram.com/blog/responsive-web-designs-through-eqcss/</link>
+      <pubDate>Sat, 04 Mar 2017 08:13:23 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/responsive-web-designs-through-eqcss/</guid>
+      <description>EQCSS allows us to style elements based on the element&amp;rsquo;s state. It is similar to CSS&amp;rsquo; media queries, but with the added feature to style elements based on the element&amp;rsquo;s dimension and contents, and not just based on the browser&amp;rsquo;s width and height.
+This got me interested since my previous project&amp;rsquo;s longstanding issue was with how the app should look like based on a combination of two factors: The window&amp;rsquo;s size and the number of elements inside the container.</description>
+    </item>
+    
+    <item>
+      <title>Using JSON parse and stringify to clone objects</title>
+      <link>http://blog.danielcefram.com/blog/object-assign-vs-json-parse/</link>
+      <pubDate>Sat, 25 Feb 2017 05:50:12 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/object-assign-vs-json-parse/</guid>
+      <description>Immutability is important. The stackoverflow article that I just linked would explain why immutability is important.
+I am accustomed to using Immutable.js at work, but when I came across an ancient project that didn&amp;rsquo;t make sense to add a new library just for using immutable objects, I had to resort to Object.assign.
+But the problem with Object.assign though is that you cannot use it to modify deep properties.
+Take this for example:</description>
+    </item>
+    
+    <item>
+      <title>Using datasets to avoid inline arrow functions</title>
+      <link>http://blog.danielcefram.com/blog/using-datasets-to-avoid-inline-arrow-functions/</link>
+      <pubDate>Sat, 18 Feb 2017 08:10:44 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/using-datasets-to-avoid-inline-arrow-functions/</guid>
+      <description>Adding an inline anonymous/arrow function in React is not recommended due to the nature of how react behaves. The render method would always be called each time a state or property is updated, which would then create a new function if we are using inline arrow functions, and then this would force the GC (garbage collector) to clean the previous arrow function.
+render() { // Not good :\  return &amp;lt;div onClick={e =&amp;gt; console.</description>
+    </item>
+    
+    <item>
+      <title>The first month of our journey</title>
+      <link>http://blog.danielcefram.com/blog/the-first-month-of-our-journey/</link>
+      <pubDate>Thu, 16 Feb 2017 16:00:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/the-first-month-of-our-journey/</guid>
+      <description>#breakfastdiary, schedule adjustments, cash burn
+The three keywords that sticks out for our first month together :D
+breakfastdiary We started to document our mornings with an instagram post of what we eat during breakfast. It&amp;rsquo;s more of a &amp;lsquo;record&amp;rsquo; just to keep track of what to cook next ;)
+I still hope that we would be able to continue it and make #breakfastdiary a thing even though we weren&amp;rsquo;t able to continue doing so for the past week or so due to our tight work schedule.</description>
+    </item>
+    
+    <item>
+      <title>When we tie the knot</title>
+      <link>http://blog.danielcefram.com/blog/when-we-tie-the-knot/</link>
+      <pubDate>Tue, 17 Jan 2017 10:10:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/when-we-tie-the-knot/</guid>
+      <description>Wedding. It&amp;rsquo;s my wedding day today.
+To be honest, I am writing this blog post way past my actual wedding day, and through the power of editing the post date&amp;hellip; the blog post will appear as if I published this post at the day of my wedding :D
+This is obviously a big milestone for us, and the fact that I now have somebody to travel with me on this journey of uncertainties makes things a little settling.</description>
+    </item>
+    
+    <item>
+      <title>A New Start</title>
+      <link>http://blog.danielcefram.com/blog/a-new-start/</link>
+      <pubDate>Sun, 01 Jan 2017 07:49:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/a-new-start/</guid>
+      <description>I decided to restart my blog yet again, and this time I&amp;rsquo;m planning to just document my thoughts at least every month. I&amp;rsquo;m looking forward to getting this goal done, specially with the fact that I&amp;rsquo;m getting married in 2~3 weeks time!&amp;hellip; Which means that I might actually have more things to write about :D
+A lot has happened since last year. I clocked a lot of extra hours of work, for the preparation of my wedding.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on /dump</title>
+    <link>http://blog.danielcefram.com/tags/golang/</link>
+    <description>Recent content in Golang on /dump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;http://danielcefram.com&#34;&gt;Daniel Cefram&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Sat, 04 Nov 2017 21:31:38 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.danielcefram.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stuffs that I dislike about Go</title>
+      <link>http://blog.danielcefram.com/blog/stuffs-that-i-dislike-about-go/</link>
+      <pubDate>Sat, 04 Nov 2017 21:31:38 +0800</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/stuffs-that-i-dislike-about-go/</guid>
+      <description>Error handling I should admit that I used to like Go&amp;rsquo;s idea of error handling, wherein errors are treated as values. I also thought that forcing developers to handle each possible error points immediately was a good thing, rather than moving all of the code into a try catch block.
+But recently, while working on one of our project&amp;rsquo;s internal tools, I came to grow tired of Go&amp;rsquo;s error handling.</description>
+    </item>
+    
+    <item>
+      <title>Update on my Go Language self study</title>
+      <link>http://blog.danielcefram.com/blog/update-on-my-go-language-self-study/</link>
+      <pubDate>Thu, 03 Aug 2017 08:20:07 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/update-on-my-go-language-self-study/</guid>
+      <description>So I&amp;rsquo;ve been busy lately that I wasn&amp;rsquo;t able to update anything in my blog. I&amp;rsquo;ve just refreshed all the exercises in the Tour of Go except for the web crawler.
+Here&amp;rsquo;s the link: https://github.com/dcefram/go-learn/tree/master/tour
+I also tried learning a little web development by following the web development tutorial in Go&amp;rsquo;s official docs. Here&amp;rsquo;s what I built: https://github.com/dcefram/gowiki
+My next stop is to refresh my knowledge in Gin, and start building a generic web platform for posting &amp;ldquo;tutorials&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Learning Go: Fourth Exercise</title>
+      <link>http://blog.danielcefram.com/blog/learning-go-fourth-exercise/</link>
+      <pubDate>Sat, 22 Jul 2017 07:10:33 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/learning-go-fourth-exercise/</guid>
+      <description>The fourth exercise is all about function closures. We&amp;rsquo;re tasked to create a Fibonacci function using function closures.
+Here&amp;rsquo;s the link: https://tour.golang.org/moretypes/26
+package main import &amp;#34;fmt&amp;#34; // fibonacci is a function that returns // a function that returns an int. func fibonacci() func() int { cur, next := 1, 0 return func() int { cur, next = next, cur+next return cur } } func main() { f := fibonacci() for i := 0; i &amp;lt; 10; i++ { fmt.</description>
+    </item>
+    
+    <item>
+      <title>Learning Go: Third Exercise</title>
+      <link>http://blog.danielcefram.com/blog/learning-go-third-exercise/</link>
+      <pubDate>Sat, 22 Jul 2017 06:20:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/learning-go-third-exercise/</guid>
+      <description>The third exercise is all about maps. We&amp;rsquo;ll need to count the number of times a word has occurred in a sentence.
+Here&amp;rsquo;s the link: https://tour.golang.org/moretypes/23
+package main import ( &amp;#34;golang.org/x/tour/wc&amp;#34; &amp;#34;strings&amp;#34; ) func WordCount(s string) map[string]int { words := strings.Fields(s) result := make(map[string]int) for _, word := range words { result[word]++ } return result } func main() { wc.Test(WordCount) } Since if the key is not present in the map, its value is always 0 instead of undefined.</description>
+    </item>
+    
+    <item>
+      <title>Learning Go: Second Exercise</title>
+      <link>http://blog.danielcefram.com/blog/learning-go-second-exercise/</link>
+      <pubDate>Fri, 21 Jul 2017 06:00:06 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/learning-go-second-exercise/</guid>
+      <description>Today&amp;rsquo;s exercise is all about slices. We&amp;rsquo;ll need to generate an image by passing a slice of slices to pic.Show.
+Here&amp;rsquo;s the link: https://tour.golang.org/moretypes/18
+package main import &amp;#34;golang.org/x/tour/pic&amp;#34; func Pic(dx, dy int) [][]uint8 { slice := make([][]uint8, dy) for fIndex := range slice { slice[fIndex] = make([]uint8, dx) for sIndex := range slice[fIndex] { slice[fIndex][sIndex] = uint8(fIndex ^ sIndex) } } return slice } func main() { pic.Show(Pic) } Quite simple&amp;hellip; I did learn something new too.</description>
+    </item>
+    
+    <item>
+      <title>Learning Go: First Exercise</title>
+      <link>http://blog.danielcefram.com/blog/learning-go-first-excersise/</link>
+      <pubDate>Thu, 20 Jul 2017 11:57:16 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/learning-go-first-excersise/</guid>
+      <description>I decided to blog my self study adventures in learning Go. I&amp;rsquo;ll start with A Tour of Go&amp;rsquo;s exercises and then follow through my own personal small project, probably a blogging platform that reads markdown files.
+I already did this, and have my go-learn self study codes in github, but I decided to do all of the exercises again after a couple of months not using Go since I was studying Rust.</description>
+    </item>
+    
+  </channel>
+</rss>

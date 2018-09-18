@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geek Ism on /dump</title>
+    <link>http://blog.danielcefram.com/tags/geek-ism/</link>
+    <description>Recent content in Geek Ism on /dump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;http://danielcefram.com&#34;&gt;Daniel Cefram&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Sat, 16 Sep 2017 16:21:10 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.danielcefram.com/tags/geek-ism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installing Sublime in OpenSUSE</title>
+      <link>http://blog.danielcefram.com/blog/installing-sublime-in-opensuse/</link>
+      <pubDate>Sat, 16 Sep 2017 16:21:10 +0800</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/installing-sublime-in-opensuse/</guid>
+      <description>My daily driver nowadays is Gogland , and I sometimes use VSCode if ever I need to open 2 or more projects at the same time (Gogland eats up way too much RAM).
+In my previous post, I stated that I switched to VSCode away from Sublime, but since Gogland got better JS support, like configuring the root path so that it would match how my webpack config handles import paths, and with the fact that Gogland got better tooling when it came to coding in Go Language, I&amp;rsquo;m now using it as my primary editor.</description>
+    </item>
+    
+    <item>
+      <title>My notes in setting up Arch</title>
+      <link>http://blog.danielcefram.com/blog/my-notes-in-setting-up-arch/</link>
+      <pubDate>Mon, 29 May 2017 06:26:05 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/my-notes-in-setting-up-arch/</guid>
+      <description>I&amp;rsquo;m aware that there are many many articles on how to setup Arch Linux, with the official Wiki as the best one to check out first.
+I just documented my experience on setting up Arch with the objective that I should be able replicate the same setup and environment on other Computers if needed.
+Install Reflector This is so that we would use the fastest server in our mirrorlist</description>
+    </item>
+    
+    <item>
+      <title>When distro hopping...</title>
+      <link>http://blog.danielcefram.com/blog/when-distro-hopping/</link>
+      <pubDate>Mon, 24 Apr 2017 11:21:03 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/when-distro-hopping/</guid>
+      <description>So I&amp;rsquo;ve been distro hopping for the past couple of weeks, and I always googled how to format my boot drive and then write an ISO to my flash drive as bootable (boot-able, I&amp;rsquo;m getting a wrong spelling indicator with the &amp;ldquo;bootable&amp;rdquo; word XD) USB drive. Since I did that very frequently lately, I thought of just adding a blog post that would serve as my notes/reminder.
+Formatting Boot-able USB You won&amp;rsquo;t be able to detect a boot-able flash drive in Linux (ie.</description>
+    </item>
+    
+    <item>
+      <title>Why I switched to Visual Studio Code</title>
+      <link>http://blog.danielcefram.com/blog/why-i-switched-to-visual-studio-code/</link>
+      <pubDate>Fri, 10 Mar 2017 18:18:14 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/why-i-switched-to-visual-studio-code/</guid>
+      <description>I used to be a Sublime Text user, and used to always go back to Sublime after trying out other editors. I actually bought a license for $70 even though I could do away without it. I bought it to encourage the developers to keep on improving Sublime.
+But Sublime&amp;rsquo;s development seems to be slow, but at least it is stable. The only caveat is that some of the plugins isn&amp;rsquo;t working as intended (ie.</description>
+    </item>
+    
+  </channel>
+</rss>
