@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on /dump</title>
+    <link>http://blog.danielcefram.com/tags/personal/</link>
+    <description>Recent content in Personal on /dump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;http://danielcefram.com&#34;&gt;Daniel Cefram&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Mon, 11 Sep 2017 14:46:53 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.danielcefram.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrated to Hugo</title>
+      <link>http://blog.danielcefram.com/blog/migrated-to-hugo/</link>
+      <pubDate>Mon, 11 Sep 2017 14:46:53 +0800</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/migrated-to-hugo/</guid>
+      <description>I&amp;rsquo;ve been using Ghost for quite sometime already, and my only opensource project in github that was starred by non-collegues is a Ghost theme that I made for my blog. But times has changed, which some of you who are avid readers of my blog might have noticed, my financial situation requires me to be a little more stringent&amp;hellip; which also meant that I had to downgrade my VPS.
+Ghost did well as a blogging platform, but the reasources it consumed, particularly RAM, was just too much.</description>
+    </item>
+    
+    <item>
+      <title>A New Start</title>
+      <link>http://blog.danielcefram.com/blog/a-new-start/</link>
+      <pubDate>Sun, 01 Jan 2017 07:49:00 +0000</pubDate>
+      
+      <guid>http://blog.danielcefram.com/blog/a-new-start/</guid>
+      <description>I decided to restart my blog yet again, and this time I&amp;rsquo;m planning to just document my thoughts at least every month. I&amp;rsquo;m looking forward to getting this goal done, specially with the fact that I&amp;rsquo;m getting married in 2~3 weeks time!&amp;hellip; Which means that I might actually have more things to write about :D
+A lot has happened since last year. I clocked a lot of extra hours of work, for the preparation of my wedding.</description>
+    </item>
+    
+  </channel>
+</rss>

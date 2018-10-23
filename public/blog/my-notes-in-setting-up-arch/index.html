@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>My notes in setting up Arch | /dump</title>
+
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+<link rel="stylesheet" href="http://blog.danielcefram.com/css/style.css"/><link rel='stylesheet' href='/css/custom.css'></head>
+<body>
+
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="site-title">
+        <h1 class="title is-4"><a class="" href="http://blog.danielcefram.com">/dump</a></h1>
+        <h4>ideas, thoughts, and rants of a software developer</h4>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile"><a class="level-item" href='mailto:dcefram@gmail.com' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+    <polyline points="22,6 12,13 2,6"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://github.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://linkedin.com/in/daniel-cefram-ramirez' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path stroke-width="1.8" d="m5.839218,4.101561c0,1.211972 -0.974141,2.194011 -2.176459,2.194011s-2.176459,-0.982039 -2.176459,-2.194011c0,-1.211094 0.974141,-2.194011 2.176459,-2.194011s2.176459,0.982917 2.176459,2.194011zm0.017552,3.94922l-4.388022,0l0,14.04167l4.388022,0l0,-14.04167zm7.005038,0l-4.359939,0l0,14.04167l4.360816,0l0,-7.370999c0,-4.098413 5.291077,-4.433657 5.291077,0l0,7.370999l4.377491,0l0,-8.89101c0,-6.915523 -7.829986,-6.66365 -9.669445,-3.259423l0,-1.891237z"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://twitter.com/dcefram' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="subtitle is-6 is-pulled-right">
+      
+      
+<a class="tags subtitle is-6" href="/tags/geek-ism">#Geek-ism</a>
+
+
+
+      
+    </div>
+    <h2 class="subtitle is-6">May 29, 2017</h2>
+    <h1 class="title">My notes in setting up Arch</h1>
+      
+    <div class="content">
+      
+
+<p>I&rsquo;m aware that there are many many articles on how to setup Arch Linux, with the official Wiki as the best one to check out first.</p>
+
+<p>I just documented my experience on setting up Arch with the objective that I should be able replicate the same setup and environment on other Computers if needed.</p>
+
+<h3 id="install-reflector">Install Reflector</h3>
+
+<p>This is so that we would use the fastest server in our mirrorlist</p>
+
+<pre><code>pacman -Syy
+pacman -S reflector
+</code></pre>
+
+<p>After installation:</p>
+
+<pre><code>reflector -c &quot;Philippines&quot; -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist
+</code></pre>
+
+<h3 id="partition-the-hard-drive">Partition the Hard drive</h3>
+
+<p>To check the current partition/hard drives</p>
+
+<pre><code>fdisk -l
+</code></pre>
+
+<p>To partition the disk, wherein <code>/dev/sda</code> is the actual path of the disk as stated in <code>fdisk -l</code></p>
+
+<pre><code>chdisk /dev/sda
+</code></pre>
+
+<p>If ever we&rsquo;re going to have only Arch in the machine, then it&rsquo;s safe to delete whatever partition there is and then create a new one. Make it primary and bootable. Don&rsquo;t forget to Write the changes before quitting.</p>
+
+<p>Your partition would most likely be <code>/dev/sda1</code>, but just to make sure, use <code>fdisk -l</code> again to list all your disks and partitions.</p>
+
+<p>We&rsquo;ll have to change the filesystem of the partition. To do that, execute the following:</p>
+
+<pre><code>mkfs.ext4 /dev/sda1
+</code></pre>
+
+<h3 id="mount-the-hard-drive">Mount the Hard drive</h3>
+
+<pre><code>mount /dev/sda1 /mnt
+</code></pre>
+
+<p>Verify the drive that we mounted</p>
+
+<pre><code>lsblk
+</code></pre>
+
+<h3 id="install-the-base-system">Install the base system</h3>
+
+<pre><code>pacstrap -i /mnt base base-devel
+</code></pre>
+
+<h3 id="generate-fstab-file">Generate fstab file</h3>
+
+<pre><code>genfstab -U -p /mnt &gt;&gt; /mnt/etc/fstab
+</code></pre>
+
+<h3 id="login-to-our-system-in-root">Login to our system in root</h3>
+
+<pre><code>arch-chroot /mnt /bin/bash
+</code></pre>
+
+<h3 id="set-the-locale-of-the-system">Set the locale of the system</h3>
+
+<pre><code>vim /etc/locale.gen
+</code></pre>
+
+<p>Remove the comment sign (<code>#</code>) of the locale that you&rsquo;ll be using&hellip; I usually use <code>en_US.UTF-8 UTF-8</code></p>
+
+<p>Then generate the locale:</p>
+
+<pre><code>locale-gen
+</code></pre>
+
+<h3 id="set-the-time">Set the time</h3>
+
+<pre><code>ln -sf /usr/share/zoneinfo/Asia/Hongkong /etc/localtime
+hwclock --systohc --utc
+</code></pre>
+
+<h3 id="set-the-computer-name">Set the computer name</h3>
+
+<pre><code>echo daraworld &gt; /etc/hostname
+vim /etc/hosts
+</code></pre>
+
+<p>Add the following line to the host file:</p>
+
+<pre><code>127.0.1.1  localhost.localdomain  daraworld
+</code></pre>
+
+<h3 id="enable-the-network-service">Enable the network service</h3>
+
+<pre><code>systemctl enable dhcpcd
+</code></pre>
+
+<h3 id="setup-your-password">Setup your password</h3>
+
+<pre><code>passwd
+</code></pre>
+
+<h3 id="install-bootloader-group">Install bootloader group</h3>
+
+<pre><code>pacman -S grub
+grub-install /dev/sda
+grub-mkconfig -o /boot/grub/grub.cfg
+</code></pre>
+
+<p>We&rsquo;re almost done, let&rsquo;s <code>exit</code> the root, and then unmount the partition&hellip; and then reboot</p>
+
+<pre><code>exit
+umount -R /mnt
+reboot
+</code></pre>
+
+<h3 id="create-your-user">Create your user</h3>
+
+<p>Using the root user isn&rsquo;t ideal at all. So we&rsquo;ll have to create a user:</p>
+
+<pre><code>useradd -m -g users -G wheel -s /bin/bash dcefram
+passwd dcefram
+EDITOR=vim visudo
+</code></pre>
+
+<p>Find the line <code>wheel All=(ALL) ALL</code>, and uncomment that. Now, try logging in using your new account.</p>
+
+<h3 id="install-audio-packages">Install audio packages</h3>
+
+<pre><code>sudo pacman -S pulseaudio pulseaudio-alsa
+</code></pre>
+
+<h3 id="install-i3-display-manager-with-xorg">Install i3 display manager with XOrg</h3>
+
+<pre><code>pacman -S i3 dmenu xorg xorg-xinit
+echo &quot;exec i3&quot; &gt; ~/.xinitrc
+</code></pre>
+
+<p>That&rsquo;s about it :)</p>
+
+    </div>
+    
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <aside><div id="disqus_thread"></div></aside>
+    <script type="text/javascript">
+      var disqus_shortname = 'dcefram';
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; <a href="http://danielcefram.com">Daniel Cefram</a> 2017</p>
+    
+  </div>
+</section>
+
+</body>
+</html>
