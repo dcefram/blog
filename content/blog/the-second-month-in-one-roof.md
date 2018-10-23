@@ -3,7 +3,7 @@ author = "Daniel Cefram Ramirez"
 tags = ["Personal"]
 date = 2017-03-18T15:40:54Z
 description = ""
-draft = false
+draft = true
 featured = "20170313_122556-1.jpg"
 featuredalt = ""
 featuredpath = "date"
@@ -29,33 +29,33 @@ So in the end, my decision prevailed, and we saved more than 4 thousand pesos wi
 WebOS didn't disappoint me either. It's a polished OS for a SmartTV, with a couple of applications on their app store. Surfing the internet and watching YouTube in the big screen was also a pleasant experience. It even came with a free home theater system, albeit an inferior one compared to what Sony offered.
 
 {{< img-post "date" "20170318_141433.jpg" "LG TV" >}}
-*The TV that we bought :D*
+_The TV that we bought :D_
 
 {{< img-post "date" "image-0-02-06-b01a7b51c852a4a7d9be38049ea893cf48fcba0f3a60f8089afdb78c7982a11c-V.jpg" "Sony Home theater system" >}}
-*Sony's freebie home theater system*
+_Sony's freebie home theater system_
 
 {{< img-post "date" "image-0-02-06-08a0133ef466e1819bae64ca4eb44e648f8911108c9f79e15014aab2b3e9df8a-V.jpg" "LG Freebie" >}}
-*The uglier LG home theater system that we got as a freebie*
+_The uglier LG home theater system that we got as a freebie_
 
 Many thanks to my friend ate Sheryl for helping us get the TV a month earlier than planned XD (I will need to pay her before the end of this month or so)
 
 ### The Date
 
-We decided that we should have at least one romantic date per month, and we did our first one at the nearest mall (SM Taytay). We remembered that one of our first lunch date together as a couple was  at Pancake House, which is why we picked Pancake House to have our first monthly date dinner :D
+We decided that we should have at least one romantic date per month, and we did our first one at the nearest mall (SM Taytay). We remembered that one of our first lunch date together as a couple was at Pancake House, which is why we picked Pancake House to have our first monthly date dinner :D
 
 The result: Nope, not worth it. We went for a pasta dinner and ordered a mac & cheese and a Seafood Gambero along with their daily soup and shakes. The food wasn't worth the price... Yes, the Seafood Gambero was tasty, but the taste is similar if not slightly inferior to Iceburg's Shrimp and Mushroom Pomodoro for a higher price. The mac & cheese though was horrid. It tasted like mac & butter instead of cheese... good thing that the serving was little, or else the cook might've felt bad if we left more than half of the mac & cheese untouched.
 
 {{< img-post "date" "20170312_190838.jpg" "Soup" >}}
-*The soup's taste was within our expectation, that's a good sign :D*
+_The soup's taste was within our expectation, that's a good sign :D_
 
 {{< img-post "date" "20170312_190537.jpg" "Shakes" >}}
-*The shake and the soup were the only two meal that felt right for the price, considering the taste and the serving*
+_The shake and the soup were the only two meal that felt right for the price, considering the taste and the serving_
 
 {{< img-post "date" "20170312_191125.jpg" "Pasta" >}}
-*Tasty, but unfortunately, I tasted what Iceburg offered... which made this dish feel inferior considering this dish is pricier*
+_Tasty, but unfortunately, I tasted what Iceburg offered... which made this dish feel inferior considering this dish is pricier_
 
 {{< img-post "date" "20170312_190852.jpg" "They called this food" >}}
-*Just don't buy this one.*
+_Just don't buy this one._
 
 Oh, aside from our dinner date, we also went to the wet market to buy food... and a [sungka](https://www.youtube.com/watch?v=6lBTd7XJ_gk) :D
 
@@ -75,7 +75,7 @@ We weren't able to commit to our `#breakfastdiary` in Instagram, but that does n
 The most memorable one though is the baked chicken experiment, since it was the first time we actually used the oven that we bought a month ago. The experiment was sort of a failure, since we failed to read the recipe carefully wherein we swapped the timing of when we should apply the "broth"... I mean, the seasoning was made into a broth in our case... AC tried to save it, and in that she did well. The chicken looked really good, and the spicy taste was saved :)
 
 {{< img-post "date" "20170311_214823.jpg" "Baked Chicken" >}}
-*Looks tasty ei?*
+_Looks tasty ei?_
 
 AC being who she is, would try to cook this again, and get the steps right this time :P
 

@@ -3,7 +3,7 @@ author = "Daniel Cefram Ramirez"
 tags = ["Personal"]
 date = 2017-05-17T05:57:00Z
 description = ""
-draft = false
+draft = true
 featured = "20170421_234120.jpg"
 featuredalt = ""
 featuredpath = "date"
@@ -33,7 +33,7 @@ But hey, she passed all other exams with flying colors, aside from the module th
 Look at how sad she is when she arrived:
 
 {{< img-post "date" "20170421_233546.jpg" "Waiting for Ramen" >}}
-*Btw, I was the only one that ordered ramen in the airport... She told me that she did not feel like eating :(*
+_Btw, I was the only one that ordered ramen in the airport... She told me that she did not feel like eating :(_
 
 On contrast, I was pretty happy with the fact that I'm eating ramen XD
 

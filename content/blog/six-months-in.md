@@ -3,7 +3,7 @@ author = "Daniel Cefram Ramirez"
 tags = ["Personal"]
 date = 2017-07-20T06:02:00Z
 description = ""
-draft = false
+draft = true
 featured = "20495808_1928084694121649_579664585_o-1.jpg"
 featuredalt = ""
 featuredpath = "date"
@@ -52,8 +52,6 @@ One complaint that I have though is that they seemed to be understaffed, which m
 Food quality though is acceptable. The price isn't cheap by any means, but it didn't feel like we were ripped off like in Pancake House. However, I would still prefer Isaw Haus over Kuya J's.
 
 {{<img-post path="date" file="IMG_20170709_202426.jpg">}}
-
-
 
 ### My wife's cellphone photography: Me eating
 

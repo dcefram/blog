@@ -3,7 +3,7 @@ author = "Daniel Cefram Ramirez"
 tags = ["Personal"]
 date = 2017-06-17T08:09:00Z
 description = ""
-draft = false
+draft = true
 slug = "the-fifth"
 title = "The Fifth"
 type = "post"
@@ -20,14 +20,13 @@ We already went to multiple doctors, but we were not able to get any definitive 
 
 They did crack some of my bones, and nothing really bad happened, but it is really pricey (60,000+ pesos for around 15 sessions) and I don't have any money to spare for this and the coming months :(. The problem here is that chiropractic is not yet recognized here in the Philippines, thus it is not included in any HMO plan.
 
-So what do I do about my migraine? I'll just avoid the known 'triggers' of my migraine, namely *Stress, Hunger, and Lack of sleep*.
+So what do I do about my migraine? I'll just avoid the known 'triggers' of my migraine, namely _Stress, Hunger, and Lack of sleep_.
 
 ### A visit
 
 AC's congregation's elder(s) had a talk in our congregation, which also means... Pictures :D
 
 {{< img-post "date" "20170521_114944.jpg" "Groupie" >}}
-
 
 All in all, our fifth month was mired with health issues, and the subsequent fact that we had to take extra care of our health. With that said, we couldn't sleep less than 8 hours just to be safe, which also meant that AC never got to go to the office early this whole month :P
 
