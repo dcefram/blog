@@ -5,7 +5,7 @@ date = 2017-11-04T21:31:38+08:00
 description = ""
 draft = false
 linktitle = ""
-title = "Stuffs that I dislike about Go"
+title = "What I dislike in Go"
 type = "post"
 
 +++
