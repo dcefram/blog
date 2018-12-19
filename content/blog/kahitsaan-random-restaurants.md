@@ -14,7 +14,7 @@ So I made a tool and I thought of blogging about it.
 
 ### Background
 
-I'm recently left [SplitmediaLabs](https://www.splitmedialabs.com), and now I'm working remotely as a Senior Software Developer/Engineer (aside: contract says that I'm hired a Senior Software Engineer, but my company ID states that I'm a Senior Software "Developer". Minor stuff, but I hate inconsistencies).
+I recently left [SplitmediaLabs](https://www.splitmedialabs.com), and now I'm working remotely as a Senior Software Developer/Engineer for a consultancy (aside: contract says that I'm hired a Senior Software Engineer, but my company ID states that I'm a Senior Software "Developer". Minor stuff, but I hate inconsistencies).
 
 Although I'm working remotely, I usually meetup with the team at a co-working space once a week...
 And during those meetups, we always have a dilemma of picking a place to eat within the vicinity of the co-working space.
@@ -44,9 +44,9 @@ startup that would compete with other well established platforms... In other wor
 
 Here's the [source code](https://github.com/dcefram/kahitsaan).
 
-Implementing this was quite easy, since even though Crystal language itself isn't 1.0, and is far from "polished", a lot of the tools built for Crystal gave the "polished" feeling. I guess it's because most of the tools got their roots from their Ruby counterpart.
+Implementing this was quite easy, since even though Crystal language itself isn't 1.0, and is far from "polished", a lot of the tools built for Crystal had the "polished" feeling. I guess it's because most of the tools were inspired from their Ruby counterpart.
 
-One of the libraries that has a "polished" feel is [Crest](https://github.com/mamantoha/crest), which I used to send requests to Zomato's API. Everything was a breeze tbh. I thought of caching the results so that I won't have to request the API all the time, to speed up the response of the CLI tool, but alas, the terms and condition of Zomato's API specifically indicated that caching is not allowed. :sadface:
+One of the libraries that has a "polished" feel is [Crest](https://github.com/mamantoha/crest), which I used to send requests to Zomato's API. Everything was a breeze tbh. I thought of caching the results so that I won't have to request the API all the time to speed up the response of the CLI tool, but alas, the terms and condition of Zomato's API specifically indicated that caching is not allowed. :sadface:
 
 Here's a GIF of the CLI tool:
 
@@ -56,6 +56,6 @@ Oh, and you can click on the link (depending on your terminal emulator though).
 
 ### Conclusion/Takeaways
 
-It's fun learning a new language when you have something to use it on. Although this I could've used bash to do this, you know, `curl`, I still had fun writing this even though I was never used a indentation-based language before aside from BASIC.
+It's fun learning a new language when you have something to use it on. Although I could've used bash to create this tool (you know `curl` right?), I still had fun writing this even though I never used an indentation-based language before aside from BASIC.
 
-As for the tool itself, I guess it's half useful since I need to open up my laptop to use it. I guess creating a web version would be much more useful since most of the time, we would use this tool while walking around greenbelt... and using the phone is obviously much more convenient than using the laptop while walking :joy:
+As for the tool itself, I guess it's half useful since I need to open up my laptop to use it. Getting a web version done would be much more useful since most of the time, we would use this tool while walking around greenbelt... and using the phone is obviously much more convenient than using the laptop while walking :joy:
