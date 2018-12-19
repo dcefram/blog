@@ -14,7 +14,7 @@ So I made a tool and I thought of blogging about it.
 
 ### Background
 
-I recently left [SplitmediaLabs](https://www.splitmedialabs.com), and now I'm working remotely as a Senior Software Developer/Engineer for a consultancy (aside: contract says that I'm hired a Senior Software Engineer, but my company ID states that I'm a Senior Software "Developer". Minor stuff, but I hate inconsistencies).
+I recently left [SplitmediaLabs](https://www.splitmedialabs.com), and now I'm working remotely as a Senior Software Developer/Engineer for a consultancy (aside: contract says that I'm a Senior Software Engineer, but my company ID states that I'm a Senior Software "Developer". Minor stuff, it's just that I hate inconsistencies).
 
 Although I'm working remotely, I usually meetup with the team at a co-working space once a week...
 And during those meetups, we always have a dilemma of picking a place to eat within the vicinity of the co-working space.
