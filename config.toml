@@ -1,8 +1,8 @@
-baseurl = "http://blog.danielcefram.com"
+baseurl = "https://blog.danielcefram.com"
 languageCode = "en"
 title = "/dump"
 theme = "kiss"
-copyright = "&copy; <a href=\"http://danielcefram.com\">Daniel Cefram</a> 2017"
+copyright = "&copy; <a href=\"https://danielcefram.com\">Daniel Cefram</a> 2017"
 disqusShortname = "dcefram"
 googleAnalytics = ""
 # Number of posts per page
