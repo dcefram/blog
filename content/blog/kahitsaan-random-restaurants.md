@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = []
+tags = ["crystal", "tools"]
 date = 2018-12-19T09:12:14+08:00
 description = ""
 draft = false
