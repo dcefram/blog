@@ -21,11 +21,13 @@ And during those meetups, we always have a dilemma of picking a place to eat wit
 
 Here's the usual conversation that we have: (I'm paraphrasing here, adding some words here and there)
 
-> Colleague: Gutom na ako, saan tayo kakaen? (I'm hungry, where should we eat?)
-> Me: Kahit saan (Anywhere)
-> Colleague: Pambihira, walang resto na Kahit Saan ang pangalan dito (OMGWTH, there's no resto named "Anywhere" around here)
-> Me: Ikaw gutom, ikaw magisip (You're the one that is hungry, so you should pick where to eat)
-> Colleague: Wag nalang tayo kumaen (Let's diet :P)
+```
+Colleague: Gutom na ako, saan tayo kakaen? (I'm hungry, where should we eat?)
+Me: Kahit saan (Anywhere)
+Colleague: Pambihira, walang resto na Kahit Saan ang pangalan dito (OMGWTH, there's no resto named "Anywhere" around here)
+Me: Ikaw gutom, ikaw magisip (You're the one that is hungry, so you should pick where to eat)
+Colleague: Wag nalang tayo kumaen (Let's diet :P)
+```
 
 ### The Solution and the idea
 
