@@ -4,7 +4,7 @@ title = "/dump"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://danielcefram.com\">Daniel Cefram</a> 2018"
 disqusShortname = "dcefram"
-googleAnalytics = ""
+googleAnalytics = "UA-81702503-1"
 # Number of posts per page
 Paginate = 5
 enableRobotsTXT = true
