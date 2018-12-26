@@ -3,5 +3,4 @@
 	url = git@github.com:dcefram/kiss.git
 [submodule "public"]
 	path = public
-	url = git@me.github.com:dcefram/dcefram.github.io.git
-	branch = master
+	url = git@github.com:dcefram/dcefram.github.io.git

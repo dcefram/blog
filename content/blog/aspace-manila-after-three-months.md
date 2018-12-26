@@ -10,11 +10,11 @@ type = "post"
 
 +++
 
-Working remotely could get boring at times, and if you have colleagues working on roughly the same
-area as you so, you might opt to meetup face to face just to have a real human to talk to in person.
+Working remotely could get boring at times, and if you have colleagues working around the same
+area as you, you might opt to meetup face to face just to have a real human to talk to in person.
 
 For college kids back when I was still part of that age group, the usual goto place would be
-coffee shops. But now, we got co-working spaces littered everywhere... that usually have unlimited coffee!
+coffee shops. But now, we got co-working spaces littered everywhere that usually have unlimited coffee!
 
 Our team opted to go for co-working spaces, jumping from provider to provider every two to three months
 depending on the current scrum master. For the past three months, we opted to try out
@@ -24,7 +24,7 @@ place. Let's drill it down from what's good to what we personally dislike.
 ### The Good
 
 **In-House Barista.** If you're going to pay around twice to three times more than you would rather
-pay if you met in a coffee shop, the space should at least be *way more comfy*, or *way faster and stable internet*,
+pay if you met in a coffee shop, the space should at least be *way more comfy*, or *have way faster and stable internet*,
 or *have their own barista*. Just having brewed coffee in the corner would not cut it if the internet
 isn't remarkable or the place isn't as comfortable as your money's worth.
 
@@ -42,8 +42,8 @@ office space, minus the noise in the coffee shop. I really appreciate the though
 put into setting up the coworking space. The previous place we went before ASPACE had a corporate vibe,
 which is why when we switched over to ASPACE, the ambience became a selling point.
 
-**Friendly Staff.** This point is underrated, until you went through establishments that have super bad
-customer service. They always have staff working in the lounge, which is great if in case you have
+**Friendly Staff.** This point is underrated, until you go through establishments that have super bad
+customer service. ASPACE always have staff working in the lounge, which is great if in case you have
 inquiries, or just need something from them. Also, they would know if the net is crappy since they're
 most likely using the same internet as you do.
 
@@ -54,7 +54,7 @@ most likely using the same internet as you do.
 **The Seats and Tables.** They weren't uncomfortable, but they weren't comfy either. The chairs with
 back support is plastic, so you would want to stand up from time to time. I just tried sitting on their
 stools once, and I can say that if I would have to sit on those for more than once, I would put this
-category to the Bad. The stools looked gorgeous, but uncomfortable... It felt like it was meant to be
+point to the Bad. The stools looked gorgeous, but uncomfortable... It felt like it was meant to be
 sat on for a maximum of one hour, just like how long your longest stay would usually be when you eat
 in a fast food restaurant.
 
@@ -70,20 +70,19 @@ it was noticeably slower), but it's only 5mbps. The previous place we went to ha
 a meeting room would allow us to connect to a dedicated Wifi, but the speed is only upto 10mbps... Not to
 mention that one of the meeting room's connection isn't consistent.
 
-If internet speed is important to your line of work, and 5mbps isn't a speed that you would consider
+If internet speed is important in your line of work, and 5mbps isn't a speed that you would consider
 adequate, I suggest that you look elsewhere. Getting a separate internet line to bump the speed would
 be an add-on with a steep price IIRC.
 
 **Meeting rooms.** The meeting rooms were initially a *Meh* until they changed the tables to a very
 impractical meeting table. I do not know what went through their heads thinking that a meeting table
-that has different heights for each side would be a great idea, not to mention that some of the "area" was
-so low that you would hurt your back if you had to type for quite sometime while in the meeting... unless
+that has different heights on each side would be a great idea, not to mention that some of the "area" was
+too low that you would hurt your back if you had to type for quite sometime while in the meeting... unless
 their idea was that you should use your laps for your laptops, and the table be used for something else.
 
 If you would need to go on a "normal" meeting, I'd suggest that you reserve the much pricier meeting room
 at the 3rd floor, rather than the one at the 5th floor. The 5th floor's meeting room exchanged usuability
-for aesthetics. Just think of shelling a total of 1.5m for a aesthetically pleasing Kia Picanto instead
-of just buying a top-of-the-line Toyota Corolla Altis. I mean, why.
+for aesthetics.
 
 **Location.** I added this as a *Pros*, but I had to also add this here as one of ASPACE's *Cons*. If
 in case you work until 5pm, then you might opt to work until 9pm. The traffic in Makati is really bad
