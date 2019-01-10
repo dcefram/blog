@@ -30,6 +30,8 @@ made me want to share my rants and lessons learned while leading the project, wh
 
 {{< img-post "date" "cert.jpg" "What they gave me :D" >}}
 
+They got my middle initial wrong though, but at least I got a remembrance that I did a thing :D
+
 ### Conclusion
 
-The experience was nerve wracking and exciting at the same time. I'm game to do more talks in the future :D
+The experience was nerve wracking and exciting at the same time. I'm game to do more talks in the future
