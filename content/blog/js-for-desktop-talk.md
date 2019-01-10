@@ -12,7 +12,7 @@ type = "post"
 
 Yesterday, I had the priviledge to give a talk at [FEU Institute of Technology](https://www.feu.edu.ph/) about
 using web technologies to create desktop applications. For the past few years, I've been working on a desktop
-application that where the UI component is basically a browser. The experiences I accumulated with this project
+application wherein the UI component is basically a browser. The experiences I accumulated with this project
 made me want to share my rants and lessons learned while leading the project, which I then turned into a talk.
 
 **Here's the slides: https://danielcefram.com/talks/jsfordesktop/#/**
