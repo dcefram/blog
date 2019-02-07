@@ -45,3 +45,6 @@ tag ="tags"
 
 [blackfriday]
 hrefTargetBlank = true
+
+[permalinks]
+  blog = "/:title/"
