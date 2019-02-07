@@ -22,9 +22,9 @@ Like what I did before, let's drill it down from what's good to what's bad.
 
 If I had to nitpick, the only complaint that I would have is the inferior [captive portal](https://en.wikipedia.org/wiki/Captive_portal) (TL;DR: The webpage where you need to input a code to access the internet) and the lack of Ethernet Port for Hot Desk users. Not much of a big deal though, since you most likely won't bring a whole desktop PC to a co-working space if you're just gonna use the lounge.
 
-**Location.** Located at Ortigas, the location is quite advantageous for me. The parking spaces nearby isn't as overpriced as the ones at Makati, and with it being at the corner of Julia Vargas - Meralco Ave. means that it's near by some fancy restaurants for lunch (Ayala 30th, Metrowalk, and all the Korean Restaurants on the way to Metrowalk).
+**Location.** Located at Ortigas, the location is quite advantageous for me. The parking spaces nearby isn't as overpriced as the ones at Makati, and with it being at the corner of Julia Vargas - Meralco Ave. means that it's nearby some fancy restaurants for lunch (Ayala 30th, Metrowalk, and all the Korean Restaurants on the way to Metrowalk).
 
-**The Vibe.** Being at the pent house of a skyscraper means that you would have one of the best views in town. The Loft is at the 43rd floor that overlooks the upper class subdivisions near by, and Ortigas Center. To say the least, the view will never disappoint you. The meeting rooms that overlook the city is simply one of the best meeting rooms you'll find, and the fact that you can access the deck (sort of a large balcony/rooftop-like feel) is a plus.
+**The Vibe.** Being at the pent house of a skyscraper means that you would have one of the best views in town. The Loft is at the 43rd floor that overlooks the upper class subdivisions nearby, and Ortigas Center. To say the least, the view will never disappoint you. The meeting rooms that overlook the city is simply one of the best meeting rooms you'll find, and the fact that you can access the deck (sort of a large balcony/rooftop-like feel) is a plus.
 
 {{< img-post "date" "small-meeting-room.jpg" "Small meeting room" >}}
 
