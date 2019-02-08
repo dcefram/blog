@@ -44,7 +44,7 @@ They have free cookies, water, and coffee... Although I never got to take advant
 
 ### The Meh
 
-**The Seats.** The first day we worked here, we were able to hog one of the best tables with really comfy seats (ie. soft seats). But we weren't that lucky after the first two weeks. Just like in ASpace, most of their seats are hard seats, which isn't the best seat while working. I mean, almost all, if not all, computer seats that you can buy are soft seats for a reason.
+**The Seats.** The first day we worked here, we were able to hog one of the best tables with really comfy seats (ie. soft cushion chair). But we weren't that lucky after the first two weeks. Just like in ASpace, most of their chairs are hard plastic or wooden chairs, which isn't the best seat for working. I mean, almost all, if not all, computer chairs that you can buy are soft cushion chair for a reason.
 
 ### The Bad
 
