@@ -10,9 +10,9 @@ type = "post"
 
 +++
 
-I decided to learn Nim again, as I'm growing with the language I'm currently
-using at work. I'll post my notes on what I've learned here in my blog just
-as I would have back then when I studied at school.
+I decided to learn Nim again, as I'm growing tired with the language I'm 
+currently using at work. I'll post my notes on what I've learned here in my blog 
+just as I would have back then when I studied at school.
 
 I'm skipping datatypes section, since it's pretty straightforward similar to 
 other imperative compiled languages out there (Read more about [Basic Datatypes](https://nim-lang.org/docs/tut1.html#basic-types))
