@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Geek-ism"]
+tags = ["tools"]
 date = 2017-09-16T16:21:10+08:00
 description = "OpenSUSE's package manager isn't well known for having up-to-date packages, and you usually have to resort to manually installing or compiling programs that you really want to be updated. Sublime is one of those softwares."
 draft = false

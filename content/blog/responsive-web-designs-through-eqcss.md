@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["JavaScript", "CSS"]
+tags = ["javascript", "css"]
 date = 2017-03-04T08:13:23Z
 description = ""
 draft = false

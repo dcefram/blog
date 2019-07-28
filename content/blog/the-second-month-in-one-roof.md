@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Personal"]
+tags = ["personal"]
 date = 2017-03-18T15:40:54Z
 description = ""
 draft = true

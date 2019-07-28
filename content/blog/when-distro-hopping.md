@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Geek-ism"]
+tags = ["tools"]
 date = 2017-04-24T11:21:03Z
 description = "Instructions to create bootable linux flash drives in Windows and in Linux, along with how to reuse/revert the flash drive."
 draft = false

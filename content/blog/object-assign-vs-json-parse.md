@@ -1,9 +1,9 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["JavaScript"]
+tags = ["javascript"]
 date = 2017-02-25T05:50:12Z
 description = ""
-draft = false
+draft = true
 slug = "object-assign-vs-json-parse"
 title = "Using JSON parse and stringify to clone objects"
 type = "post"

@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Webpack"]
+tags = ["javascript", "tools"]
 date = 2017-03-18T03:26:00Z
 description = ""
 draft = false

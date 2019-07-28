@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Node"]
+tags = ["node"]
 date = 2019-03-04T14:10:06+08:00
 description = ""
 draft = false
