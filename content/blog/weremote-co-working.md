@@ -77,7 +77,7 @@ To be fair, the staff did suggest to us to move to the smaller room, where they 
 
 I would definitely recommend WeRemote. I recommended this to a friend who is working on a startup, as the area is really good and if he did get a private office space at WeRemote, he would generally not experience the air-condition issue. Hopefully, the internet connection stays stable as how it was on our previous 6 weeks, and this would definitely be a great space to work on.
 
-So, considering that I also recommended The Loft, which is just a few blocks away, you might be wondering which to pick. If I was to pick, I'd still choose WeRemote, as the 200 pesos - 300 pesos for a 8 hour parking is too steep for me (*what if you wanted to stay more than 8 hours? The paid parking price would grow by the hour**). The chairs are also generally better in WeRemote, which you would definitely appreciate if you're going to be working for long hours there.
+So, considering that I also recommended The Loft, which is just a few blocks away, you might be wondering which to pick. If I was to pick, I'd still choose WeRemote, as the 200 pesos - 300 pesos for a 8 hour parking is too steep for me (*what if you wanted to stay more than 8 hours? The paid parking price would grow by the hour*). The chairs are also generally better in WeRemote, which you would definitely appreciate if you're going to be working for long hours there.
 
 But if you're going here by commute, I'd suggest The Loft as it's cheaper by almost 50. And if you work at nights, the price would be cheaper by almost 150 compared to WeRemote. 
 
