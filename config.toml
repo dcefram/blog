@@ -2,7 +2,7 @@ baseurl = "https://blog.danielcefram.com"
 languageCode = "en"
 title = "/dump"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://danielcefram.com\">Daniel Cefram</a> 2018"
+copyright = "&copy; <a href=\"https://danielcefram.com\">Daniel Cefram</a> 2019"
 disqusShortname = ""
 googleAnalytics = "UA-58356671-1"
 # Number of posts per page
