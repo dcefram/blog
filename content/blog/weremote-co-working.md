@@ -73,6 +73,8 @@ This has been sort of resolved right now as they now have staff at the front des
 
 To be fair, the staff did suggest to us to move to the smaller room, where they had dedicated air-conditioning. It was pretty cold there, so that was a good thing :) But still, if I am to rate this space objectively, the air-conditioning facility isn't stable enough to serve many co-working clients at the same time.
 
+Now, there's a possibility that this has been fixed by the time you're reading this. But as of our last stay at WeRemote last week, it wasn't satisfactory.
+
 ### Conclusion
 
 I would definitely recommend WeRemote. I recommended this to a friend who is working on a startup, as the area is really good and if he did get a private office space at WeRemote, he would generally not experience the air-condition issue. Hopefully, the internet connection stays stable as how it was on our previous 6 weeks, and this would definitely be a great space to work on.
