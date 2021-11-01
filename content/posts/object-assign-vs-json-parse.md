@@ -86,4 +86,4 @@ In chrome, `JSON.parse` with `JSON.stringify` does get slower the larger the obj
 
 Run that test in firefox, and you'll see that `Object.assign` is slower regardless of the size of the array.
 
-That was interesting to see, which is why I wrote it in my blog.
+That was interesting to see, which is why I wrote it here.

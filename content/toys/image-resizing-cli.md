@@ -6,7 +6,7 @@ description = ""
 draft = false
 linktitle = ""
 title = "Image Resizing in CLI"
-type = "post"
+type = "toys"
 
 +++
 

@@ -1,10 +1,8 @@
-baseurl = "https://blog.danielcefram.com"
+baseurl = "https://rmrz.ph"
 languageCode = "en"
-title = "/dump"
+title = "rmrz"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://danielcefram.com\">Daniel Cefram</a> 2019"
-disqusShortname = ""
-googleAnalytics = "UA-58356671-1"
+copyright = "This site does not run any external JavaScript, no tracking, no niffnaffs."
 # Number of posts per page
 Paginate = 5
 enableRobotsTXT = true
@@ -16,10 +14,10 @@ customCSS = ["css/custom.css"]
 
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
-enableSocial = false # Adds OpenGraph and Twitter cards
-homeTitle = "Daniel Cefram's dump file" # Title for home page
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "rmrz" # Title for home page
 poweredby = false # Adds powered by hugo and kiss below Copyright
-description = "ideas, thoughts, and rants of a software developer"
+description = "this was supposed to be a family's web portal of sorts"
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -33,7 +31,7 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 twitter = "dcefram"
 github = "dcefram"
-email = "dcefram@gmail.com"
+email = "dcefram@outlook.com"
 linkedin = "daniel-cefram-ramirez"
 facebook = ""
 instagram = ""
@@ -48,3 +46,16 @@ hrefTargetBlank = true
 
 [permalinks]
   blog = "/:title/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "toys"
+    name = "Toys"
+    url = "/toys/"
+    weight = 10

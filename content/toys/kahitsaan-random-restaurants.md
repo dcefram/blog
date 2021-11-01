@@ -6,7 +6,7 @@ description = ""
 draft = false
 linktitle = ""
 title = "Kahitsaan Random Restaurants"
-type = "post"
+type = "toys"
 
 +++
 
@@ -18,16 +18,6 @@ I recently left [SplitmediaLabs](https://www.splitmedialabs.com), and now I'm wo
 
 Although I'm working remotely, I usually meetup with the team at a co-working space once a week...
 And during those meetups, we always have a dilemma of picking a place to eat within the vicinity of the co-working space.
-
-Here's the usual conversation that we have: (I'm paraphrasing here, adding some words here and there)
-
-```
-Colleague: Gutom na ako, saan tayo kakaen? (I'm hungry, where should we eat?)
-Me: Kahit saan (Anywhere)
-Colleague: Pambihira, walang resto na Kahit Saan ang pangalan dito (OMGWTH, there's no resto named "Anywhere" around here)
-Me: Ikaw gutom, ikaw magisip (You're the one that is hungry, so you should pick where to eat)
-Colleague: Wag nalang tayo kumaen (Let's diet :P)
-```
 
 ### The Solution and the idea
 
