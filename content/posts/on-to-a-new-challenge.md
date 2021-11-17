@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["co-working", "life"]
+tags = ["life"]
 date = 2018-09-11T12:31:38+08:00
 description = ""
 draft = false
@@ -16,7 +16,7 @@ Looking back, it's been a wild 4 years ride. From being a stiff corporate employ
 
 ## Why I loved SplitmediaLabs
 
-I used to work for Fujitsu Ten, and although they provided me great opportunities like going to multiple business trips to Japan,  **Fujitsu Ten**   **is in fact a Japanese corporation**. With that came the strict dress code, strict working hours, and frequent overtimes. You know, what Japanese people normally do.
+I used to work for Fujitsu Ten, and although they provided me great opportunities like going to multiple business trips to Japan, **Fujitsu Ten** **is in fact a Japanese corporation**. With that came the strict dress code, strict working hours, and frequent overtimes. You know, what Japanese people normally do.
 
 So when I first joined SplitmediaLabs, it felt like freedom. There were no dress codes, as in I could wear shorts and slippers to work, the time-in/out was super flexible, and we could even play games in the office. We had free dinner, a ping-pong table, and we could bring toys to work... I mean, a girl named Ira even brought her skateboard to work when I first started working there.
 
@@ -55,9 +55,9 @@ This is also where I made a deep dive onto Dgeni, to create a [beautiful functio
 This project also gave me the opportunity to experience San Fransisco for the first time ever. It was a surreal experience, and my memories just feel like it was just a dream.
 
 {{< img-post "date" "TwitchCon2015-219-1.jpg" "twitchcon" >}}
-Me and our CEO, Henrik, giving a presentation about XJS Framework at TwitchCon 
+Me and our CEO, Henrik, giving a presentation about XJS Framework at TwitchCon
 
-{{< img-post "date" "TwitchCon2015-353.jpg" "twitchcon" >}} 
+{{< img-post "date" "TwitchCon2015-353.jpg" "twitchcon" >}}
 
 {{< img-post "date" "gatebridge.jpg" "twitchcon" >}}
 I even took a long walk just to get to see this in person
@@ -73,7 +73,7 @@ So aside from the projects, I also loved SplitmediaLabs due to how the company t
 When I was at TwitchCon presenting XJS Framework, I had a severe migraine that I thought was a stroke. I could barely move my hands, my left foot, and I talk in a very slow motion. I was also hearing a white thinning noise on my left ear. They brought me to the hospital, and all expenses were... guess who paid for my hospital admission? Henrik! Our CEO! He personally came to the hospital, paid for the initial downpayment, and booked an Uber for me so that I could rest at the hotel.
 
 {{< img-post "date" "TwitchCon2015-221.jpg" "twitchcon" >}}
-Me, with Henrik, on our presentation while my migraine is killing me 
+Me, with Henrik, on our presentation while my migraine is killing me
 
 {{< img-post "date" "hospital.jpg" "twitchcon" >}}
 This painful experience costs $2000 for just 4 hours right after the presentation ended.

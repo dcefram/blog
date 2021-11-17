@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["co-working", "life"]
+tags = ["co-working"]
 date = 2018-12-26T17:12:27+08:00
 description = ""
 draft = false
@@ -24,8 +24,8 @@ place. Let's drill it down from what's good to what we personally dislike.
 ### The Good
 
 **In-House Barista.** If you're going to pay around twice to three times more than you would rather
-pay if you met in a coffee shop, the space should at least be *way more comfy*, or *have way faster and stable internet*,
-or *have their own barista*. Just having brewed coffee in the corner would not cut it if the internet
+pay if you met in a coffee shop, the space should at least be _way more comfy_, or _have way faster and stable internet_,
+or _have their own barista_. Just having brewed coffee in the corner would not cut it if the internet
 isn't remarkable or the place isn't as comfortable as your money's worth.
 
 ASPACE has their own barista, albeit until 11am only, but at least, they got someone that would deliver
@@ -74,7 +74,7 @@ If internet speed is important in your line of work, and 5mbps isn't a speed tha
 adequate, I suggest that you look elsewhere. Getting a separate internet line to bump the speed would
 be an add-on with a steep price IIRC.
 
-**Meeting rooms.** The meeting rooms were initially a *Meh* until they changed the tables to a very
+**Meeting rooms.** The meeting rooms were initially a _Meh_ until they changed the tables to a very
 impractical meeting table. I do not know what went through their heads thinking that a meeting table
 that has different heights on each side would be a great idea, not to mention that some of the "area" was
 too low that you would hurt your back if you had to type for quite sometime while in the meeting... unless
@@ -84,7 +84,7 @@ If you would need to go on a "normal" meeting, I'd suggest that you reserve the 
 at the 3rd floor, rather than the one at the 5th floor. The 5th floor's meeting room exchanged usuability
 for aesthetics.
 
-**Location.** I added this as a *Pros*, but I had to also add this here as one of ASPACE's *Cons*. If
+**Location.** I added this as a _Pros_, but I had to also add this here as one of ASPACE's _Cons_. If
 in case you work until 5pm, then you might opt to work until 9pm. The traffic in Makati is really bad
 that you'd be better off staying in the office til late at night. Whether you're driving or commuting,
 Makati is one of the worst place to be.
@@ -102,4 +102,4 @@ All-in-all, I say that our three months stay with ASPACE wasn't nightmarish, nor
 that I would go about telling everyone and their mom that they should definitely try it out. If someone
 would ask me "How's ASPACE?", I'd say: "Okay lang".
 
-*Sorry, no pics. I guess I'll take pics for my blog on our next venue: The Loft in Ortigas*
+_Sorry, no pics. I guess I'll take pics for my blog on our next venue: The Loft in Ortigas_

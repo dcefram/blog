@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["co-working", "life"]
+tags = ["co-working"]
 date = 2019-02-07T12:31:38+08:00
 description = ""
 draft = false
@@ -16,7 +16,7 @@ Like what I did before, let's drill it down from what's good to what's bad.
 
 ### The Good
 
-**Fast Internet.** Unlike ASpace, Loft had decent internet speed. The average internet speed is around the border of 40Mbps, which is 8 times faster than ASpace's internet speed! 
+**Fast Internet.** Unlike ASpace, Loft had decent internet speed. The average internet speed is around the border of 40Mbps, which is 8 times faster than ASpace's internet speed!
 
 {{< img-post "date" "internet-speed.png" "39mbps" >}}
 
@@ -48,7 +48,7 @@ They have free cookies, water, and coffee... Although I never got to take advant
 
 ### The Bad
 
-**Dedicated Desks.** I'm putting this here not because we tried their dedicated desks, but because of others that use dedicated desks which is located near the hot desks. They could get noisy real quick, and I wish they took a private office instead. 
+**Dedicated Desks.** I'm putting this here not because we tried their dedicated desks, but because of others that use dedicated desks which is located near the hot desks. They could get noisy real quick, and I wish they took a private office instead.
 
 I also can't help but notice that at the other side of the floor, there seems to be an office... but it isn't enclosed. I'm not sure if that's their "private" office or those are just dedicated desks, but if that's the "private" office, then that's a minus point from me.
 

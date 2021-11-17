@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["co-working", "life"]
+tags = ["co-working"]
 date = 2019-09-01T00:08:40+08:00
 description = ""
 draft = false
@@ -45,5 +45,3 @@ But the worst of all is the travel time. I left my home at around 7:20am, and I 
 If you leave around Alabang, Launchpad isn't bad. In fact, it's wiser to go to Launchpad rather than traveling over to BGC/Makati where most of the co-working spaces are located at. The internet speed isn't as bad as ASpace (5Mbps), and is pretty stable... They also advertise free parking for up to 3 hours, albeit, I wasn't able to verify if this advertisement is "real" since Waze pointed me to a public paid parking, a block away from Launchpad.
 
 Will I be going back here? Nah, it's simply too far away from me, and honestly, I'd rather choose either WeRemote or The Loft over this just simply because of their internet speed.
-
-

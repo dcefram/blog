@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["javascript", "css"]
+tags = ["css"]
 date = 2017-03-04T08:13:23Z
 description = ""
 draft = false
@@ -16,7 +16,7 @@ This got me interested since my previous project's longstanding issue was with h
 
 EQCSS could've solved the issue in a much, let's say, cleaner way.
 
-_* Since it hasn't yet found its way to the standard CSS (specifications is still a work-in-progress), in order to get EQCSS to work, we will still have to resort to JavaScript_
+_\* Since it hasn't yet found its way to the standard CSS (specifications is still a work-in-progress), in order to get EQCSS to work, we will still have to resort to JavaScript_
 
 ## Element Queries
 
@@ -30,7 +30,7 @@ If ever you used media queries before, you might find the syntax very similar:
 
 EQCSS starts with the `@element` keyword, and then is succeeded with a selector, and lastly the condition. The actual CSS code is placed inside that block, and will only apply once the condition is met. This also means that the CSS code that you place within the block are scoped to that condition block.
 
-_* The `$this` is a meta-selector. Here's a list of [meta-selectors.](https://github.com/eqcss/eqcss#meta-selectors)_
+_\* The `$this` is a meta-selector. Here's a list of [meta-selectors.](https://github.com/eqcss/eqcss#meta-selectors)_
 
 The interesting part is that you can style elements outside of the selector, ie:
 
@@ -45,7 +45,6 @@ The interesting part is that you can style elements outside of the selector, ie:
 You'll notice on the code above that you can style other elements outside of the selector; in the example's case, we styled the `body`, another non-child element, and a child element `li` if ever `.sidebar`'s height is at least 500px.
 
 Aside from the usual conditions that media queries already has, EQCSS has additional conditions:
-
 
 #### Width-based Conditions
 

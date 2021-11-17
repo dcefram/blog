@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["crystal", "tools"]
+tags = ["toys"]
 date = 2018-09-18T09:31:25+08:00
 description = ""
 draft = false
@@ -42,8 +42,6 @@ I thought of making the main file the Go language way (wherein the only purpose 
 
 Unlike Go, we do not need any "main" function, and all I did was copy paste the example code in the OptionParser API documentation to my entry file, and got everything working:
 
-
-
 ```ruby
 require "option_parser"
 
@@ -73,7 +71,7 @@ puts {
 
 All looks good so far. The next step was to create a class that would consume the Hash map that contains all the needed info.
 
-I won't get into details on how I implemented the whole class, as you can check it out in the Github repository that I linked above. 
+I won't get into details on how I implemented the whole class, as you can check it out in the Github repository that I linked above.
 
 The idea was that I would have to check if `:input_path` is a directory or not by using `File.info(path, true)`. That method returns a `File::Type`, which is an Enum that has all the properties that I need:
 
