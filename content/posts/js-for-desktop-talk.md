@@ -15,8 +15,6 @@ using web technologies to create desktop applications. For the past few years, I
 application wherein the UI component is basically a browser. The experiences I accumulated with this project
 made me want to share my rants and lessons learned while leading the project, which I then turned into a talk.
 
-**Here's the slides: https://danielcefram.com/talks/jsfordesktop/#/**
-
 ### Key takeaways from the talk are:
 
 - Fast track to a full stack web engineer is by learning JavaScript, since you can write backend applications using NodeJS while JavaScript is traditionally the language of browsers

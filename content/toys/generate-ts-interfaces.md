@@ -14,4 +14,4 @@ While working on XJS 3, I had to frequently parse the XML strings that the XBC c
 
 With that, I created a tool to automatically generate the interfaces for me, along with a JSON output just so that I can inspect how the XML would look like when parsed.
 
-Link: https://rmrz.ph/run/generate-ts-interface
+Link: https://ts-interface-from-json.vercel.app/
