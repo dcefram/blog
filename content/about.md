@@ -3,7 +3,7 @@ title = "About"
 type = "about"
 +++
 
-**rmrz**, as in RaMiReZ. 
+**rmrz**, as in RaMiReZ.
 
 We bought this domain name to host our family's portal of sorts. We wanted to make our house a
 tad bit smarter DIY style and have access to our smart appliances over the internet. Yeah, it's
@@ -12,7 +12,7 @@ house.
 
 So now, this site is a simple blog, and hosts some personal tools we made.
 
-This site is ran by two software engineers, who happen to be married. 
+This site is ran by two software engineers, who happen to be married.
 
 The husband's abbreviated name is **DC** (Daniel Cefram) while the wife's nickname is **AC**. Together we
 are a:
@@ -25,5 +25,5 @@ We give a jolt to each other's lives. Booyeah, cheezit.
 
 DC's a little more _internet active_ between the two, so comms goes through him:
 
-- dc@rmrz.ph 
+- dc@rmrz.ph
 - I still use [Keybase even though it's on a limbo](https://keybase.io/dcefram).
