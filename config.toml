@@ -1,4 +1,4 @@
-baseurl = "https://www.rmrz.ph"
+baseurl = "https://rmrz.ph"
 languageCode = "en"
 title = "rmrz"
 theme = "kiss"
