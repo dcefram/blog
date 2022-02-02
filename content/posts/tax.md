@@ -75,3 +75,32 @@ The whole ordeal took me 6 hours, most of which was waiting on queue. The proces
 - The CoR was released the same day, but it took around 3 hours of waiting before my name was called.
 
 With my CoR on hand, I can now proceed to pay my taxes the correct way.
+
+## Steps on registering in BIR
+
+Here's the summarized step-by-step process to get your CoR (Certificate of Registration).
+
+- Get an OTR (Occupational Tax Receipt) from your city/municipality hall
+  - _Some cities/municipalities require a barangay clearance to get an OTR_
+- If your previous RDO is different from your home address, transfer your RDO First
+  - The form required for this is **Form 1905**
+  - Go to your previous RDO, submit the form and wait for 3 weeks
+  - Confirm by calling the hotline of the RDO that you are transferring to
+  - If your RDO is still not updated, pass the Form 1905 to the RDO you are transferring to, and simply reason out with the Officer In Charge that you already passed the form to your previous RDO but it still isn't updated yet after 3 weeks
+- Go to your local RDO (RDO of your home address), and sumbit **Form 1901** for new business registration
+  - For the Form 1901:
+    - Specify the tax payer type is **Single Proprietorship Only (Resident Citizen)**
+    - Specify the _line of business_. If you are a software developer working on foreign companies as an independent contractor, this would be **Freelance - Computer Programming**
+    - Ensure that you put a tick on the **8% flat tax rate** if your projected annual income is less than 3m.
+  - Make sure you have at least **P1800** with you. The Business Registration fee is **P500**, while the documentary stamp is **P30**
+  - You'll need to buy a Book of Accounts from an accredited supplier. Ask the teller where to buy it, there's usually a list pinned somewhere inside BIR for the list of accredited printers of Book of Accounts and OR
+    - There could be times that the teller themselves have some preferred supplier. To save you all the hassle, just buy it from them instead to ensure that all the stamps, etc. are correct. This could cost you upwards of **P1200**
+  - You would need to provide another BIR 1905 when passing the Book of Accounts, this is "required" before BIR releases your CoR.
+    - Do note that the CPA I consulted with did not inform me that this is required, and in fact, told me that I could only get my Book of Accounts and ORS **AFTER** I get my CoR. But on my actual experience, it was the other way around, I had to give the Book of Accounts first that is stamped, and submit another Form 1905 before they could release my CoR.
+- Some RDOs could release your CoR at the same day, some would take a few days to release your CoR.
+
+After you got your CoR, you can now pay your taxes the legit way. For 8% tax flat rate, you'll only have to pay annually, wherein the deadline is every April of the year. The form used here is **Form 1701A**.
+
+Note that if you registered before April of the current year, the first time you would pay your tax is April of the next year. Example: Registered on January of **2021**, first tax payment is April of **2022**.
+
+This is usually indicated in your CoR, so just refer to that document just to be sure as to when BIR is expecting you to pay your first Annual Tax.
