@@ -99,8 +99,15 @@ Here's the summarized step-by-step process to get your CoR (Certificate of Regis
     - Do note that the CPA I consulted with did not inform me that this is required, and in fact, told me that I could only get my Book of Accounts and ORS **AFTER** I get my CoR. But on my actual experience, it was the other way around, I had to give the Book of Accounts first that is stamped, and submit another Form 1905 before they could release my CoR.
 - Some RDOs could release your CoR at the same day, some would take a few days to release your CoR.
 
-After you got your CoR, you can now pay your taxes the legit way. For 8% tax flat rate, you'll only have to pay annually, wherein the deadline is every April of the year. The form used here is **Form 1701A**.
+After you got your CoR, you can now pay your taxes the legit way. I opted to pay through [Taxumo to save me all the hassle](https://www.taxumo.com/taxumo-pricing/).
 
-Note that if you registered before April of the current year, the first time you would pay your tax is April of the next year. Example: Registered on January of **2021**, first tax payment is April of **2022**.
+Either you do it through Taxumo or pay it directly to BIR through their "ePay" thingy, the two forms you'll need are:
 
-This is usually indicated in your CoR, so just refer to that document just to be sure as to when BIR is expecting you to pay your first Annual Tax.
+- 1701Q - This is what you'll use when paying your taxes every quarter
+- 1701A - This is every year, around April 15. This is the annualized version of your taxes, where you'll need to subtract the taxes you already paid for the prior 3 quarters, and pay off the remaining balance. With Taxumo, this all are done for you automatically.
+
+For the 8% tax rate, you'll have to just pay the 8% of your annual income that is in the excess of 250,000. Example:
+
+- Annual Gross Income: P2,000,000
+- Taxable Income: P1,750,000
+- Your Annual Tax: P140,000
