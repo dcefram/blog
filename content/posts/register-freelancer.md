@@ -6,7 +6,7 @@ title = "Registering as an independent contractor"
 type = "post"
 +++
 
-As an employee, di mo yan matatakasan. But as an independent contractor, ala non-licensed professional, consultant, freelancer, yada yada,
+Tax. As an employee, di mo yan matatakasan. But as an independent contractor, ala non-licensed professional, consultant, freelancer, yada yada,
 madaling takasan ang tax. Wag ka lang mag bayad, wag magarbo ang buhay, wag mansyon ang bahay, wag magyabang, maging mabaet sa kapwa, at
 ma e-evade mo yang tax na yan. Pag ginawa mo yun, ha, isa kang masamang tao.
 
