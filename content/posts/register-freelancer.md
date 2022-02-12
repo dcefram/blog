@@ -19,7 +19,10 @@ don't want me to pay. Halika, ikwento ko ang estorya ko.
 
 ## THE PATH TO PAGLUSTAY NG PERA PARA SA GOBYERNO
 
-If you're looking simply for the steps, scroll to the bottom of this page. Kung madami kang oras at trip mo magbasa, edi magbasa ka.
+In order to pay for your taxes as an independent contractor, you should first register yourself as a non-licensed professional.
+Once you're done with that, and you got your Certificate of Registration, then only would you be able to pay your taxes.
+
+If you're looking simply for the steps to register yourself as a non-licensed professional, scroll to the bottom of this page. Kung madami kang oras at trip mo magbasa, edi magbasa ka.
 
 ### Transferring of RDO (Regional/District Offices)
 
