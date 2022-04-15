@@ -1,7 +1,7 @@
 baseurl = "https://rmrz.ph"
 languageCode = "en"
 title = "rmrz"
-theme = "kiss"
+theme = "halik"
 copyright = "This site does not run any external JavaScript, no tracking, no niffnaffs."
 # Number of posts per page
 Paginate = 5
