@@ -2,7 +2,7 @@ baseurl = "https://rmrz.ph"
 languageCode = "en"
 title = "rmrz"
 theme = "halik"
-copyright = "This site does not run any external JavaScript, no tracking, no niffnaffs."
+copyright = ""
 # Number of posts per page
 Paginate = 5
 enableRobotsTXT = true
@@ -15,6 +15,7 @@ customCSS = ["css/custom.css"]
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = true # Adds OpenGraph and Twitter cards
+enableUtterances = true # Adds utterances comments to posts
 homeTitle = "rmrz" # Title for home page
 poweredby = false # Adds powered by hugo and kiss below Copyright
 description = "this was supposed to be a family's web portal of sorts"
@@ -37,6 +38,13 @@ facebook = ""
 instagram = ""
 codepen = ""
 keybase = "dcefram"
+
+[params.utterances]
+
+repo = "dcefram/blog"   # github repo path
+issueTerm = "pathname"  # valid values: pathname, url, title, og:title, <issue-term>,
+label = "blog comment"
+theme = "boxy-light"
 
 [taxonomies]
 tag ="tags"
