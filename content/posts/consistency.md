@@ -10,11 +10,11 @@ type = "post"
 
 +++
 
-I've read a book about the [Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201) recently, and one of the key points that stuck with me is _Consistency_. I read that book at the right time as the company I'm working for was recently acquired and one of the usual ceremonies during such transitions is the merging of teams, either merging whole teams or moving people around to different teams.
+Recently, I read the book [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201), and one of the key points that stuck with me is _Consistency_. I read the book at the right time as the company I'm working for was recently acquired. And one of the usual ceremonies during such transitions is the merging of teams, either merging whole teams or moving people around to different teams.
 
-This meant that we must discuss whatever process, conventions, and approaches would the team abide by, and set those in paper again. I'm pretty much open to suggestions that made sense, but since I was recently exposed to the book written by John Ousterhout, I made it a point that the code must be consistent.
+It means that we must discuss whatever process, conventions, and approaches would the team abide by, and set those in paper again. I'm pretty much open to suggestions that made sense, but since I was recently exposed to the book written by John Ousterhout, I made it a point that the codebase must be consistent.
 
-We do understand that we must find a balance on this, wherein we do not want our codebase fail to adapt to changing trends just for the sake of enforcing consistency within the project. This is the tricky part as one of the usual approaches is to _gradually modernize_ the codebase based on the files that new tickets would force the developers to touch.
+We do understand that we must find a balance on this, wherein we do not want our project to end up as another legacy project, failing to adapt to changing trends, just for the sake of enforcing consistency within the project. This is the tricky part as one of the usual approaches is to _gradually modernize_ the codebase based on the files that new tickets would force the developers to touch.
 
 Although this might work in the first glance, we cannot deny the possibility of some parts of the code that would not be touched for quite some time. Does that mean that we shouldn't update those to align with the new approach? Doesn't that mean that we're introducing inconsistencies?
 
