@@ -34,6 +34,10 @@ This makes a lot of sense if you ever experienced joining a project midway. Proj
 
 When you've been in this field for quite some time already, you would usually try to figure out patterns in the code and use those patterns as basis when trying to understand the rest of the code base. With an inconsistent codebase, this makes it hard, even impossible, to do. Debugging parts of the code that you did not implement would be harder than it should be.
 
+Imagine reading up a recipe that has a mixture of imperial and metric system for measurements. You're bound to make a mistake following that recipe.
+
+![grams-or-ounces](https://firebasestorage.googleapis.com/v0/b/rmrz-blog.appspot.com/o/grams-or-ounces.png?alt=media&token=0a26084f-5dc3-4ef3-a90a-7011e86ca0bf)
+
 So how could we introduce improvements and at the same time, enforce consistency?
 
 ## Avoid "improvements" for the sake of _improvement._
@@ -47,6 +51,8 @@ As an example, if your project is currently using one of the popular CSS preproc
 > Don't change existing conventions. Resist the urge to "improve" on existing conventions. Having a "better idea" is not a sufficient excuse to introduce inconsistencies.
 >
 > \- John Ousterhout, A Philosophy of Software Design
+
+![improvements](https://firebasestorage.googleapis.com/v0/b/rmrz-blog.appspot.com/o/Snippet%202022-06-15%20at%2000.09.38.png?alt=media&token=e36911d2-4e3c-46f5-af81-86e95ba25b00)
 
 On the other hand, introducing absolute import paths support in webpack and implementing that to the codebase is mostly fine, as doing a grep or a "find-and-replace" for the whole codebase would work with minimal worry for regression issues.
 
