@@ -26,5 +26,5 @@ We give a jolt to each other's lives. Booyeah, cheezit.
 DC's a little more _internet active_ between the two, so comms goes through him:
 
 - dc@rmrz.ph
-- [@dcefram](https://twitter.com/dcefram) - DM me if you have comments for a blog post of mine
+- [@dcefram](https://twitter.com/dcefram)
 - I still use [Keybase even though it's on a limbo](https://keybase.io/dcefram).
