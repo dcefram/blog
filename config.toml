@@ -13,7 +13,7 @@ pygmentsStyle = "monokai"
 customCSS = ["css/custom.css"]
 
 [params.info]
-adsense = "" # Adsense ID (ID only, without ca-pub-)
+goatcounter = "rmrz" # Goatcounter code, it's the subdomain part (https://{code}.goatcounter.com/count)
 enableSocial = true # Adds OpenGraph and Twitter cards
 enableUtterances = true # Adds utterances comments to posts
 homeTitle = "rmrz" # Title for home page
