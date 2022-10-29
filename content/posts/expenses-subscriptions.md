@@ -37,14 +37,6 @@ So that left me with Cleanshot and Jetbrains.
 I already started conditioning myself on just using VSCode, while occasionally using JetBrains for
 the database manager (I have a perpetual license, so I hope I can squeeze the database plugin as long as possible).
 
-As for Cleanshot, I do not plan to renew my subscription next year and would just use a free
-alternative called [Kap](https://getkap.co/) for the screen recording and use [Shottr](https://shottr.cc/)
-for the screenshots instead.
-
-I host my blog in GCP, so it makes sense to also upload the screen recordings in Google Cloud
-Storage, but unfortunately there is no existing plugin yet for that... which means I must build it
-on my own.
-
-With that, it seems like I would have my next set of content centered on the effort of
-creating a GCP plugin for Kap, and making a fancy dashboard to list my screen recordings with some
-sort of view count.
+As for Cleanshot, I already bought a license from them, but opted for the monthly subscription when I went
+over the 1GB cloud storage that they had. I guess for the next year, I'll just clean up my account and
+probably just upload to my own OneDrive, since I already pay for the family plan annually.
