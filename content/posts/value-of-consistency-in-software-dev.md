@@ -2,12 +2,11 @@
 author = "Daniel Cefram Ramirez"
 tags = ["dev"]
 date = 2022-06-12T00:08:40+08:00
-description = ""
+description = "Why consistency is important "
 draft = false
 linktitle = ""
-title = "Consistency"
+title = "The Value of Consistency in Software Development"
 type = "post"
-
 +++
 
 Recently, I read the book [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201), and one of the key points that stuck with me is _Consistency_. I read the book at the right time as the company I'm working for was recently acquired. And one of the usual ceremonies during such transitions is the merging of teams, either merging whole teams or moving people around to different teams.

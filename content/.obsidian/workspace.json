@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "cc9d6a4939fd1c19",
+    "type": "split",
+    "children": [
+      {
+        "id": "856621f110d4be40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0a503ba5a0b1fd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/value-of-consistency-in-software-dev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc12e0dffefad19c",
+    "type": "split",
+    "children": [
+      {
+        "id": "516518d832e51673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8b492a4714f2c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a39dfac391087ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed42f0a74f4c73f5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd540a7aca955e5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3893e73183eb5b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0844650265a3d975",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/value-of-consistency-in-software-dev.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02ded34021002956",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/value-of-consistency-in-software-dev.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f20cdcc1243d18b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a986b7b44764efce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/value-of-consistency-in-software-dev.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0a503ba5a0b1fd5",
+  "lastOpenFiles": [
+    "drafts/financial-mindset.md",
+    "drafts/the-barrier-in-the-philippines.md",
+    "posts/js-for-desktop-talk.md",
+    "posts/value-of-consistency-in-software-dev.md",
+    "archive/six-months-in.md",
+    "posts/responsive-web-designs-through-eqcss.md",
+    "posts/on-to-a-new-challenge.md",
+    "archive/aspace-manila-after-three-months.md",
+    "archive/a-new-start.md",
+    "archive/co-working-at-the-loft.md"
+  ]
+}
