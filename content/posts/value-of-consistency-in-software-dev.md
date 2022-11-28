@@ -67,4 +67,4 @@ My experience with this is when we decided to move away from JSS to Emotion JS a
 
 ## Conclusion
 
-At the end of the day, striking a balance between enforcing consistency while not _blocking_ innovation is key. We should avoid our biases and see the issue on hand in a more pragmatic way. Consult with the team about your thoughts and to see if you missed any potential issues that the team must consider first before committing.
+At the end of the day, striking a balance between enforcing consistency while not _blocking_ innovation is key. We should avoid our biases and see the issue on hand in a more pragmatic way. Remember, having a "better idea" is not a sufficient excuse to introduce inconsistencies.
