@@ -1,7 +1,7 @@
 +++
 author = "Daniel Cefram Ramirez"
 tags = ["life"]
-date = 2022-01-10T00:00:00Z
+date = 2022-12-26T00:00:00Z
 title = "Registering as an Independent Contractor"
 type = "post"
 +++
