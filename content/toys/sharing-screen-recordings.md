@@ -1,7 +1,7 @@
 +++
 author = "Daniel Cefram Ramirez"
 tags = ["toys"]
-date = 2022-01-10T00:00:00Z
+date = 2022-12-26T00:00:00Z
 title = "Sharing Screen Recordings"
 type = "toys"
 +++
