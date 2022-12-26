@@ -69,10 +69,14 @@ See the full source code here: https://github.com/dcefram/kap-gcs
 
 ## What's next
 
-I'm planning to create some small Google Cloud Function (or just do it through firebase) that would simply map the filenames to the relevant file in Google Cloud Storage. The purpose of this is so that I won't be sharing some ugly-long GCS public URL, but instead, I would be sharing a URL that would be similar to what I'm currently sharing when I use CleanShot.
+If I made the bucket from scratch, not through firebase, I would've been able to take advantage of using CNAME entries to configure the URL to look a little prettier than it is right now. But since I made it through firebase, and since I'm a little lazy to check the quotas if I made the bucket from scratch, I'm planning to create some small Google Cloud Function (through firebase) that would simply map the filenames to the relevant file in Google Cloud Storage. 
+
+This would make the URL that I would share be similar to what I'm currently sharing when I use CleanShot.
 
 So instead of: `https://storage.googleapis.com/rmrz-blog.appspot.com/Kapture%202022-12-26%20at%2001.53.40.gif`
 
 I would want it to be: `https://share.rmrz.ph/Kapture%202022-12-26%20at%2001.53.40.gif`
 
 That should be neater :)
+
+Another advantage of doing this through functions is if in case I want to implement some sort of analytics, I would be able to do so :D
