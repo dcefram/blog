@@ -26,7 +26,7 @@ I then went to Japan for a few months in the last few months of 2012, and that's
 
 During that stay in Japan is when our relationship just went to the next level.
 
-I emailed her through the company email frequently (as she wasn't part of the team that was sent to Japan) kahit alam namin na pwede mabasa ng mga bossings ung email namin if they so wish to (*aside: I think they did, kasi pag uwi ko sa pinas, we went straight to the office... it seems that they were waiting for me to sit besides AC XD*), made a fancy website for her wherein if she guessed the password she would be greeted by my sincere confession of my feelings toward her, and made a conscientious effort to get a personalized chopstick for her before heading back to the Philippines.
+I emailed her through the company email frequently (as she wasn't part of the team that was sent to Japan) kahit alam namin na pwede mabasa ng mga bossings ung email namin if they so wish to (*aside: I think they did, kasi pag uwi ko sa pinas, we went straight to the office... it seemed that they were waiting for me to sit besides AC XD*), made a fancy website for her wherein if she guessed the password she would be greeted by my sincere confession of my feelings toward her, and made a conscientious effort to get a personalized chopstick for her before heading back to the Philippines.
 
 ## It's Official
 
@@ -36,6 +36,6 @@ It was quite early, just a few weeks from that day, when I agreed to meet with h
 
 We didn't last being an office couple though, as after I was sent to Japan for the 3rd time in the 4th quarter of 2013, I decided to call it quits with the company. It was around this time that we had frequent overtime, both AC and I went home past midnight and had to be back at the office at 7 am. When I was sent to Japan on a 2 days notice, I had to work 12-13 hours a day there, and that's when I finally decided to resign.
 
-I left the company on January 2, 2014, and joined XSplit on January 4. AC left Fujitsu soon after. We both transitioned away from embedded firmware development, wherein I went into the multimedia software industry, while AC went into the banking software industry.
+I left the company on January 2, 2014, and joined XSplit on January 4. AC left Fujitsu soon after. We have both since transitioned away from embedded firmware development, wherein I went into the multimedia software industry, while AC went into the banking software industry.
 
 But our relationship still stayed strong.
