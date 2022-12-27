@@ -14,7 +14,7 @@ For starters, we both worked at the same company, with me joining Fujitsu a year
 
 Yung initial impression ko sa kaniya was that she's the strict [6s officer](https://www.creativesafetysupply.com/articles/6s-safety/). Di niya pinalagpas ung senior sa section namin.
 
-And then, she barged into my life when I had just moved on from my first heartbreak after almost two years of emo-ing. I was just transferred to the same section as her and during some surprise Birthday greeting thingy, two persons didn't join the commotion. That's the time we first made our interaction as we had something in common. *"Uy, di ka nakiki-birthday? Ako din e"*. Not exactly how it went though, as it was one of our colleagues was the one that introduced us to one another after he found out that AC also did not celebrate birthdays.
+And then, she barged into my life when I had just moved on from my first heartbreak after almost two years of emo-ing. I was just transferred to the same section as her and during some surprise Birthday greeting thingy, two persons didn't join the commotion. That's the time we first made our interaction as we had something in common. *"Uy, di ka nakiki-birthday? Ako din e"*. Not exactly how it went though, as it was one of our colleagues that introduced us to one another after he found out that AC also did not celebrate birthdays.
 
 ## The Blossoming
 
