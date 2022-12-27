@@ -6,23 +6,27 @@ title = "How We Met"
 type = "post"
 +++
 
-In exactly 3 weeks we would be celebrating our 6th anniversary, and after three months from that, we would mark our first decade as a couple. It's prime time to reminisce about how we met.
+In exactly 3 weeks we would be celebrating our 6th anniversary, and after three months from that, we would mark our first decade as a couple. It's prime time to reminisce about how we met in a classic *Taglish* manner.
 
 ## The Encounter
 
-For starters, we both worked at the same company, with me joining Fujitsu a year earlier than AC. 
+For starters, we both worked at the same company, with me joining Fujitsu a year earlier than AC. Actually, one year kami hindi nagkakilala even though we both worked at the same company. Fujitsu *IS* a big company after all.
 
-She barged into my life when I had just moved on from my first heartbreak after almost two years of emo-ing. I was just transferred to the same section as her and during some surprise Birthday greeting thingy, two persons didn't join the commotion. That's the time we first made our interaction as we had something in common.
+Yung initial impression ko sa kaniya was that she's the strict [6s officer](https://www.creativesafetysupply.com/articles/6s-safety/). Di niya pinalagpas ung senior sa section namin.
+
+And then, she barged into my life when I had just moved on from my first heartbreak after almost two years of emo-ing. I was just transferred to the same section as her and during some surprise Birthday greeting thingy, two persons didn't join the commotion. That's the time we first made our interaction as we had something in common. *"Uy, di ka nakiki-birthday? Ako din e"*. Not exactly how it went though, as it was one of our colleagues was the one that introduced us to one another after he found out that AC also did not celebrate birthdays.
 
 ## The Blossoming
 
 At first, our relationship was more of a friendly one, more of a big sister - broke brother kind of relationship (she's 2 years older than me). I can't remember what happened back then, but I ran out of money way before the next payday, so she decided to prepare lunch for me, every day. There was no meaning to that, to be honest, as I was just glad I wasn't hungry for the day, but it certainly is one of those things that aided the relationship to blossom into more than friends.
 
+We often went out with our friends on Wednesdays to do a group Bible Study (yes, mababaet kasi kami), so friendship going strong kami non.
+
 I then went to Japan for a few months in the last few months of 2012, and that's when I noticed that I *started having* feelings for her. I got back to the Philippines for a few weeks during the Holidays and went back to Japan in January, which lasted til April. 
 
 During that stay in Japan is when our relationship just went to the next level.
 
-I emailed her through the company email frequently (as she wasn't part of the team that was sent to Japan), made a fancy website for her wherein if she guessed the password she would be greeted by my sincere confession of my feelings toward her, and made a conscientious effort to get a personalized chopstick for her before heading back to the Philippines.
+I emailed her through the company email frequently (as she wasn't part of the team that was sent to Japan) kahit alam namin na pwede mabasa ng mga bossings ung email namin if they so wish to (*aside: I think they did, kasi pag uwi ko sa pinas, we went straight to the office... it seems that they were waiting for me to sit besides AC XD*), made a fancy website for her wherein if she guessed the password she would be greeted by my sincere confession of my feelings toward her, and made a conscientious effort to get a personalized chopstick for her before heading back to the Philippines.
 
 ## It's Official
 
