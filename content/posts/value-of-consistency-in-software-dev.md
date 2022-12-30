@@ -7,6 +7,7 @@ draft = false
 linktitle = ""
 title = "The Value of Consistency in Software Development"
 type = "post"
+toc = true
 +++
 
 Recently, I read the book [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201), and one of the key points that stuck with me is _Consistency_. I read the book at the right time as the company I'm working for was recently acquired. And one of the usual ceremonies during such transitions is the merging of teams, either merging whole teams or moving people around to different teams.
