@@ -3,6 +3,7 @@ author = "Daniel Cefram Ramirez"
 tags = ["life"]
 date = 2022-12-27T00:00:00+08:00
 title = "How We Met"
+description = "Looking back at the time when sparks turned into fire."
 type = "post"
 +++
 

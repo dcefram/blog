@@ -2,7 +2,7 @@
 author = "Daniel Cefram Ramirez"
 tags = ["talk"]
 date = 2018-05-23T14:05:09+08:00
-description = ""
+description = "I mostly just ranted about how aweful it is using Web Technologies for performance-sensitive desktop applications."
 draft = false
 linktitle = ""
 title = "JavaScript for Desktop - Talk in FEU"

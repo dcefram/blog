@@ -2,7 +2,7 @@
 author = "Daniel Cefram Ramirez"
 tags = ["toys"]
 date = 2018-09-18T09:31:25+08:00
-description = ""
+description = "Made a tool while learning Crystal."
 draft = false
 linktitle = ""
 title = "Image Resizing in CLI"

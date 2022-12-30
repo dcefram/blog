@@ -2,7 +2,7 @@
 author = "Daniel Cefram Ramirez"
 tags = ["css"]
 date = 2017-03-04T08:13:23Z
-description = ""
+description = "Applying styles based on other elements."
 draft = false
 slug = "responsive-web-designs-through-eqcss"
 title = "Responsive web designs through EQCSS"
@@ -22,7 +22,7 @@ _\* Since it hasn't yet found its way to the standard CSS (specifications is sti
 
 If ever you used media queries before, you might find the syntax very similar:
 
-```javascript
+```css
 @element '.selector' and (min-width: 500px) {
   $this { display: none; }
 }
@@ -34,7 +34,7 @@ _\* The `$this` is a meta-selector. Here's a list of [meta-selectors.](https://g
 
 The interesting part is that you can style elements outside of the selector, ie:
 
-```javascript
+```css
 @element '.sidebar' and (min-height: 500px) {
   body { display: flex; }
   .other-non-child-elements { flex: 1; }

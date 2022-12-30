@@ -2,10 +2,10 @@
 author = "Daniel Cefram Ramirez"
 tags = ["toys"]
 date = 2018-12-19T09:12:14+08:00
-description = ""
 draft = false
 linktitle = ""
 title = "Kahitsaan Random Restaurants"
+description = "The results of being hungry but couldn't decide where to eat."
 type = "toys"
 
 +++

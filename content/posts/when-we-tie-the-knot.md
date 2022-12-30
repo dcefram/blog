@@ -3,13 +3,11 @@ author = "Daniel Cefram Ramirez"
 tags = ["life"]
 date = 2017-01-17T10:10:00Z
 title = "When we tie the knot"
-description = ""
+description = "Wedding. It's my wedding day today."
 slug = "when-we-tie-the-knot"
 type = "post"
 draft = false
 +++
-
-Wedding. It's my wedding day today.
 
 To be honest, I am writing this blog post way past my actual wedding day, and through the power of editing the `post date`... the blog post will appear as if I published this post at the day of my wedding :D
 
