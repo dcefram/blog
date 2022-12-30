@@ -12,7 +12,7 @@ house.
 
 So now, this site is a simple blog, and hosts some personal tools we made.
 
-This site is ran by two software engineers, who happen to be married.
+This site is ran by two software engineers, who happen to be married. [Here's how we met](/posts/how-we-met/).
 
 The husband's abbreviated name is **DC** (Daniel Cefram) while the wife's nickname is **AC**. Together we
 are a:
