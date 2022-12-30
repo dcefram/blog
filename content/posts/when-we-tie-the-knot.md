@@ -1,17 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["personal"]
+tags = ["life"]
 date = 2017-01-17T10:10:00Z
-description = ""
-draft = true
-featured = "wed4.jpg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
-slug = "when-we-tie-the-knot"
 title = "When we tie the knot"
+description = ""
+slug = "when-we-tie-the-knot"
 type = "post"
-
+draft = false
 +++
 
 Wedding. It's my wedding day today.
