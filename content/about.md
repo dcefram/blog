@@ -26,5 +26,7 @@ We give a jolt to each other's lives. Booyeah, cheezit.
 DC's a little more _internet active_ between the two, so comms goes through him:
 
 - hi@dcefram.com
+- [@dcrmrz@hachyderm.io](https://hachyderm.io/@dcrmrz)
 - [@dcefram](https://twitter.com/dcefram)
 - I still use [Keybase even though it's on a limbo](https://keybase.io/dcefram).
+- [Github](https://github.com/dcefram)

@@ -27,7 +27,7 @@ I then went to Japan for a few months in the last few months of 2012, and that's
 
 During that stay in Japan is when our relationship just went to the next level.
 
-I emailed her through the company email frequently (as she wasn't part of the team that was sent to Japan) kahit alam namin na pwede mabasa ng mga bossings ung email namin if they so wish to (*aside: I think they did, kasi pag uwi ko sa pinas, we went straight to the office... it seemed that they were waiting for me to sit besides AC XD*), made a fancy website for her wherein if she guessed the password she would be greeted by my sincere confession of my feelings toward her, and made a conscientious effort to get a personalized chopstick for her before heading back to the Philippines.
+I emailed her through the company email frequently (as she wasn't part of the team that was sent to Japan) kahit alam namin na pwede mabasa ng mga bossings ung email namin if they so wish to (*aside: I think they did, kasi pag uwi ko sa pinas and went straight to the office from the airport, parang they were waiting for me to sit besides AC, may kasama pang tili kala mo romance office sitcom show e XD*), made a fancy website for her wherein if she guessed the password she would be greeted by my sincere confession of my feelings toward her, and made a conscientious effort to get a personalized chopstick for her before heading back to the Philippines.
 
 ## It's Official
 
