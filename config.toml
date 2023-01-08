@@ -19,6 +19,7 @@ enableUtterances = true # Adds utterances comments to posts
 homeTitle = "rmrz" # Title for home page
 poweredby = false # Adds powered by hugo and kiss below Copyright
 description = "this was supposed to be a family's web portal of sorts"
+shareBaseUrl = "https://storage.googleapis.com/rmrz-blog.appspot.com/"
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
