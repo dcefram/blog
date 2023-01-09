@@ -68,8 +68,55 @@ ctx.notify("Google Cloud Storage Public URL copied to clipboard");
 
 See the full source code here: https://github.com/dcefram/kap-gcs
 
-## What's next
+## Sharing through my domain.
 
-I'm currently using `share.rmrz.ph` for CleanShot and I do not want my existing links to stop working, so I'll be creating a new bucket called as `shr.rmrz.ph` instead for this.
+I'm currently using `share.rmrz.ph` for CleanShot and I do not want my existing links to stop working, so the alternative is to create a new bucket called `shr.rmrz.ph` and use CNAME for GCS to automatically handle the subdomain routing.
 
-I will also explore for ways to add analytics to this if ever I find the need for this in the future.
+However, I also wanted to know how many people would open my shared screen recordings. 
+
+One option I thought of was to create a GCP Cloud Functions that would proxy the upload by creating signed URLs for upload, and at the same time, saving the file name to a database. I would then create a separate frontend that would use that record to know if the recording is valid, and save the stats to the specific record.
+
+But another genius idea that popped in my head while driving was to simply use my blog instead. I would create a separate page that would load the image or video using javascript and URLSearchParams.
+
+The URL would be something like [https://rmrz.ph/share/?n=Kapture%202023-01-08%20at%2015.40.41.webm](https://rmrz.ph/share/?n=Kapture%202023-01-08%20at%2015.40.41.webm), and the JavaScript in that page would check for the URLSearchParams, get the value of `n`, and check if the extension is a video or an image.
+
+```javascript
+const params = new URLSearchParams(document.location.search);
+const fileName = params.get('n');
+
+if (fileName) {
+  const header = document.getElementById('shared-asset-title');
+  header.textContent = fileName;
+
+  const isVideo = /(\.mp4|\.webm|\.apng)$/ig.test(fileName);
+  const file = '{{ .Site.Params.Info.shareBaseUrl }}' + fileName;
+
+  // check if file exists
+  const elem = document.createElement(isVideo ? 'video' : 'img');
+  const handleOnLoad = () => {
+    const container = document.getElementById('shared-asset-container');
+    container.appendChild(elem);
+  };
+
+  elem.addEventListener('error', () => { console.error('target asset does not exist :D') });
+  elem.addEventListener('loadeddata', handleOnLoad);
+  elem.addEventListener('load', handleOnLoad);
+  elem.setAttribute('src', file);
+
+  if (isVideo) {
+    elem.setAttribute('controls', 'true');  
+  }
+}
+```
+
+I would then use an image tag or a video tag to load the asset.
+
+This would mean that I can reuse [GoatCounter](http://goatcounter.com) for my analytics, with the added benefit of ignoring my own IP address.
+
+![GoatCounter screenshot](https://storage.googleapis.com/rmrz-blog.appspot.com/SCR-20230109-vim.png)
+
+Although not as pretty as CleanShot's dashboard, it's pretty functional and does what I exactly need.
+
+## Final Thoughts
+
+With that small project done, I am able to trim my monthly expense, from $8 to $0.22... Cents that I already spend for my blog (Google Cloud DNS) anyways.
