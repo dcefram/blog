@@ -34,8 +34,8 @@ const main = async () => {
   });
   const bucket = storage.bucket('some-bucket');
   const [file] = await bucket.upload(
-  path.join('path', 'to', 'file'), 
-  { public: true }
+    path.join('path', 'to', 'file'), 
+    { public: true }
   );
   console.log(file.publicUrl());
 };
@@ -68,7 +68,7 @@ ctx.notify("Google Cloud Storage Public URL copied to clipboard");
 
 See the full source code here: https://github.com/dcefram/kap-gcs
 
-## Sharing through my domain.
+## Sharing with custom URL
 
 I'm currently using `share.rmrz.ph` for CleanShot and I do not want my existing links to stop working, so the alternative is to create a new bucket called `shr.rmrz.ph` and use CNAME for GCS to automatically handle the subdomain routing.
 
