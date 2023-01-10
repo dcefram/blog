@@ -81,6 +81,8 @@ With my CoR on hand, I can now proceed to pay my taxes the correct way.
 
 ## STEPS TO REGISTER YOURSELF AS A SELF-PROPRIETOR
 
+![The BIR Registration Map](https://storage.googleapis.com/rmrz-blog.appspot.com/journey-to-pay-taxes.png)
+
 Here's the summarized step-by-step process to get your CoR (Certificate of Registration).
 
 - Get an OTR (Occupational Tax Receipt) from your city/municipality hall
