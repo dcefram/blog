@@ -64,8 +64,7 @@ The _Taxpayer Type_ that I had to tick in the form is "**Single Proprietorship O
 As for the _Line of Business_ field, I wrote down "**Freelance - Computer Programming**" as this is what is available in BIR's newest
 shenanigan of a system called IRIS.
 
-I also made sure to put a tick on the **8% flat tax rate**. If I don't do that, I'll be paying taxes using the graduated tax table which
-would put me to the 32% tax bracket. 8 and 32 are two numbers that are very far apart.
+I also made sure to put a tick on the **8% flat tax rate**. If I don't do that, I'll be paying taxes using the graduated tax table where the tax rate is way higher than 8%, and since I don't have much of a business expense aside from electricity and internet, the 8% rate would always be the lower amount.
 
 The whole ordeal took 6 hours, most of which was waiting on queue. The process was:
 
