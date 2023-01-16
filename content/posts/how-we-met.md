@@ -7,11 +7,15 @@ description = "Looking back at the time when sparks turned into fire."
 type = "post"
 +++
 
+![How we met](https://storage.googleapis.com/rmrz-blog.appspot.com/me-ac-how-we-met-banner.png)
+
 In exactly 3 weeks we would be celebrating our 6th anniversary, and after three months from that, we would mark our first decade as a couple. It's prime time to reminisce about how we met in a classic *Taglish* manner.
 
 ## The Encounter
 
 For starters, we both worked at the same company, with me joining Fujitsu a year earlier than AC. Actually, one year kami hindi nagkakilala even though we both worked at the same company. Fujitsu *IS* a big company after all.
+
+![Tektite](https://storage.googleapis.com/rmrz-blog.appspot.com/SCR-20230116-ch7.png)
 
 Yung initial impression ko sa kaniya was that she's the strict [6s officer](https://www.creativesafetysupply.com/articles/6s-safety/). Di niya pinalagpas ung senior sa section namin.
 
