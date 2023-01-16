@@ -1,3 +1,6 @@
 [submodule "themes/halik"]
 	path = themes/halik
 	url = git@github.com:dcefram/halik.git
+[submodule "themes/akin"]
+	path = themes/akin
+	url = https://github.com/dcefram/akin
