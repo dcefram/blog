@@ -33,6 +33,8 @@ During that stay in Japan is when our relationship just went to the next level.
 
 I emailed her through the company email frequently (as she wasn't part of the team that was sent to Japan) kahit alam namin na pwede mabasa ng mga bossings ung email namin if they so wish to (*aside: I think they did, kasi pag uwi ko sa pinas and went straight to the office from the airport, parang they were waiting for me to sit besides AC, may kasama pang tili kala mo romance office sitcom show e XD*), made a fancy website for her wherein if she guessed the password she would be greeted by my sincere confession of my feelings toward her, and made a conscientious effort to get a personalized chopstick for her before heading back to the Philippines.
 
+![Labidabdab](https://storage.googleapis.com/rmrz-blog.appspot.com/SCR-20230117-h5a.png)
+
 ## It's Official
 
 I got back to the Philippines on April 2, and that's when we officially started dating. April 2, 2013.
