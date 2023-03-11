@@ -10,7 +10,7 @@ type = "toys"
 
 There was this one project that I was involved in that never deleted merged branches. Not only was rebasing to latest branch not the norm in this project, but so was squashing, thus there are a lot of commits littered all over the repository.
 
-I’m not that opinionated on this matter though, as it falls into one of those /“I have a preference, but I won’t force it on other’s projects”/, where “others” in this case are projects that I did not pioneer.
+I’m not that opinionated on this matter though, as it falls into one of those _“I have a preference, but I won’t force it on other’s projects”_, where “others” in this case are projects that I did not pioneer.
 
 However, the noise is real when I open up the project in a Git GUI, as I see a lot of lines with lots of commits in the graph, thus I decided to create a tool to just purge these merged branches off of my local clone. I would then just “hide” the remote from the graph in the Git GUI.
 
