@@ -23,6 +23,9 @@ jobs:
           hugo-version: '0.104.3'
           extended: true
 
+      - name: Build
+        run: hugo --minify
+
       - name: Deploy to Firebase
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
