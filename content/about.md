@@ -29,3 +29,11 @@ DC's a little more _internet active_ between the two, so comms goes through him:
 - [@dcrmrz@hachyderm.io](https://hachyderm.io/@dcrmrz)
 - [@dcefram](https://twitter.com/dcefram)
 - [Github](https://github.com/dcefram)
+
+## Others
+
+I'm trying to keep track on the skill-up endeavour I do, since you know, life is a continuous process of learning, where
+the moment you stop learning, that's the moment life becomes dull and boring. I swear I did not come up with those words
+and I just pulled them from the fragments of my scattered memory.
+
+In any case, here's where I show it off: [the collection](/skill-up-collections).
