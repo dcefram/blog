@@ -34,7 +34,7 @@ const main = async () => {
   });
   const bucket = storage.bucket('some-bucket');
   const [file] = await bucket.upload(
-    path.join('path', 'to', 'file'), 
+    path.join('path', 'to', 'file'),
     { public: true }
   );
   console.log(file.publicUrl());
@@ -54,7 +54,7 @@ The end code is very similar to the test code I made, just that the keyfile, buc
 
 ```javascript
 // the screen rec file created by Kap
-const filePath = await ctx.filePath(); 
+const filePath = await ctx.filePath();
 
 // getting values that the user provided
 const keyFilename = ctx.config.get("keyFilename");
@@ -72,7 +72,7 @@ See the full source code here: https://github.com/dcefram/kap-gcs
 
 I'm currently using `share.rmrz.ph` for CleanShot and I do not want my existing links to stop working, so the alternative is to create a new bucket called `shr.rmrz.ph` and use CNAME for GCS to automatically handle the subdomain routing.
 
-However, I also wanted to know how many people would open my shared screen recordings. 
+However, I also wanted to know how many people would open my shared screen recordings.
 
 One option I thought of was to create a GCP Cloud Functions that would proxy the upload by creating signed URLs for upload, and at the same time, saving the file name to a database. I would then create a separate frontend that would use that record to know if the recording is valid, and save the stats to the specific record.
 
@@ -104,7 +104,7 @@ if (fileName) {
   elem.setAttribute('src', file);
 
   if (isVideo) {
-    elem.setAttribute('controls', 'true');  
+    elem.setAttribute('controls', 'true');
   }
 }
 ```
@@ -120,3 +120,8 @@ Although not as pretty as CleanShot's dashboard, it's pretty functional and does
 ## Final Thoughts
 
 With that small project done, I am able to trim my monthly expense, from $8 to $0.22... Cents that I already spend for my blog (Google Cloud DNS) anyways.
+
+## Edit
+
+I'll have to be completely honest though, I still prefer CleanShot's features over Kap, and thus, I ended up relying on my own OneDrive account for
+sharing screen recordings. One surprising thing though is that OneDrive got a pretty decent video player.
