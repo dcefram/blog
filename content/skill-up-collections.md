@@ -11,7 +11,7 @@ to the point that I can call myself as an expert to whatever subject matter the 
 
 Hopefully all books I read is in goodreads too, so that I can simply rely on the widget below to show what I'm currently reading.
 
-{{<good-reads user="137219091" width="250" height="400">}}
+{{<good-reads user="137219091">}}
 
 ### Completed books
 
