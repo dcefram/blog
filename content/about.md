@@ -37,3 +37,5 @@ the moment you stop learning, that's the moment life becomes dull and boring. I 
 and I just pulled them from the fragments of my scattered memory.
 
 In any case, here's where I show it off: [the collection](/skill-up-collections).
+
+Another showoff: the [equipment and tools I use](/uses).

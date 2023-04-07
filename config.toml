@@ -2,7 +2,7 @@ baseurl = "https://rmrz.ph"
 languageCode = "en"
 title = "rmrz"
 theme = "akin"
-copyright = ""
+copyright = "No fancy copyright. Just <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/uk/'>creative commons</a>. <a href='https://www.goatcounter.com/'>There's some vanity tracking going on, sorry</a>."
 # Number of posts per page
 Paginate = 5
 enableRobotsTXT = true
