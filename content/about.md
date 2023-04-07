@@ -39,3 +39,9 @@ and I just pulled them from the fragments of my scattered memory.
 In any case, here's where I show it off: [the collection](/skill-up-collections).
 
 Another showoff: the [equipment and tools I use](/uses).
+
+Also, this was the closest I could ever get into the TV. Hey Mom, look, I'm in... TwitchTV.
+
+![TwitchCon 2015](https://storage.googleapis.com/rmrz-blog.appspot.com/TwitchCon2015-221-1.jpg)
+
+I'm not sure if I'm any better at public speaking ever since this one.
