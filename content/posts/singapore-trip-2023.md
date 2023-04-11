@@ -22,7 +22,7 @@ One lesson learned is that if you got a 2-year-old, it’s best not to get the k
 
 ![](https://storage.googleapis.com/rmrz-blog.appspot.com/IMG_6092.jpeg)
 
-One good thing about the business class though is the exclusive lounge access that isn’t accessible for special credit card holders. The buffet food was acceptable and is definitely a comfortable way to kill time while waiting for your flight. They even got complimentary massages.
+One good thing about business class is the exclusive lounge access that isn’t accessible for special credit card holders. The buffet food was acceptable and is definitely a comfortable way to kill time while waiting for your flight. They even got complimentary massages.
 
 ![](https://storage.googleapis.com/rmrz-blog.appspot.com/IMG_0062.jpeg)
 
@@ -51,8 +51,7 @@ We went around the south of Singapore a lot, but a week definitely isn’t enoug
 
 We went to Marina Bay Sands twice, the first time to buy my Apple iPad, and to simply explore the mall itself. My eldest was able to go for the gondola ride, but my youngest was asleep so she missed all the fun.
 
-The second time we went there, we went to the Flower Dome and Cloud Forest. The kids had fun in the Flower Dome, did some painting activities, and took plenty of pictures… Pictures we were not able to retrieve it because of an unpleasant event that occurred later that evening. There are a couple that I took using my
-own phone though, but since my phone's main camera lens is broken, I rarely used it for photos...
+The second time we went there, we went to the Flower Dome and Cloud Forest. The kids had fun in the Flower Dome, did some painting activities, and took plenty of pictures… Pictures we were not able to retrieve because of an unpleasant event that occurred later that evening. There are a couple of pics that I took using my own phone though, but since my phone's main camera lens is broken, I rarely used it for photos...
 
 ![](https://storage.googleapis.com/rmrz-blog.appspot.com/IMG_5847.jpeg)
 ![](https://storage.googleapis.com/rmrz-blog.appspot.com/IMG_5862.jpeg)
@@ -67,11 +66,11 @@ Later that evening, during our walk back to Marina Bay Sands, AC lost her Galaxy
 
 We quickly let go of that unfortunate event, and visited Mandai where I ran out of energy. I got really exhausted in that large zoo. The next time we go for a similar activity, I’ll make sure to travel light and bring a bottle or two of energy drinks. The kids enjoyed it a lot though.
 
-I enjoyed the River Safari a lot though, mostly because that’s where we initially went, so my body batteries were still fully charged. The Pandas (dunno why it’s part of the River Safari, and not the Zoo…), the crocs, and the large fishes were the main things to see there.
+The first trip was to the River Safari, which I did enjoy, mostly because my body batteries were still fully charged. The Pandas (dunno why it’s part of the River Safari, and not the Zoo…), the crocs, and the large fishes were the main things to see there.
 
 ![](https://storage.googleapis.com/rmrz-blog.appspot.com/IMG_5932.jpeg)
 
-The Zoo itself has a lot more to see, but I was out of energy by then. There are a lot of shows too, wherein we were able to catch the dog show, the Splash Safari where we experienced the Sea Lion show, and is also the place where I was able to regain my energy by drinking like 3 bottles of sports drink.
+The Zoo itself has a lot more to see, but I was out of energy by then. There are a lot of shows too, wherein we were able to catch the dog show, the Splash Safari where we watched the Sea Lion show and is also the place where I was able to regain my energy by drinking like 3 bottles of sports drink.
 
 We also learned a lot there, especially the baboons. The longer the hair, the more alpha they are. I half wished that there was a lion cub there, could’ve witnessed a Lion King live-action.
 
