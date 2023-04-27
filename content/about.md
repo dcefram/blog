@@ -14,7 +14,10 @@ So now, this site is a simple blog, and hosts some personal tools we made.
 
 This site is ran by two software engineers, who happen to be married. [Here's how we met](/posts/how-we-met/).
 
-The husband's abbreviated name is **DC** (Daniel Cefram) while the wife's nickname is **AC**. Together we
+Right now, I (the husband) am currently the only active maintainer of this site as wifey
+has other endeavors to tend to, and blogging isn't her passion.
+
+My abbreviated name is **DC** (Daniel Cefram) while my wife's nickname is **AC**. Together we
 are a:
 
 {{< img-post "/images/main" "acdc.png" "A Power Supply" >}}
@@ -22,8 +25,6 @@ are a:
 We give a jolt to each other's lives. Booyeah, cheezit.
 
 ## Comms
-
-DC's a little more _internet active_ between the two, so comms goes through him:
 
 - hi@dcefram.com
 - [@dcrmrz@hachyderm.io](https://hachyderm.io/@dcrmrz)
