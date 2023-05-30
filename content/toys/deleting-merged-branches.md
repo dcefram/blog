@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-date = 2023-03-11T09:31:25+08:00
+date = 2021-03-11T09:31:25+08:00
 description = "I just wanted my git log graphs to have less noise"
 draft = false
 title = "Deleting Merged Branches"
