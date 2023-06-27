@@ -24,6 +24,7 @@ I received the unit after 3 weeks, which is pretty fast considering that buying 
 It set us back around 2.99m, and an additional 189k for the [Zivent PPF I got from Olympus](https://www.facebook.com/olympuscarfilms/posts/pfbid0YsLSYGgCC9ZeNhfnS2dptFtv3qnTyLW6W6qRpsNrVFjEURwkFw5FnJLurqDhJhrXl).
 
 ![zivent-ppf-cx9](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-06-27%20at%2019.35.40%402x.png)
+![zivent-ppf-cx9-back](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-06-27%20at%2023.47.21%402x.png)
 
 I really like its handling while at high speeds as it’s really planted to the ground even though it’s a big crossover/SUV. It could go from 0-60kmph in 7 seconds which does give some thrill while driving just past midnight.
 
