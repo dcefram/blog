@@ -16,13 +16,9 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 ## Editor
 
-_I have no loyalty here._
-
-- **Current Primary:** [Visual Studio Code](https://code.visualstudio.com/).
-- **Secondary:** [Sublime Text 4](https://www.sublimetext.com/) (Yes, I bought the [licenses for both Sublime Text](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-04-07%20at%2010.11.00.png) 3 and 4, weird flex, I know XD).
-- [GoLand](https://www.jetbrains.com/go/) when I need better refactoring features than what Visual Studio Code could offer.
-  - When I get frustrated with Visual Studio Code, I sometimes swap this as my primary IDE.
+- **Current Primary:** [GoLand](https://www.jetbrains.com/go/).
   - [This is a must-have plugin](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) when using GoLand (or any Jetbrains IDE).
+- **Secondary:** [Sublime Text 4](https://www.sublimetext.com/) (Yes, I bought the [licenses for both Sublime Text](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-04-07%20at%2010.11.00.png) 3 and 4, weird flex, I know XD).
 - [Victor Mono](https://rubjo.github.io/victor-mono/) is my font of choice.
 
 ## Terminal
@@ -61,6 +57,7 @@ _I have no loyalty here._
 - [Maccy](https://maccy.app/) as my clipboard manager.
 - [iStats Menu](https://bjango.com/mac/istatmenus). One of my most useful impulsive buy ever which lead me see just how much RAM are eaten up by those Chrome-based apps.
 - [Grammarly](https://www.grammarly.com). Still better than Microsoft Editor.
+- [Arc](https://arc.net/) as my primary browser.
 - Just recently started using [Microsoft Edge](https://www.microsoft.com/edge) for easy access to Bing Chat. My co-working pal that never leaves me in seen-zone.
 
 ## Other Apps for weird flex
