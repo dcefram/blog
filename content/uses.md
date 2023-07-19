@@ -16,9 +16,9 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 ## Editor
 
-- **Current Primary:** [GoLand](https://www.jetbrains.com/go/).
+- **Current Primary:** [Sublime Text 4](https://www.sublimetext.com/) (Yes, I bought the [licenses for both Sublime Text](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-04-07%20at%2010.11.00.png) 3 and 4, weird flex, I know XD).
+- **Secondary:** [GoLand](https://www.jetbrains.com/go/).
   - [This is a must-have plugin](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) when using GoLand (or any Jetbrains IDE).
-- **Secondary:** [Sublime Text 4](https://www.sublimetext.com/) (Yes, I bought the [licenses for both Sublime Text](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-04-07%20at%2010.11.00.png) 3 and 4, weird flex, I know XD).
 - [Victor Mono](https://rubjo.github.io/victor-mono/) is my font of choice.
 
 ## Terminal
@@ -35,7 +35,7 @@ Here's a list of equipments and tools that I use for work and personal work-like
     - Sublime Merge - Written in C++.
     - Fork - Objective-C + Swift.
 - I use [MongoDB Compass](https://www.mongodb.com/products/compass) for... MongoDB.
-- While [TablePlus](https://tableplus.com/) for relational databases.
+- While [TablePlus](https://tableplus.com/) for relational databases. Bought the standard license for 2 devices, should've just got the basic one for 1 device :|
 - I still use [Postman](https://www.postman.com/).
 - [Figma](https://www.figma.com/) at work, [Penpot](https://penpot.app/) for personal endeavors.
 - [Excalidraw](https://excalidraw.com/) for quick diagrams and even wireframes.
@@ -45,7 +45,7 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 - [Bear](https://bear.app/) for almost everything note-related.
   - I dabbled with [Obsidian](https://obsidian.md/), but I have the "Electron" fatigue, where my brain prefers to go native than a webapp pretending to be native.
-  - On that note, I'm eager to see [Bear 2](https://beta.bear.app/) get released which would have the feature that I loved the most in Obsidian: backlinks.
+  - ~~On that note, I'm eager to see [Bear 2](https://beta.bear.app/) get released which would have the feature that I loved the most in Obsidian: backlinks.~~ Bear 2 is already out, and it has backlinks! :D 2nd brain all the way.
 - I still use Apple [Notes](https://www.icloud.com/notes) when using my iPad because it got better Apple Pencil support.
 - We use [Confluence](https://www.atlassian.com/software/confluence) at work... because [Jira](https://www.atlassian.com/software/jira).
 - [Slack](https://slack.com) for work.
