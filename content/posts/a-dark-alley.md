@@ -9,7 +9,7 @@ draft = false
 
 +++
 
-I came across Kuya Kai’s blog again, after I saw some FB posts about illustrations, which prompted me to search for him to see what's his latest works are on the internet as he deactivated his social media account. In any case, I stumbled across his blog, and got troubled with a couple of his [blog](https://kaicastle.wordpress.com/2022/08/25/broken-hopes/) post (posted almost a year ago), and I really wish that everything goes well on his end.
+I came across Kuya Kai’s blog again, after I saw some FB posts about illustrations, which prompted me to search for him to see what's his latest works are on the internet as he deactivated his social media account. In any case, I stumbled across his blog, and got troubled with a couple of his [blog](https://kaicastle.wordpress.com/2022/08/25/broken-hopes/) posts (posted almost a year ago), and I really wish that everything goes well on his end.
 
 This is a tricky feeling though, as although I genuinely want to help him, the fact that he’s struggling with his mental health (depression) makes me remember that I should try to figure out my brother first. My older brother is struggling with depression too, and I have no clue how to help him.
 
