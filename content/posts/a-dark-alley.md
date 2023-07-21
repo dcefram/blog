@@ -43,5 +43,5 @@ Do I stop helping others because I cannot even help my own blood?
 
 How about Kuya Kai? He got his creative talent, and yet he feels that it’s not good enough. He used to work in industries related to his talent and passion. It’s already one step further than my brother, who struggled to keep straight ever since dropping out of Mapua.
 
-If I’d cross paths with Kuya Kai someday, I’d love to grab some coffee or hot choco with him, but when that time comes, I wish I know how to properly help people suffering from mental illnesses.
+If I’d cross paths with Kuya Kai someday, I’d love to grab some coffee or hot choco with him, but when that time comes, I hope I know how to properly help people suffering from mental illnesses.
 
