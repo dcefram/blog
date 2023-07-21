@@ -35,7 +35,7 @@ What happened to him? Did he trip? Or is he hanging by a cliff? If I take this s
 
 Look, socializing was always my weakest trait, and now I have to go figure out how a person with mental illness thinks and feels in order to somehow help them. It’s a daunting task.
 
-This feeling is at odds with everything else. I’ve been helping, or trying my best to help others. Strangers, people I never knew before. I am quite religous and I share to strangers whenever I get the chance. It's not just all-talk either as I got involved monetarily in [unicef](https://www.unicef.org/) and [sos](https://www.sosphilippines.org/) for almost a decade straight now, and yet, I can’t even help my own kin.
+This feeling is at odds with everything else. I’ve been helping, or trying my best to help others. Strangers, people I never knew before. I am quite religous and I share to strangers whenever I get the chance. It's not only helping others through ministry either as I also got involved monetarily in [unicef](https://www.unicef.org/) and [sos](https://www.sosphilippines.org/) for almost a decade straight now, and yet, I can’t even help my own kin.
 
 Do I stop helping others because I cannot even help my own blood?
 
