@@ -15,7 +15,7 @@ This is a tricky feeling though, as although I genuinely want to help him, the f
 
 ### Hermano
 
-Although I have to admit that my family is doing well financially as I turned out to be a driven individual against all odds, I cannot say the same for my parents and brother. My father is suffering from Parkinson’s (an illness that I see myself getting in the future as I’m exhibiting the same symptoms as what my father had when he was younger, I was even rushed to ER last week, ok experience, 6/10, some room for improvement, but that’s another story for another time) thus his medications are quite pricey. My brother does not have a regular job, and I’m not even sure if he has any means to earn right now, and there are times that his situation is causing him to spiral deeper into depression. He would message me at times about this, and although I want to help, I have no idea how.
+Although I have to admit that my family is doing well financially as I turned out to be a driven individual against all odds, naks naman, buhat chair para konyo kuno, I cannot say the same for my parents and brother. My father is suffering from Parkinson’s (an illness that I see myself getting in the future as I’m exhibiting the same symptoms as what my father had when he was younger, I was even rushed to ER last week, "ok" experience, 6/10, some room for improvement, but that’s another story for another time) thus his medications are quite pricey. My brother does not have a regular job, and I’m not even sure if he has any means to earn right now, and there are times that his situation is causing him to spiral deeper into depression. He would message me at times about this, and although I want to help, I have no idea how.
 
 > Although I want to help, I have no idea how.
 
@@ -38,6 +38,8 @@ Look, socializing was always my weakest trait, and now I have to go figure out h
 This feeling is at odds with everything else. I’ve been helping, or trying my best to help others. Strangers, people I never knew before. I got involved in [unicef](https://www.unicef.org/) and [sos](https://www.sosphilippines.org/) for almost a decade straight now, and yet, I can’t even help my own kin.
 
 Do I stop helping others because I cannot even help my own blood?
+
+I wanted to insert some positive note here, or a self-deprecating joke to lighten up the mood, pero wala e, nagugulumihanan na nalulungkot na nanlulumo na di ko alam how to describe this feeling anymore.
 
 ### No conclusion
 
