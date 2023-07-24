@@ -13,7 +13,7 @@ I started working with Fujitsu Ten in October something, 2010. I don’t remembe
 
 The industry was embedded software for automotive electronics, and here’s where I learned about the actual practical usage of pointers in C. Here’s where I also saw how we used function dispatch tables to act like *methods* in a procedural language… heck, you would even see how they (the Japanese guys who wrote the base software that we were building on top of) implemented hashtables, and other *necessities* that we take for granted on a modern programming language.
 
-I joined the company initially as a source code analyst for C language-based systems, and to put it mildly, I smashed it… Like, 3 promotions straight smash, homerun kinda thing. I left after my 3rd year though.
+I joined the company initially as a source code analyst for C language-based systems, and to put it mildly super yabang mode, I smashed it… Like, 3 promotions straight smash, homerun kinda thing. I left after my 3rd year though.
 
 ## My Contributions
 
