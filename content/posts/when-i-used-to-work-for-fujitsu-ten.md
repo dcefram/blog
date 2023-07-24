@@ -64,8 +64,8 @@ Also, obviously, this is the company where I met my wife, so definitely somethin
 
 Anyways, here are some images :)
 
-![FTSP](https://storage.googleapis.com/rmrz-blog.appspot.com/ftsp.jpeg)
 ![FTL](https://storage.googleapis.com/rmrz-blog.appspot.com/ftl-rooftop-2.jpeg)
+![FTSP](https://storage.googleapis.com/rmrz-blog.appspot.com/ftsp.jpeg)
 ![JP-Ministry](https://storage.googleapis.com/rmrz-blog.appspot.com/ministry-jp.jpeg)
 ![me](https://storage.googleapis.com/rmrz-blog.appspot.com/ako-ito.jpeg)
 ![me again](https://storage.googleapis.com/rmrz-blog.appspot.com/ito-ako-2.jpeg)
