@@ -25,7 +25,7 @@ In the grand scheme of things, my contributions are minuscule compared to the si
   - The first time I was sent to Japan, I received positive feedback from our Japanese counterpart, Kitamura-san, which directly resulted in my promotion. I jumped ahead of my batchmate, Kelvin, due to this.
   - The second time in Japan, I experienced getting sick, and although I still got positive feedback from Kitamura-san, I’m forever bitter about the fact that he decided to treat the PH team to dinner when I was sick >_<
   - The third time in Japan was the worst, as the project was in a dire state and we had to render overtime every day. It was in Hyogo-ku, Kobe, and the whole town turns into a ghost town when the clock struck 9 pm. I usually go home past that time, so it’s pretty… lonely and dark. This whole project (TDJA) was the one single project that caused me to resign from Fujitsu.
-    - Btw, it was a surreal experience, from the moment I was told to go to Japan. It was a mere 2 days’ notice, my supervisor said asked me if my Visa was still valid and told me to pack up, buy stuff (because it’s autumn there, so I need to buy warm clothes), and fly I go.
+    - Btw, it was a surreal experience, from the moment I was told to go to Japan. It was a mere 2 days’ notice, my supervisor asked me if my Visa was still valid and told me to pack up, buy stuff (because it’s autumn there, so I need to buy warm clothes), and fly I go.
 - I wrote a tool that allows us to do systems testing using our 32-bit computers, although the target system the base software is written for is usually 8-bit/16-bit systems. This tool also got me a promotion.
 
 ## What I disliked
