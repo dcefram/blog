@@ -68,7 +68,7 @@ const hasNoResults = typeof outerArray.find((innerArray) => {
 }) === 'undefined';
 ```
 
-Our benchmarks showed around `0.0439453125ms` for the best-case scenario, while the worst-case scenario hovers around 1.2s - 3s. The first option using `.push` was consistently hovering between 1.2s - 3s regardless of the scenario.
+Our benchmarks showed around `0.0439453125ms` for the best-case scenario, while the worst-case scenario hovers around `1.2s - 3s`. The first option using `.push` was consistently hovering between `1.2s - 3s` regardless of the scenario.
 
 ## The possible reason
 
