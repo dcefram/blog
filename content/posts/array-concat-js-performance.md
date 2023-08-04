@@ -44,7 +44,7 @@ We encountered a couple of cases where we had to iterate over 10k items in the f
 
 We used Chrome's DevTools' Performance profiler to dig into which exact line was taking up the most time.
 
-![](https://storage.googleapis.com/rmrz-blog.appspot.com/perf-array-concat-devtools.png)
+![](https://storage.googleapis.com/rmrz-blog.appspot.com/concat-perf-js.png)
 
 In the screenshot above, you can also notice the yellow area chart at the very top. That's the CPU usage, which you can see is hovering at 100% for 33 seconds.
 
