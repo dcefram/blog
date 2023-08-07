@@ -52,23 +52,65 @@ The specific line that is the culprit is the line where we did the `.concat`.
 
 ## The solution
 
-There were two solutions that were floated. One was to use `push` and mutate the array, retaining most of the current logic in place.
-
-The other was to add another nested loop, processing each item rather than building a new array with the combined values before doing the checking.
+There were two solutions that were floated:
+- One was to use `push` and mutate the array, retaining most of the current logic in place.
+- The other was to add another nested loop, processing each item rather than building a new array with the combined values before doing the checking.
 
 We went for the latter solution as after some benchmarking, the worst-case scenario has the same benchmark for the two options, but the best-case scenario is faster when we simply short-circuit the loops without having to copy items to a temporary array.
 
+Here's a rough code of the benchmark I made on my work laptop:
 ```js
-const hasNoResults = typeof outerArray.find((innerArray) => {
-  // return `true` and short circuit if we didn't find any valid value
-  return typeof innerArray.find((obj) =>
-    // obj has a valid value
-    typeof Object.values(obj).find(Boolean) !== 'undefined'
-  ) === 'undefined';
-}) === 'undefined';
+// test data
+const data = Array.from(new Array(10000)).map((i) => ({
+  v: 'rand_' + i,
+  z: 'rrrr' + i,
+  l: i % 2 ? '0' : '0'
+}));
+
+function arrayConcat() {
+  console.time('array.concat');
+  let values = [];
+  data.forEach((d) => {
+    values = values.concat(Object.values(d));
+  });
+  const hasNoResults = values.every((a) => a === "0");
+  console.log('array.concat noResults', hasNoResults);
+  console.timeEnd('array.concat');
+}
+
+function nestedLoops() {
+  console.time('nested loops')
+  const hasNoResults = typeof data.find((d) => {
+    return typeof Object.values(d).find((v) => v !== '0') !== 'undefined'
+  }) === 'undefined';
+  console.log('nested loops noResults', hasNoResults);
+  console.timeEnd('nested loops');
+}
+
+function arrayPush() {
+  console.time('array.push')
+  let values = [];
+  data.forEach((d) => {
+    values.push(...Object.values(d));
+  });
+  const hasNoResults = values.every((a) => a === "0");
+  console.log('array.push noResults', hasNoResults);
+  console.timeEnd('array.push');
+}
+
+arrayConcat();
+nestedLoops();
+arrayPush();
 ```
 
-Our benchmarks showed around `0.0439453125ms` for the best-case scenario, while the worst-case scenario hovers around `1.2s - 3s`. The first option using `.push` was consistently hovering between `1.2s - 3s` regardless of the scenario.
+The results of the benchmark are:
+```
+array.concat: 58.93701171875 ms
+nested loops: 0.028076171875 ms
+array.push: 0.910888671875 ms
+```
+
+Even on the worst case scenario, nested loops logged in very similar time as `Array.push`, so we decided to go for nested loops instead of the arguably a lot readable `Array.push` approach.
 
 ## The possible reason
 
@@ -91,6 +133,8 @@ Does this mean that we should always avoid using `concat`? No, not really. We sh
 It was 2015 when I first caught wind of React and its push with immutability, and the succeeding years were filled with [people *evangelizing* why we *should not* mutate objects and arrays](https://alistapart.com/article/why-mutation-can-be-scary/).
 
 The reasons are all valid, but as with almost everything in life, we should always have a balanced view of things and understand when to use an approach, and when not to. **This is a great example for us to be careful about treating everything we learn as absolutes**.
+
+*Always, always* evaluate the scenario when choosing what solution to go for.
 
 # References
 
