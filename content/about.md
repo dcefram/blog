@@ -26,7 +26,7 @@ We give a jolt to each other's lives. Booyeah, cheezit.
 
 ## Comms
 
-- hi@dcefram.com
+- dc@rmrz.ph
 - [@dcrmrz@hachyderm.io](https://hachyderm.io/@dcrmrz)
 - [@dcefram](https://twitter.com/dcefram)
 - [Github](https://github.com/dcefram)

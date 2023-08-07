@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["css"]
+tags = ["dev"]
 date = 2017-03-04T08:13:23Z
 description = "Applying styles based on other elements."
 draft = false
