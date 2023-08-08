@@ -41,7 +41,7 @@ I got back to the Philippines on April 2, and that's when we officially started 
 
 It was quite early, just a few weeks from that day, when I agreed to meet with her father and make it official-official, like family official.
 
-We didn't last being an office couple though, as after I was sent to Japan for the 3rd time in the 4th quarter of 2013, I decided to call it quits with the company. It was around this time that we had frequent overtime, both AC and I went home past midnight and had to be back at the office at 7 am. When I was sent to Japan on a 2 days notice, I had to work 12-13 hours a day there, and that's when I finally decided to resign.
+We didn't last being an office couple though, as after I was sent to Japan for the 3rd time in the 4th quarter of 2013, I decided to call it [quits with the company](https://rmrz.ph/posts/when-i-used-to-work-for-fujitsu-ten/#:~:text=me%20a%20promotion.-,What%20I%20disliked,-Although%20my%20trajectory). It was around this time that we had frequent overtime, both AC and I went home past midnight and had to be back at the office at 7 am. When I was sent to Japan on a 2 days notice, I had to work 12-13 hours a day there, and that's when I finally decided to resign.
 
 I left the company on January 2, 2014, and joined [XSplit](https://rmrz.ph/posts/on-to-a-new-challenge/) on January 4. AC left Fujitsu soon after. We have both since transitioned away from embedded firmware industry, wherein I went into the multimedia software industry, while AC went into the banking software industry.
 
