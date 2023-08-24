@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["life", ]
+tags = ["life", "career"]
 date = 2023-07-24T23:40:20+08:00
 title = "When I Used to Work for Fujitsu Ten"
 description = "I’m backing up photos migrating from OneDrive to another cloud provider, and I saw the pictures of the olden days. Fujitsu Ten is now Denso Ten."

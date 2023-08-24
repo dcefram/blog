@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["life"]
+tags = ["life", "career"]
 date = 2018-09-11T12:31:38+08:00
 description = "Why I left a great job at XSplit, a company that I felt as the golden standard of how employers should be."
 draft = false
