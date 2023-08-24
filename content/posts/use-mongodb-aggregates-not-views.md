@@ -2,7 +2,7 @@
 author = "Daniel Cefram Ramirez"
 tags = ["dev"]
 date = 2023-08-24T23:23:11+08:00
-title = "Use Mongodb Aggregates, Not Views"
+title = "Use MongoDB Aggregates, Not Views"
 description = "Views are just aggregates, but for APIs, it's often better to build aggregates from scratch"
 type = "post"
 draft = false
