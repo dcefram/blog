@@ -11,7 +11,7 @@ draft = false
 
 I was recently offered a position as "Head of Software Development", which is directly under "VP of Engineering", but I turned it down.
 
-The reason turned out to be because of my risk appetite. The offer was for a brand new startup that has yet to dip its toes into the market, testing the waters for its product market fit. Unfortunately, with the current economy we are in, it felt a tad bit risky.
+The reason turned out to be because of my risk appetite. The offer was for a brand new startup based in the US that has yet to dip its toes into the market, testing the waters for its product market fit. Unfortunately, with the current economy we are in, it felt a tad bit risky.
 
 Being a father of 2 young girls, I was inclined to choose the *safer bet* rather than the *riskier* but definitely exciting opportunity. As with most things in life, this is one of the decisions I have yet to see if I would regret it down the line or not, as it is not super clear upfront. The only *known* parameters are the risks and my current risk appetite.
 
