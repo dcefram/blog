@@ -74,8 +74,8 @@ db.folders.aggregate([
 In our new API endpoint, we simply added the filters on the view:
 ```js
 // Using mongodb
-const items = await Folders.find({ 
-  _id: someFolderId,
+const items = await FolderView.find({ 
+  folderId: someFolderId,
   owner: someOwnerId,
 });
 ```
@@ -83,6 +83,8 @@ const items = await Folders.find({
 Seems simple enough, right?
 
 The issue is that `views` are computed on-demand, and is built first before we can query against it. This means that we are processing all of the available data even though we already knew beforehand that we only care for the items that belong to a specific folder, and a specific owner.
+
+![MongoDB Views Diagram](https://storage.googleapis.com/rmrz-blog.appspot.com/mongodb-views-filter-diagram.png)
 
 ### How did we pinpoint the bottleneck?
 
@@ -110,6 +112,8 @@ db.folders.aggregate([
 ```
 
 The idea here is that we only get the specific folder first, and then the rest of the step would only lookup against 1 folder, rather than looking up all items from all folders and bucketing them according to their `folderId`.
+
+![MongoDB Aggregates Diagram](https://storage.googleapis.com/rmrz-blog.appspot.com/mongodb-aggregates-filter-diagram.png)
 
 This this work? Of course! It was a significant performance boost:
 
