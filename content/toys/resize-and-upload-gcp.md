@@ -6,6 +6,7 @@ title = "Resizing images and uploading to GCP Storage"
 description = "A simple script to upload images that are blog-friendly"
 type = "toys"
 draft = false
+aliases = ['/posts/resize-and-upload-gcp']
 
 +++
 
@@ -36,7 +37,7 @@ I use `gcloud` command to upload files to my google cloud storage bucket with th
 gcloud storage cp ~/Pictures/blog/$file gs://$bucket
 ```
 
-It’s pretty straightforward too. 
+It’s pretty straightforward too.
 
 ## Packaging it all up
 
