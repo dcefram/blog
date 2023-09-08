@@ -15,7 +15,7 @@ This post was a long time coming, I just stumbled upon this one in one of my Zet
 
 We had an API endpoint that would list down a *folder*'s contents. The folder can contain items from three different collections, we'll name them as *images*, *texts*, and *videos* just so that I don't reveal a lot about what the project was about.
 
-In a relational database, the joins would've been easy and efficient. In MongoDB, you have to be careful about where you place the *filters*. 
+In a relational database, the joins would've been easy and efficient. In MongoDB, you have to be careful about where you place the *filters*.
 
 We initially created a `view` in MongoDB to see the big picture, where we could see all the items per folder. The issue though is that when we started building the API, we queried against this `view`. Why is it an issue?
 
@@ -23,7 +23,7 @@ Well, remember that I mentioned that the view was made so that we can see the bi
 
 ```js
 db.folders.aggregate([
-  { 
+  {
     $lookup: {
       from: "images",
       localField: "_id",
@@ -31,7 +31,7 @@ db.folders.aggregate([
       as: "images",
     }
   },
-  { 
+  {
     $lookup: {
       from: "texts",
       localField: "_id",
@@ -39,7 +39,7 @@ db.folders.aggregate([
       as: "texts",
     }
   },
-  { 
+  {
     $lookup: {
       from: "videos",
       localField: "_id",
@@ -47,7 +47,7 @@ db.folders.aggregate([
       as: "videos",
     }
   },
-  
+
   // combine the three collectionsinto one array
   {
     $addFields: {
@@ -74,7 +74,7 @@ db.folders.aggregate([
 In our new API endpoint, we simply added the filters on the view:
 ```js
 // Using mongodb
-const items = await FolderView.find({ 
+const items = await FolderView.find({
   folderId: someFolderId,
   owner: someOwnerId,
 });
@@ -115,7 +115,7 @@ The idea here is that we only get the specific folder first, and then the rest o
 
 ![MongoDB Aggregates Diagram](https://storage.googleapis.com/rmrz-blog.appspot.com/mongodb-aggregates-filter-diagram.png)
 
-This this work? Of course! It was a significant performance boost:
+Did this work? Of course! It was a significant performance boost:
 
 ![After](https://storage.googleapis.com/rmrz-blog.appspot.com/mongodb-aggregates-after.png)
 
@@ -123,7 +123,7 @@ From **283ms**, we went down to **2.28ms! That's a 100x performance improvement!
 
 ## Conclusion
 
-Although this resulted in a definite performance boost, the caveat is that we now have a duplicate aggregate where we need to remember to update both the view and the API's aggregate whenever we decide to change the steps of the aggregate.
+Although this resulted in a definite performance boost, the caveat is that we now have a duplicate aggregate where we need to remember to update both the view and the API's aggregate whenever we decide to change the steps of the aggregate, in case we want to still maintain the view for backroom activities.
 
 But this is a small price to pay for the 100x performance improvement, which can easily change into a larger delta once more users add more data to the database.
 
