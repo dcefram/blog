@@ -7,6 +7,7 @@ draft = false
 linktitle = ""
 title = "JavaScript for Desktop - Talk in FEU"
 type = "post"
+aliases = ['/javascript-for-desktop-my-presentation-in-feu']
 
 +++
 

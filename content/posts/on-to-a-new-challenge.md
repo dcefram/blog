@@ -26,7 +26,7 @@ Unlike in Fujitsu, where I was just one of the almost thousands of employees, I 
 
 I mainly worked on the desktop application and the video editor. This is where I did a deep dive on most of the &quot;native&quot; functionalities of our C++ shell.
 
-It was an eye opening experience that I [made a talk about it](https://blog.rmrz.ph/javascript-for-desktop-my-presentation-in-feu/), mainly criticizing the fact that frontend developers really care for the aesthetics but usually disregards the _costs_ of their desired &quot;behavior&quot;. One example here is... did you know that the CSS transform scale eats up a lot of CPU juice? We had an animation that would scale an element for our loading indicator, and that made our app take 10% more CPU usage! That's a lot!
+It was an eye opening experience that I [made a talk about it](https://rmrz.ph/js-for-desktop-talk/), mainly criticizing the fact that frontend developers really care for the aesthetics but usually disregards the _costs_ of their desired &quot;behavior&quot;. One example here is... did you know that the CSS transform scale eats up a lot of CPU juice? We had an animation that would scale an element for our loading indicator, and that made our app take 10% more CPU usage! That's a lot!
 
 Since the desktop app would be hooked to a game, we wanted to minimize the impact of the desktop app's resource consumption so that the gameplay would go on smoothly like as if the desktop app did not exist at all.
 
