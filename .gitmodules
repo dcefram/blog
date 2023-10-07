@@ -2,3 +2,6 @@
 	path = themes/akin
 	url = git@github.com:dcefram/akin.git
 	branch = main
+[submodule "toys/ts-interface-from-json"]
+	path = toys/ts-interface-from-json
+	url = git@github.com:dcefram/ts-interface-from-json.git
