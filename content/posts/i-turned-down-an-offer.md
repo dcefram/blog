@@ -19,6 +19,6 @@ Being a father of 2 young girls, I was inclined to choose the *safer bet* rather
 
 It turned out that there are some really great opportunities that *we* might think are a no-brainer, but after careful consideration, we could end up turning it down. Maybe as one grows older, the natural *opportunistic* side is superseded with *pessimism*, or maybe it's just *pragmatism*.
 
-This opportunity also is a testament to why we shouldn't burn down bridges, and do our absolute best in whatever role we are in. This opportunity was from my former CEO who sold his [company](https://www.linkedin.com/company/dealtale/) to [Vianai](http://vian.ai/). If I was just cruising by, doing the bare minimum of what is needed, or I had a toxic personality against the management, then I most likely wouldn't have been presented with this opportunity.
+This opportunity also is a testament to why we shouldn't burn down bridges, and do our absolute best in whatever role we are in. This opportunity was from my former CEO who sold his [company](https://www.linkedin.com/company/dealtale/) to [Vianai](https://vian.ai/). If I was just cruising by, doing the bare minimum of what is needed, or I had a toxic personality against the management, then I most likely wouldn't have been presented with this opportunity.
 
 Hopefully, I get opportunities similar to this in the future, but I do hope that I am in a situation where I can handle the risks when that time comes.
