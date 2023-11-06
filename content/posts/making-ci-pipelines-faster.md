@@ -31,6 +31,7 @@ What this meant is that for every change made in our feature branch, even if the
 This is especially painful as there were "old" flakey unit tests that for some reason, are quite hard to clean up. When those tests failed, it meant that we needed to retry the pipeline and wait for another hour before we could merge.
 
 With that, we embarked on an effort to figure out how to speed up our pipelines without sacrificing the value we get from our unit tests.
+
 # Make pipelines fast again
 
 Without sacrificing tests, we tried to look for ways to get our pipelines faster.
