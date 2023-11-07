@@ -43,7 +43,7 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 ## Productivity Apps
 
-- [Obsidian](https://obsidian.md/) for almost everything note related.
+- [Bear](https://bear.app/) for almost everything note related.
 - I still use Apple [Notes](https://www.icloud.com/notes) when using my iPad because it got better Apple Pencil support.
 - We use [Confluence](https://www.atlassian.com/software/confluence) at work... because [Jira](https://www.atlassian.com/software/jira).
 - [Slack](https://slack.com) for work.
