@@ -45,7 +45,7 @@ However, our unit test steps still took almost an hour to finish. It's good we u
 
 The second one, evaluating Vitest, was a little harder to do. Although doing simple benchmarks wasn't hard, it was migrating our 900+ test cases to use Vitest which was the main blocker. We couldn't simply change jest to vitest and call it a day, as we made heavy use of Jest's mocks. It was simply not economically viable to pursue Vitest.
 
-Thankfully, Minh, one of my fellow developers, found two possible paths to optimize our pipelines:
+Thankfully, Minh, a fellow developer involved in the same project as I am, found two possible paths to optimize our pipelines:
 
 - Jest's `--findRelatedTests`
 - Caching the project's dependencies
