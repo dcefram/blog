@@ -96,24 +96,16 @@ install:
       when: on_success
       policy: pull-push
 
-    # store npm cache for all branches
-    - key: $CI_JOB_NAME
-      paths:
-        - .npm/
-      when: on_success
-      policy: pull-push
   script:
     - npm ci --cache .npm --prefer-offline
 ```
 
 We install the dependencies first before all other jobs, and the dependencies would be shared across all other jobs within the pipeline… as long as their package-lock.json file is the same (which is always the case).
 
-If `npm ci` took 7 minutes to minutes, and we had 5 unit test jobs, we would end up having 35 extra minutes just for installing dependencies. With this change, we decreased the 35 minutes down to just 7 minutes as `npm ci` would only run exactly once in a pipeline.
+If `npm ci` took 7 minutes to complete, and we had 5 unit test jobs, we would end up having 35 extra minutes just for installing dependencies. With this change, we decreased the 35 minutes down to just 7 minutes as `npm ci` would only run exactly once in a pipeline.
 
 # Conclusion
 
-We have yet to see what the results are of the changes in how we run our unit tests. Rather than aiming for a high test coverage, we opted to only run directly relevant tests. One thing we consider though is running the full suite at a later stage instead (ex. after the changes are merged into the main branch).
-
-But as far as test coverage is concerned, I think that running it locally and blocking the commit if it falls short should be sufficient. We don’t do that in this particular project “yet”, but another project that I do handle (albeit, it’s on Python) does this, using git hooks to run the unit tests and blocking the commit if it fails or if the coverage is below the threshold.
+We have yet to see what the results are of the changes in how we run our unit tests. Rather than aiming for a high test coverage, we opted to only run directly relevant tests. One thing we could consider though is running the full suite at a later stage instead (ex. after the changes are merged into the main branch) or, what I do prefer, is running it locally and blocking the commit if it falls short. We don’t do that in this particular project “yet”, but another project that I do handle (albeit, a project using Python) does this, using git hooks to run the unit tests and blocking the commit if it fails or if the coverage is below the threshold.
 
 As for the cache, that’s pretty straightforward. No arguing here that separating the installation step from the rest of the pipeline is the right approach.
