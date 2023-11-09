@@ -8,11 +8,15 @@ draft = false
 
 +++
 
+# Summary
+
 The post itself has some interesting points to consider. However, I do not fully agree with the point that developers want to learn new technologies just because that is valued more than working on the core business logic. I observe that organizations do value people who work on core business logic more than people who know the latest and greatest.
 
 It's more of a case that sticking to the same company isn't as rewarding as switching to another company every few years.
 
 Also, the excitement that comes with new things is more to blame. Just like how excited one would be to get their hands on the latest MacBook or iPhone, the same is true with learning and using the latest tech available.
+
+# Notes
 
 > One that only cares about measurable business outcomes
 
@@ -22,7 +26,7 @@ This is a lot more common. I haven't yet joined any company that does not value 
 
 This is often the case for the engineers. Sure, staff engineers can be considered "leaders", but I don't think it's right to say that they represent what the company is all about... unless, of course, if it's a specific-tech consultancy/outsourcing shinemagig.
 
-> Maybe because there’s no incentive for doing that and resume-driven development[1](#fn:1) genuinely pays better. As long as companies keep making people solve obscure puzzles that has nothing to do with the job or hiring managers keep employing automated systems to look for keywords in resumes, a group of smart people will always engage in techno-maximalism to prepare for the next big opportunity;
+> Maybe because there’s no incentive for doing that and resume-driven development genuinely pays better. As long as companies keep making people solve obscure puzzles that has nothing to do with the job or hiring managers keep employing automated systems to look for keywords in resumes, a group of smart people will always engage in techno-maximalism to prepare for the next big opportunity;
 
 I feel that this part missed a much more important problem: Job hopping usually yields better pay than sticking with the same company.
 
@@ -39,3 +43,11 @@ As I noted earlier, unless career progression within the company can keep up wit
 No one wants to be in a Perl convention, right? I'd rather join a Next.js Conf or a RustConf... but to appreciate and hopefully be able to make meaningful conversations with fellow attendees, I would need to have used the tech a little more than my evening dabbles.
 
 Another thought, job security is also at play here. In a world where one can be laid off in a whim, individuals would always want to stay relevant to make themselves hirable.
+
+# Final Thoughts
+
+As a team lead, this is a good reminder to me that:
+
+- I should be able to provide opportunities for my team to grow professionally.
+- I should be able to provide them with the right amount of challenge and support to grow.
+- I should be able to provide them with the right amount of recognition and reward for their efforts.
