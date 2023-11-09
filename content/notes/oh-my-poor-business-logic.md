@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-date = 2023-08-24T08:52:47+08:00
+date = 2023-10-07T08:52:47+08:00
 title = "Oh my poor business logic"
 link = "https://rednafi.com/misc/oh_my_poor_business_logic/"
 type = "notes"
@@ -24,7 +24,7 @@ This is often the case for the engineers. Sure, staff engineers can be considere
 
 > Maybe because there’s no incentive for doing that and resume-driven development[1](#fn:1) genuinely pays better. As long as companies keep making people solve obscure puzzles that has nothing to do with the job or hiring managers keep employing automated systems to look for keywords in resumes, a group of smart people will always engage in techno-maximalism to prepare for the next big opportunity;
 
-I feel that this part missed a much more important problem: Job hopping usually yields better pay than sticking with the same company. 
+I feel that this part missed a much more important problem: Job hopping usually yields better pay than sticking with the same company.
 
 The whole concept of "resume-driven development" is leaning towards the assumption that it is inevitable that engineers would want to hop to another company no matter what.
 
