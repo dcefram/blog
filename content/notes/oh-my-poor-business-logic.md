@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-date = 2023-10-07T08:52:47+08:00
+date = 2023-11-07T08:52:47+08:00
 title = "Oh my poor business logic"
 link = "https://rednafi.com/misc/oh_my_poor_business_logic/"
 type = "notes"
