@@ -5,6 +5,7 @@ title = "Oh my poor business logic"
 link = "https://rednafi.com/misc/oh_my_poor_business_logic/"
 type = "notes"
 draft = false
+tags = ["article"]
 
 +++
 

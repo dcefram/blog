@@ -6,6 +6,7 @@ link = "https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/
 type = "notes"
 draft = false
 toc = true
+tags = ["book"]
 
 +++
 
