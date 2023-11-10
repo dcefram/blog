@@ -15,7 +15,7 @@ Hopefully all books I read is in goodreads too, so that I can simply rely on the
 
 ### Completed books
 
-- [Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
+- [Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout - [Notes](/notes/pragmatic-thinking-and-learning/)
 - [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/en/book/show/18988711) by Andy Hunt
 
 ## Udemy splurges
