@@ -23,7 +23,7 @@ Although I've been a remote engineer since 2018, ever since my former boss Mike 
 
 I remember my days with XSplit where this was also the setup. This approach of having teams operate as a new startup within the company might not be unique, but it certainly is unheard of in large enterprises like Fujitsu.
 
-One hard pill to swallow with this setup is when PMF was never realized. [My personal experience](/posts/on-to-a-new-challenge/#why-i-left-splitmedialabs), with Player.me's desktop app, was that one of the key things that led me to leaving the team as I felt responsible for the lackluster reception of the product. This was mostly due to my great sense of ownership which was fostered by how the teams were set up surrounding products we were focusing on.
+One hard pill to swallow with this setup is when PMF was never realized. I personally felt that [when I used to work on the Player.me Desktop App project](/posts/on-to-a-new-challenge/#why-i-left-splitmedialabs).
 
 > To prevent this, product teams like ChatGPT have software engineers, designers, product managers, and researchers working together.
 
