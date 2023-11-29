@@ -28,6 +28,7 @@ We give a jolt to each other's lives. Booyeah, cheezit.
 
 - dc@rmrz.ph
 - [Github](https://github.com/dcefram)
+- [@dcrmrz@hachyderm.io](https://hachyderm.io/@dcrmrz)
 - [LinkedIn](https://ph.linkedin.com/in/daniel-cefram-ramirez) (Got lazy half way on creating my own web resume)
 
 ## Others
