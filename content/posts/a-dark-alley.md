@@ -19,6 +19,10 @@ Although I have to admit that my family is doing well financially as I turned ou
 
 > Although I want to help, I have no idea how.
 
+The thing about just listening is that it is, to be honest, taxing too for the listener, especially if the listener views the person as someone important. The feeling of helplessness is unavoidable, as anything you do does not seem to help at all. You'll be there one day, listening to all what he says, and then after a few days, I'll learn from my father that he tried to hang himself.
+
+Did "just" listening help? I'm not even sure at all at this point.
+
 I’m a software engineer, throw me a problem, and I’ll give you the solution based on the problem statement. You’re feeling sad because you got no job? Well, let’s try to find you a job. The job market is tough right now, but the BPO industry so far seems to be able to withstand the effects of the recession. I suggested him about trying that out, but he preferred to work at home. A part of me wanted to scold him that he’s not really in a position to be picky, but another part of me just held it back because *I do not fully understand the gravity of mental illnesses like depression*.
 
 The unknowns make it really hard for me to *connect* with him in a way that can be helpful. Heck, I don’t even know if I’m in any way helpful to him by just conversing with him. **What if he hates having a conversation with me?** It’s a legitimate thought, as I’m the younger brother, I can’t help but think that being in the position that I am right now is contributing to the negative thoughts in his head, presumptuous yes, but a legitimate thought that came across my mind at times. But I digress, this post isn’t about me, I’ll probably share about this aspect some other time.
