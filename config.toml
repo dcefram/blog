@@ -18,7 +18,8 @@ enableSocial = true # Adds OpenGraph and Twitter cards
 enableUtterances = true # Adds utterances comments to posts
 homeTitle = "rmrz" # Title for home page
 poweredby = false # Adds powered by hugo and kiss below Copyright
-description = "This was supposed to be a family portal."
+description = "Dan's public notes on web development, management, and the occational public journal entries."
+subTitle = "This was supposed to be a family portal."
 shareBaseUrl = "https://storage.googleapis.com/rmrz-blog.appspot.com/"
 
 [params.opengraph.facebook]
@@ -62,11 +63,6 @@ hrefTargetBlank = true
     name = "Blog"
     url = "/"
     weight = 1
-  [[menu.main]]
-    identifier = "notes"
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
   [[menu.main]]
     identifier = "about"
     name = "About"

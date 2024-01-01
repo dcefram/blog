@@ -24,6 +24,10 @@ are a:
 
 We give a jolt to each other's lives. Booyeah, cheezit.
 
+## About Me
+
+I have over 13 years of experience in software engineering and leading teams, initially starting in the embedded engineering field with [Denso Ten](https://www.denso-ten.com/), then moving on to multimedia streaming software development with [XSplit](https://xsplit.com/), joined a couple of startups like [Dealtale](https://www.linkedin.com/company/dealtale/) by [Vianai](https://vian.ai/), and now working on a supply chain management SaaS platform with [Inspectorio](https://www.inspectorio.com/).
+
 ## Comms
 
 - dc@rmrz.ph
