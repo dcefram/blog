@@ -47,9 +47,69 @@ Do I stop helping others because I cannot even help my own blood?
 
 I wanted to insert some positive note here, or a self-deprecating joke to lighten up the mood, pero wala e, nagugulumihanan na nalulungkot na nanlulumo na di ko alam how to describe this feeling anymore.
 
+### Side effects
+
+There are times that I succumb to negative thoughts whenever I'm in a situation where I *have* to figure out how to help my parents and my brother.
+
+Looking into myself deeper, it all stems from the fact that I grew up living under the shadow of my brother, the feeling of being always the "other boy".
+
+#### The other kid
+
+Back when we were kids, my brother was consistently an honor student. It was just expected that he would get all the attention from my parents and everyone else around us.
+
+But you know what felt like a nail to the coffin? The opportunities that my parents presented to my brother than I never got. I felt that I was left to fend for myself scraping for scholarship while my brother went to a relatively pricey university called Mapua.
+
+My father told me to get a job so that I can get my bachelors degree. A degree I never got til this day. I always feel that I'm missing the foundations of the career that I was passionate about, but I'm unsure if I would ever get enough time to pursue it.
+
+When I got a job, I gave half of my salary to my parents. When my brother got a job, he gave less than that, but my mom would always tell me *"buti pa kuya mo, nagpapakaen ng KFC pag sahod niya"*. How messed up is that?
+
+I distinctly replying to her that she should instead encourage my brother to be responsible with his finances instead of encouraging splurging all of it. Obviously not the best response to her, but that was me reacting in the heat of the moment.
+
+#### Bottled up resentment
+
+It does seem like I have a sensitive spot when the topic is about my parents and my brother. I do have some resentment on how things transpired in my childhood years to my young adult years.
+
+The feeling of being neglected. The feeling that I am forced to *carry the universe behind my back* and consistently seeing firsthand the *special treatment* my parents are giving to my brother is always weighing me down.
+
+I remember a couple of times where I thought of just jumping. There was this MRT station in Shaw where you can see the busses right below the platform. I imagined myself just jumping there and just end it all. But then, I thought that "was it just me trying to gain attention from them? If so, then isn't it senseless because I'd be dead by then?"
+
+And then there was this other moment where I just thought of suddenly crossing the street to get hit by a car. It was during one of those early morning commutes I had going to Fujitsu Ten. But then, I thought that it would be very inconsiderate of me to destroy a stranger's life just because I wanted to destroy my own.
+
+Jumping off a building would be the best bet, a spectacle to behold, I thought.
+
+But I never got to do that, obviously, as I'm writing all of it down right now.
+
+I don't know what got into me, but I just thought of pushing it through. But it always trigger me whenever I hear *reasons* from my mom trying to defend my brother.
+
+*Hayaan mo siya, nag resign siya kasi nahihirapan nga naman siya sa commute niya. Umuwi nga siya isang beses na basa dahil sa ulan* (Let him be, he had to resign because of how horrible the commute is. He even went home drenched once due to the rain).
+
+Oh nice, like as if that never happened to me. I worked in Ortigas with minimum wage, the salary of a construction worker, for a year. I had to hang on to the back of a jeepney for most of my commute to the office. I had to bear with the heat and the rain while doing so. And not once did I hear any hint of concern from my parents.
+
+There were many times where I had to walk from Ever Gotesco (Now SM East Ortigas) all the way to Tektite in Ortigas which is almost 6km away, due to the traffic and hefty penalties when late at the office. And not once did I hear any hint of concern.
+
+Just because I was able to buy my first car before my 4th year at the workforce, she would make it seem that I had it *easy*? That what my brother had to go through to get to work is something out of the ordinary, something that I couldn't imagine myself going through???
+
+It boils my blood just writing this down.
+
+I'm not trying to normalize the struggle of commuting to work. All I am trying to point out is, why care about it when it's my brother having to struggle through that but not when I had to go through, what I think is, worse.
+
+What makes him special that I should be treated like as if I did not exist. Oh wait, I do exist, whenever I am delayed on sending their *allowance*.
+
+*Intindihin mo nalang kuya mo, may depression siya*. Ok. Have you ever thought if I am struggling too? Sure, I'm staying strong, putting a smile, acting everything is jolly and great. But that's because I have to. I have 2 little girls. I have to see through it. I have no other choice. I don't have the luxury of taking a break. I never had.
+
+I'm glad I got married to a girl that is strong mentally, and I hope she doesn't wear down due to my own struggles that I have a hard time expressing.
+
+There were multiple moments that I just bursted, all of the emotions overflowing that my head started to give up and that led me to spasms. I feel ashamed that my wife has to bear through all of that.
+
+I am not sure how to handle it, and thus, I am trying to avoid this subject altogether. I just have too many resentments that I don't know how to help them even though I'd like to think that I do want to help them.
+
 ### No conclusion
 
 How about the friend I mentioned at the introduction? He got his creative talent, and yet he feels that it’s not good enough. He used to work in industries related to his talent and passion. It’s already one step further than my brother, who struggled to keep straight ever since dropping out of Mapua.
 
 If I’d cross paths with him someday, I’d love to grab some coffee or hot choco with him, but when that time comes, I hope I know how to properly help people suffering from mental illnesses.
+
+I'm not sure if I would ever be completely healed myself, as I gave up *confronting* my weakness for years now. My thoughts are nowadays that if I know I'm weak at something, then avoid getting into the situation that would exploit my weakness.
+
+Unfortunately, situations such as this does make me remember that I cannot escape this topic altogether, and I need to figure out a better way to handle this scenarios in a way that won't trigger my meltdown.
 
