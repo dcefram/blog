@@ -99,7 +99,7 @@ What makes him special that I should be treated like as if I did not exist. Oh w
 
 I'm glad I got married to a girl that is strong mentally, and I hope she doesn't wear down due to my own struggles that I have a hard time expressing.
 
-There were multiple moments that I just bursted, all of the emotions overflowing that my head started to give up and that led me to spasms. I feel ashamed that my wife has to bear through all of that.
+There were multiple moments that I just bursted, all of the emotions overflowing that my head started to give up and that led me to spasms. I feel ashamed that my wife has to bear through all of that. She's undeniably worried that I would end up getting a stroke all because of these episodes.
 
 I am not sure how to handle it, and thus, I am trying to avoid this subject altogether. I just have too many resentments that I don't know how to help them even though I'd like to think that I do want to help them.
 
