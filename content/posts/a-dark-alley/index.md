@@ -51,7 +51,7 @@ I wanted to insert some positive note here, or a self-deprecating joke to lighte
 
 ### Side effects
 
-There are times that I succumb to negative thoughts whenever I'm in a situation where I *have* to figure out how to help my parents and my brother.
+There are times that I succumb to negative thoughts whenever I'm in a situation where I *have* to figure out how to help my parents or my brother.
 
 Looking into myself deeper, it all stems from the fact that I grew up living under the shadow of my brother, the feeling of always being the "other boy".
 
@@ -93,7 +93,7 @@ Oh nice, like as if that never happened to me. I worked in Ortigas with minimum 
 
 There were many times where I had to walk from Ever Gotesco (Now SM East Ortigas) all the way to Tektite in Ortigas which is almost 6km away, due to the traffic and hefty penalties when late at the office. And not once did I hear any hint of concern.
 
-Just because I was able to buy my first car before my 4th year at the workforce, she would make it seem that I had it *easy*? That what my brother had to go through to get to work is something out of the ordinary, something that I couldn't imagine myself going through???
+Just because I was able to buy my first car on my own before my 4th year at the workforce, she would make it seem that I had it *easy*? That what my brother had to go through to get to work is something out of the ordinary, something that I couldn't imagine myself going through???
 
 It boils my blood just writing this down.
 
