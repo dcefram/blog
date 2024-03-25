@@ -37,6 +37,8 @@ He messaged me a number of times about his thoughts of ending it all. He message
 
 I feel like a blind man hearing someone crying for help. I want to help, I can hear the direction of the plea, but I cannot even move my feet a step closer.
 
+{{< img-proc "images/cant-see.png" "Resize" "300x" >}}
+
 What happened to him? Did he trip? Or is he hanging by a cliff? If I take this step, will I step on him and hurt him? Or will I slip and fall into the same pit myself too?
 
 Look, socializing was always my weakest trait, and now I have to go figure out how a person with mental illness thinks and feels in order to somehow help them. It’s a daunting task.
