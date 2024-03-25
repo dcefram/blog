@@ -111,5 +111,5 @@ If I’d cross paths with him someday, I’d love to grab some coffee or hot cho
 
 I'm not sure if I would ever be completely healed myself, as I gave up *confronting* my weakness for years now. My thoughts are nowadays that if I know I'm weak at something, then avoid getting into the situation that would exploit my weakness.
 
-Unfortunately, situations such as this does make me remember that I cannot escape this topic altogether, and I need to figure out a better way to handle this scenarios in a way that won't trigger my meltdown.
+Unfortunately, situations such as this does make me remember that I cannot escape this topic altogether, and I need to figure out a better way to handle these scenarios in a way that won't trigger my meltdown.
 
