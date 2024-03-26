@@ -70,6 +70,8 @@ When I got a job, I gave half of my salary to my parents. When my brother got a 
 
 I distinctly remember replying to her that she should instead encourage my brother to be responsible with his finances instead of encouraging splurging all of it. Obviously not the best response to her, but that was me reacting in the heat of the moment.
 
+I was the younger brother. Mas malaki pa yung inaambag ko, tapos lunch ko ay half munggo and half rice for a year, lahat nalang napunta sa kanila. Tapos ganiyan maririnig ko? Aba'y di tuloy ako nakapagpigil sa pagiging pranka.
+
 #### Bottled up resentment
 
 {{< img-proc "images/bottle.png" "Resize" "500x" >}}
