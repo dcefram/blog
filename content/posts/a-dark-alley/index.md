@@ -2,6 +2,7 @@
 author = "Daniel Cefram Ramirez"
 tags = ["life", "mental"]
 date = 2023-07-21T23:25:44+08:00
+lastmod = 2024-03-25T23:00:00+08:00
 title = "A Dark Alley"
 description = "It's pitch black that I can't see where I'm going"
 type = "post"
