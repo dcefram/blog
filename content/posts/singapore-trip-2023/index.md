@@ -40,7 +40,7 @@ Our second stay was in Sentosa Island, in a hotel called [Amara Sanctuary Resort
 
 The staff was very accommodating, and they even have a shuttle service to bring your belongings to your suite. The hotel itself is quite near Palawan Beach Walk, where you could hitch a free shuttle to go around the beach road.
 
-{{< img-proc "images/sg-2023-amara-jacuzzi.jpeg" "Resize" "800x" "center" "r180" >}}
+{{< img-proc "images/sg-2023-amara-jacuzzi.jpeg" "Resize" "800x" "center" "" "r180" >}}
 
 This one is a lot pricier than the Airbnb one as was expected, costing around 25-30k a night.
 
