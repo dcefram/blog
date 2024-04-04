@@ -34,7 +34,7 @@ After we wrapped up that thread, it dawned on me a couple of key things that my 
 
 > There was an increase in bugs that passed through to higher-level environments, so we clearly saw that we had some gaps that we need to bridge so that it may never happen again. We decided to look at what was different from this sprint to the prior sprints and identified that the "deadline" factor was the unique point, and found out that the team was susceptible of prioritizing "shipping it" over quality. This presented us a clear opportunity to address to the team the importance of not shipping half-baked deliverables. We committed to delivering a beautifully presentable cake, but we ended up delivering a half-baked cake to our QA engineer.
 >
-> It also revealed gaps in our API automation tests and how we review our backend merge requests, where we already initiated a conversation across the teams on how to improve our review process.
+> It also revealed gaps in our automation tests and how we review our merge requests, where we already initiated a conversation across the teams on how to improve our review process.
 
 * The tricky part is understanding beforehand which words are the best and which should be avoided. Most of the time, we are not afforded enough time to stop and think of the best words when we are the ones presenting during a meeting, so it is super important that we are dynamic and always on the lookout for the responses of our listeners.
   * If we notice that our listeners are frowning a little, then it could be a signal that we might have said something that plucked some chords the wrong way.
