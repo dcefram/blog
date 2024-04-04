@@ -17,6 +17,8 @@ I generally kept it to myself, as I honestly didn't fully understand why mention
 
 I proceeded to mention that we already initiated some conversation related to our review process, to bridge the gap that could prevent such issues from passing through in the future.
 
+{{< img-proc "images/deadlines-wow.png" "Resize" "500x" >}}
+
 In any case, the next day, my manager shared some points for improvement. I on the other hand was eager to share the thought process that I wanted to share the day before, had I not been derailed during my *presentation*.
 
 After we wrapped up that thread, it dawned on me a couple of key things that my manager helped me realize.
