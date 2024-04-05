@@ -19,7 +19,7 @@ I proceeded to mention that we already initiated some conversation related to ou
 
 {{< img-proc "images/deadlines-wow.png" "Resize" "500x" >}}
 
-In any case, the next day, my manager shared some points for improvement. I on the other hand was eager to share the thought process that I wanted to share the day before, had I not been derailed during my *presentation*.
+In any case, the next day, my manager shared some points for improvement. I on the other hand was eager to share the thought process I had that I wanted to share the other day. Clearly, all of the information I got from the feedback hadn't yet seeped into me at that moment in time.
 
 After we wrapped up that thread, it dawned on me a couple of key things that my manager helped me realize.
 
