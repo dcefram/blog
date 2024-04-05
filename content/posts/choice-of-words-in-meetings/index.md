@@ -42,6 +42,8 @@ After we wrapped up that thread, it dawned on me a couple of key things that my 
   * If we notice that our listeners are frowning a little, then it could be a signal that we might have said something that plucked some chords the wrong way.
   * When that happens, back track a little and state what we *know* we would agree upon.
 
+{{< img-proc "images/sentences.png" "Resize" "1000x" >}}
+
 ## Conclusion
 
 * I have to reiterate that our objective here is that our presentation relay the information to our listeners the way we envisioned it.
