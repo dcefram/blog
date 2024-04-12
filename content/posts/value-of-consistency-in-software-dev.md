@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["dev"]
+tags = ["Software Engineering"]
 date = 2022-06-12T00:08:40+08:00
 description = "Why consistency is important "
 draft = false

@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["life"]
+tags = ["Life"]
 date = 2022-12-27T00:00:00+08:00
 title = "How We Met"
 description = "Looking back at the time when sparks turned into fire."
@@ -27,7 +27,7 @@ At first, our relationship was more of a friendly one, more of a big sister - br
 
 We often went out with our friends on Wednesdays to do a group Bible Study (yes, mababaet kasi kami), so friendship going strong kami non.
 
-I then went to Japan for a few months in the last few months of 2012, and that's when I noticed that I *started having* feelings for her. I got back to the Philippines for a few weeks during the Holidays and went back to Japan in January, which lasted til April. 
+I then went to Japan for a few months in the last few months of 2012, and that's when I noticed that I *started having* feelings for her. I got back to the Philippines for a few weeks during the Holidays and went back to Japan in January, which lasted til April.
 
 During that stay in Japan is when our relationship just went to the next level.
 

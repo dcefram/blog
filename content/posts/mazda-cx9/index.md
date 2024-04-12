@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["life", "cars"]
+tags = ["Life"]
 date = 2023-06-23T01:03:27+08:00
 title = "Mazda Cx9"
 description = "First time switching over to Mazda, and I'm pretty impressed."

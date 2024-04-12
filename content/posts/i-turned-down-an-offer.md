@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["life", "career"]
+tags = ["Life"]
 date = 2023-08-24T08:52:47+08:00
 title = "I Turned Down an Offer"
 description = "The opportunity was great, but the risks were greater"

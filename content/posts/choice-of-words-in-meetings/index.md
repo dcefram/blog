@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["career", "dev"]
+tags = ["soft skills"]
 date = 2024-04-04T20:29:54+08:00
 title = "Why the choice of words are important in meetings"
 description = "We wanted to go left, but we went right"

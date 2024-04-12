@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["dev"]
+tags = ["JavaScript"]
 date = 2023-08-04T23:54:51+08:00
 title = "Array concat in Javascript - a performance perspective"
 description = "Sometimes, what we think is slower might be faster."
@@ -33,7 +33,7 @@ outerArray.forEach((innerArray) => {
 });
 
 // If we found one, then there are results
-const hasNoResults = !allValues.find(Boolean); 
+const hasNoResults = !allValues.find(Boolean);
 ```
 
 The logic is pretty easy to understand. However, it isn't efficient, and it's not because of the nested array.
@@ -119,11 +119,11 @@ Although we never dug into how V8 behaves with regard to Array `concat` and `pus
 We found this [comment in a Dev.to article](https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki#comment-agaa) that sort of explains the possible reason:
 
 > Using array concat copies values to a new array.
-> 
+>
 > When done repeatedly, it also means increased memory access.
-> 
+>
 > When dealing with large arrays, where the data may exceed the bounds of the L0 cache of the CPU, then the CPU would most likely need to access a much more distant cache.
-> 
+>
 > This could explain the noticeable increase in CPU usage while the browser is hanging.
 
 ## Conclusion

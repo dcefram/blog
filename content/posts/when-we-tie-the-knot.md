@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["life"]
+tags = ["Life"]
 date = 2017-01-17T10:10:00Z
 title = "When we tie the knot"
 description = "Wedding. It's my wedding day today."

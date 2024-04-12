@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["life"]
+tags = ["Life"]
 date = 2022-01-10T00:00:00Z
 title = "Registering as an Independent Contractor"
 description = "I wanted to pay my taxes, but the process of registering made me think that they made it hard because they didn't want my money."

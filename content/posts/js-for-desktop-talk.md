@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["talk"]
+tags = ["JavaScript"]
 date = 2018-05-23T14:05:09+08:00
 description = "I mostly just ranted about how aweful it is using Web Technologies for performance-sensitive desktop applications."
 draft = false

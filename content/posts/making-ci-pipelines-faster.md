@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["dev"]
+tags = ["Testing"]
 date = 2023-11-04T10:37:19+08:00
 title = "Making CI Pipelines Fast"
 description = "We had pipelines that ran for almost an hour."

@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["toys"]
+tags = ["TypeScript"]
 date = 2020-07-03T09:31:25+08:00
 description = "I made a script that would generate TypeScript interfaces from XML or JSON."
 draft = false
