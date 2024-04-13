@@ -59,20 +59,24 @@ hrefTargetBlank = true
 
 [menu]
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/"
+    identifier = "thoughts"
+    name = "Garden of Thoughts"
+    url = "/thoughts/"
     weight = 1
+  [[menu.main]]
+    identifier = "journal"
+    name = "Public Journal"
+    url = "/journal/"
+    weight = 2
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
     weight = 3
-
   [[menu.main]]
-    identifier = "toys"
-    name = "Toys"
-    url = "/toys/"
+    identifier = "tools"
+    name = "Tools"
+    url = "/tools/"
     weight = 4
 
 [deployment]
