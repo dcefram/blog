@@ -32,7 +32,7 @@ I have over 13 years of experience in software engineering and leading teams, in
 
 - dc@rmrz.ph
 - [Github](https://github.com/dcefram)
-- [@dcrmrz@hachyderm.io](https://hachyderm.io/@dcrmrz)
+- [@dcefram](https://x.com/dcefram)
 - [LinkedIn](https://ph.linkedin.com/in/daniel-cefram-ramirez) (Got lazy half way on creating my own web resume)
 
 ## Others
