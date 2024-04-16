@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Life"]
+tags = ["Travel"]
 date = 2023-04-10T22:32:35+08:00
 title = "Anniversary in Singapore"
 description = "Apple Photos reminded me about our latest trip to Singapore as a family of four."
