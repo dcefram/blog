@@ -2,6 +2,7 @@
 author = "Daniel Cefram Ramirez"
 tags = ["Software Engineering"]
 date = 2022-06-12T00:08:40+08:00
+lastmod = 2024-04-17T00:08:40+08:00
 description = "Why consistency is important "
 draft = false
 linktitle = ""
@@ -52,7 +53,7 @@ As an example, if your project is currently using one of the popular CSS preproc
 >
 > \- John Ousterhout, A Philosophy of Software Design
 
-![improvements](https://firebasestorage.googleapis.com/v0/b/rmrz-blog.appspot.com/o/Snippet%202022-06-15%20at%2000.09.38.png?alt=media&token=e36911d2-4e3c-46f5-af81-86e95ba25b00)
+{{< img-proc "images/ugly-house.png" "Resize" "400x" >}}
 
 On the other hand, introducing absolute import paths support in webpack and implementing that to the codebase is mostly fine, as doing a grep or a "find-and-replace" for the whole codebase would work with minimal worry for regression issues.
 
