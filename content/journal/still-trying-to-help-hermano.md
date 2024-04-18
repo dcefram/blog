@@ -15,10 +15,12 @@ I'm not sure how those suicide hotlines do it, but it's really hard to figure ou
 I opened up to him that there were many things in my life that I wished was different, but there is
 not much we can do about the past.
 
-Some quotable quotes I did end up sharing that I thought is worth posting:
+Some quotable quotes I came up with that I think is worth posting:
 
 > It is maybe healthy to acknowledge the fact that you cannot get back what is lost,
 > whether it be time or opportunities, but we need to realize that each day is an opportunity to right the course.
+
+And this last few words I sent to him to wrap up the long wall of text that I sent to him:
 
 > The past already impacted the present, but what you do now will impact what comes next.
 
