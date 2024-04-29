@@ -14,11 +14,12 @@ Here's a list of equipments and tools that I use for work and personal work-like
 - Magic Keyboard.
 - Magic Mouse.
 - Sony WH-1000XM5.
+- iPad Mini.
 
 ## Editor
 
 - Too dumb to use neovim productively, so VSCode.
-- Also, Sublime and GoLand when I'm bored
+- Also, Sublime and GoLand when I'm bored.
 - Sometimes neovim when my mood chooses it as the time sink of choice.
 
 ## Terminal
@@ -28,7 +29,7 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 ## Other Dev-ish Tools
 
-- Sometimes I use `git` in the CLI
+- Sometimes I use `git` in the CLI.
 - Sometimes I use [Fork](https://git-fork.com/) when I'm bored. ([I have a license, weird flex](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-04-07%20at%2010.06.58.png).)
 - I also have a [license](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-04-07%20at%2010.12.55.png) for [Sublime Merge](https://www.sublimemerge.com/) since I bought it as a bundle with Sublime Text 4. I use it when my mood dictates me to use it.
 - [TablePlus](https://tableplus.com/) for relational databases. I thought I needed 2 licenses, could've lived with just one.
@@ -48,21 +49,23 @@ Here's a list of equipments and tools that I use for work and personal work-like
   - The older I get, the more Asian I become, i.e. the more cheapskate I become.
   - Bitwarden is great, but their desktop app isn't.
 - [CleanShot X](https://cleanshot.com).
-- [Shottr](https://shottr.cc) when I need the pixels.
+- [Shottr](https://shottr.cc) when I need the pixels. Got a license, here's to me hoping the dev continues to improve it. Still cheaper than Cleanshot's [PixelSnap](https://getpixelsnap.com).
 - [Presentify](https://apps.apple.com/us/app/presentify-screen-annotation/id1507246666) for screen annotations while presenting.
 - [Maccy](https://maccy.app/) as my clipboard manager.
 - [Grammarly](https://www.grammarly.com). Still better than Microsoft Editor.
 - [Firefox](https://www.mozilla.org/en-US/firefox/) at work, just because.
 - [Safari](https://www.apple.com/ph/safari/) for personal use.
-  - Not because it's great, but because I'm trying out Apple Keychain as an alternative that would eventually help me ditch 1Password
+  - Not because it's great, but because I'm trying out Apple Keychain as an alternative that would eventually help me ditch 1Password.
 
 ## Other Apps for weird flex
 
 - I am unfortunately sucked into Steve's walled garden, so I use [Apple Music](https://music.apple.com/).
 - [Apple Podcasts](https://www.apple.com/apple-podcasts).
 - [Reeder 5](https://www.reederapp.com/) to stay up to date with my favorite bloggers.
-- Kindle for my ebooks
+- Kindle for my ebooks from Amazon.
+- Apple Books is a pretty decent ePub reader. Most books from Manning is read here, as it isn't as nice looking to my eyes when loaded to Kindle.
 - [OneDrive](https://onedrive.live.com/) as my backup storage.
   - Side note: Microsoft 365 Family is the cheapest "known" cloud service out there, even if you don't get to take full advantage of its office desktop apps.
   - My wife went back to Android, so we'll use M$ for anything collaborative (Word, Excel, etc.).
 - [iCloud](https://www.icloud.com) for my photos, notes, and files.
+- [Sketchbook](https://www.sketchbook.com) for all of my drawings in this blog.
