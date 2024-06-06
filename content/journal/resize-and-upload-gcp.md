@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Fish"]
+tags = ["Fish", "Tools"]
 date = 2023-07-23T23:38:35+08:00
 title = "Resizing images and uploading to GCP Storage"
 description = "A simple script to upload images that are blog-friendly"

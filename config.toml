@@ -76,7 +76,7 @@ hrefTargetBlank = true
   [[menu.main]]
     identifier = "tools"
     name = "Tools"
-    url = "/tools/"
+    url = "/tags/tools/"
     weight = 4
 
 [deployment]

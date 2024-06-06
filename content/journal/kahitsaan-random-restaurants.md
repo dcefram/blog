@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Crystal Language"]
+tags = ["Crystal Language", "Tools"]
 date = 2018-12-19T09:12:14+08:00
 draft = false
 linktitle = ""

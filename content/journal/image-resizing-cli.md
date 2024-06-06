@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Crystal Language"]
+tags = ["Crystal Language", "Tools"]
 date = 2018-09-18T09:31:25+08:00
 description = "Made a tool while learning Crystal."
 draft = false

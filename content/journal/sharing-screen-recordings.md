@@ -1,6 +1,6 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["JavaScript"]
+tags = ["JavaScript", "Tools"]
 date = 2022-12-25T00:00:00Z
 title = "Sharing Screen Recordings with Kap"
 description = "In a quest to minimize recurring subscription expenses, I made a plugin for Kap."
