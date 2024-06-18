@@ -52,11 +52,11 @@ Also, my first two trips to Japan were superb. I joined the ministry in Japan, a
 
 Apart from that, Mamoi-san, Ma’am Mai, Mame-san, Jonggu-san, JP-san, Bok-san, Neil-san, and others, were fun dormmates. Multiple trips to Kobe port, eating out in Fisherman’s Market, walking the whole length of… whatever that market is, where I bought a Seiko watch for me and my *now* wife, and some custom chopsticks for her too. They were all fun. Also, whatever that factory outlet was and our trip to Himeji Castle, they were all fun experiences.
 
-Lastly, this is the company where I met my wife. [Read the whole love story here :P](https://rmrz.ph/posts/how-we-met/).
+Lastly, this is the company where I met my wife. [Read the whole love story here :P](https://rmrz.ph/journal/how-we-met/).
 
 ## Conclusion
 
-The 3 years and 9 months I stayed with Fujitsu Ten was a great start to my career, although I moved on to [XSplit](https://rmrz.ph/posts/on-to-a-new-challenge/), the company which I credit most of my professional growth with, I still appreciated the core foundations that Fujitsu Ten gave me. As what Mame-san said:
+The 3 years and 9 months I stayed with Fujitsu Ten was a great start to my career, although I moved on to [XSplit](https://rmrz.ph/journal/on-to-a-new-challenge/), the company which I credit most of my professional growth with, I still appreciated the core foundations that Fujitsu Ten gave me. As what Mame-san said:
 
 > Pag napagtiyagaan mo na ang Fujitsu Ten, lahat na ng ibang kumpanya ay sisiw nalang sa iyo
 

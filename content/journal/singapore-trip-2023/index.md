@@ -9,7 +9,7 @@ draft = false
 
 +++
 
-I distinctly remember that during the trip, I quickly did some doodles for the [blog post about how we met](/posts/how-we-met/) on the last night of our trip.
+I distinctly remember that during the trip, I quickly did some doodles for the [blog post about how we met](/journal/how-we-met/) on the last night of our trip.
 
 <video width="100%" autoplay muted controls>
   <source src="https://storage.googleapis.com/rmrz-blog.appspot.com/sg1_2023.mp4" type="video/mp4">

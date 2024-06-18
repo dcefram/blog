@@ -12,7 +12,7 @@ house.
 
 So now, this site is a simple blog, and hosts some personal tools we made.
 
-This site is ran by two software engineers, who happen to be married. [Here's how we met](/posts/how-we-met/).
+This site is ran by two software engineers, who happen to be married. [Here's how we met](/journal/how-we-met/).
 
 Right now, I (the husband) am currently the only active maintainer of this site as wifey
 has other endeavors to tend to, and blogging isn't her passion.
