@@ -34,8 +34,8 @@ Pretty straightforward.
 
 ## Conclusion
 
-Go is a super simple language that one can get into within a couple of hours and be productive to the point that you can actually deliver value.
+Go is a super simple language that one can get into within a couple of hours and be productive to the point that you can actually deliver value. On top of that, the compiler is the fastest I've ever used, making it a valid borderline replacement for scripts. Just do `go run main.go` and move on with life.
 
-However, I'm not a huge fan of its overly simplistic features. I might try out writing CLI tools in Swift in the future instead.
+However, I'm not sure if I'm a fan of its overly simplistic features. I just can't pinpoint what it is that makes me feel a bit off with Go.
 
 Oh, and tesseract is packaged in a way that it's pretty straightforward to use. The tool that I made is 99% done by tesseract, and the only implementation I had to do is how to make sense of the text, extract it in a way that makes sense in the context of budget tracking.
