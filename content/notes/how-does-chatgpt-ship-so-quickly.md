@@ -13,7 +13,7 @@ tags = ["article"]
 
 ChatGPT ships fast, but it obviously isn't the first company that did that. I remember Facebook popularized "Break things, Move fast".
 
-One key takeaway here, I guess, is how this can be an antithesis of the remote work movement. 
+One key takeaway here, I guess, is how this can be an antithesis of the remote work movement.
 
 Although I've been a remote engineer since 2018, ever since my former boss Mike Leach sold "remote-first" work environments to me, I still resonate more with in-person communication as a much more effective tool for collaboration and getting ideas off the ground.
 
@@ -23,7 +23,7 @@ Although I've been a remote engineer since 2018, ever since my former boss Mike 
 
 I remember my days with XSplit where this was also the setup. This approach of having teams operate as a new startup within the company might not be unique, but it certainly is unheard of in large enterprises like Fujitsu.
 
-One hard pill to swallow with this setup is when PMF was never realized. I personally felt that [when I used to work on the Player.me Desktop App project](/posts/on-to-a-new-challenge/#why-i-left-splitmedialabs).
+One hard pill to swallow with this setup is when PMF was never realized. I personally felt that [when I used to work on the Player.me Desktop App project](/journal/on-to-a-new-challenge/#why-i-left-splitmedialabs).
 
 > To prevent this, product teams like ChatGPT have software engineers, designers, product managers, and researchers working together.
 
@@ -41,10 +41,10 @@ I'm quite sad about what happened to XSplit after a few years since I left the c
 
 It went back to focusing on Gamecaster a little too late when Streamlabs was already around.
 
-You know what, by the end of 2014 there were ideas being floated around where we wanted to integrate Strexm with Gamecaster. That was four years before SLOBS was first released! 
+You know what, by the end of 2014 there were ideas being floated around where we wanted to integrate Strexm with Gamecaster. That was four years before SLOBS was first released!
 
-- Strexm already had a working product. 
-- We already had Gamecaster. 
+- Strexm already had a working product.
+- We already had Gamecaster.
 - We made a prototype where we can control the camera position based on Strexm's camera overlay towards the end of 2014.
 
 In hindsight, I felt we missed a perfect opportunity there. We should've focused more on our core products with the focus on providing value to users of our target platforms.
