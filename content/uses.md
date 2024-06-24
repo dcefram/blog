@@ -18,39 +18,37 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 ## Editor
 
-- Too dumb to use neovim productively, so VSCode.
-- Also, Sublime and GoLand when I'm bored.
-- Sometimes neovim when my mood chooses it as the time sink of choice.
+- Neovim.
+- VSCode, when I need to format/prettify a single line large JSON object.
 
 ## Terminal
 
-- I use [Warp](https://www.warp.dev/).
+- I use plain old [iTerm2](https://iterm2.com/).
 - I use [Fish](https://fishshell.com/) as my command line shell.
 
 ## Other Dev-ish Tools
 
-- Sometimes I use `git` in the CLI.
-- Sometimes I use [Fork](https://git-fork.com/) when I'm bored. ([I have a license, weird flex](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-04-07%20at%2010.06.58.png).)
-- I also have a [license](https://storage.googleapis.com/rmrz-blog.appspot.com/Snippet%202023-04-07%20at%2010.12.55.png) for [Sublime Merge](https://www.sublimemerge.com/) since I bought it as a bundle with Sublime Text 4. I use it when my mood dictates me to use it.
-- [TablePlus](https://tableplus.com/) for relational databases. I thought I needed 2 licenses, could've lived with just one.
+- I use [lazygit](https://github.com/jesseduffield/lazygit) most of the time.
+- I also bought licenses for both [Fork](https://git-fork.com/) and [Sublime Merge](https://www.sublimemerge.com/) back when I was a normie. But admittedly, I still use them at times when I get frustrated at `git log --graph`.
+- [TablePlus](https://tableplus.com/) for relational databases. Caved in with the limited tabs, and now I got two licenses, one for my work laptop, and another for my personal use.
 - [Figma](https://www.figma.com/) at work, [Penpot](https://penpot.app/) for personal endeavors.
 - [Excalidraw](https://excalidraw.com/) for quick diagrams and even wireframes.
 - I still use [Balsamiq](https://balsamiq.com/) Wireframes Desktop app. For some reason, it's still faster to wireframe using Balsamiq.
 
 ## Productivity Apps
 
-- [LogSeq](https://bear.app/) for my notes at work.
-  - I'm not decided what to use for my personal notes ever since ditching [Bear](https://bear.app/).
+- Recently gave up on [Bear](https://bear.app), and switched over to [Obsidian](https://obsidian.md/).
 - I still use Apple [Notes](https://www.icloud.com/notes) when using my iPad because it got better Apple Pencil support.
+  - Although admittedly, I find myself using Freeform more often than Apple Notes in my iPad during meetings. The infinite canvas behavior is just awesome.
 - We use [Confluence](https://www.atlassian.com/software/confluence) at work... because [Jira](https://www.atlassian.com/software/jira).
 - [Slack](https://slack.com) for work.
 - Forcing [Discord](https://discord.com) for non-gaming use.
-- [1Password](https://1password.com/) for now, but will ditch this soon once my subscription ends.
+- [1Password](https://1password.com/) for now, but figuring out how to ditch this one soon.
   - The older I get, the more Asian I become, i.e. the more cheapskate I become.
   - Bitwarden is great, but their desktop app isn't.
 - [CleanShot X](https://cleanshot.com).
 - [Shottr](https://shottr.cc) when I need the pixels. Got a license, here's to me hoping the dev continues to improve it. Still cheaper than Cleanshot's [PixelSnap](https://getpixelsnap.com).
-- [Presentify](https://apps.apple.com/us/app/presentify-screen-annotation/id1507246666) for screen annotations while presenting.
+- [Presentify](https://apps.apple.com/us/app/presentify-screen-annotation/id1507246666) for screen annotations while presenting. Easily the most used app that I bought out of impulse.
 - [Maccy](https://maccy.app/) as my clipboard manager.
 - [Grammarly](https://www.grammarly.com). Still better than Microsoft Editor.
 - [Firefox](https://www.mozilla.org/en-US/firefox/) at work, just because.
@@ -68,4 +66,4 @@ Here's a list of equipments and tools that I use for work and personal work-like
   - Side note: Microsoft 365 Family is the cheapest "known" cloud service out there, even if you don't get to take full advantage of its office desktop apps.
   - My wife went back to Android, so we'll use M$ for anything collaborative (Word, Excel, etc.).
 - [iCloud](https://www.icloud.com) for my photos, notes, and files.
-- [Sketchbook](https://www.sketchbook.com) for all of my drawings in this blog.
+- [Procreate](https://procreate.com/) for drawing.
