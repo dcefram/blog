@@ -1,7 +1,7 @@
 +++
 title = "Dan's skill up collection"
 type = "about"
-description = "Some screenshot or recording"
+description = "Skill up collection"
 +++
 
 In my quest to continuously learn, here's a nice list to flex what I was able to finish, not necessarily
@@ -26,5 +26,4 @@ that has honed the art of teaching through a screen. Some of my favorite instruc
 I’ll only list down the _courses_ that I did finish from start to end, to spare me the embarrassment of splurging a lot and never finishing any.
 It’s the kind of _illness_ similar to those sucked in by the infamous Steam Sale.
 
-* [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) - [Udemy Course Completion Certificate](https://www.udemy.com/certificate/UC-30b98501-41cf-41ac-bf12-537603460515/)
-
+- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) - [Udemy Course Completion Certificate](https://www.udemy.com/certificate/UC-30b98501-41cf-41ac-bf12-537603460515/)
