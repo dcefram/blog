@@ -19,7 +19,6 @@ Here's a list of equipments and tools that I use for work and personal work-like
 ## Editor
 
 - Neovim.
-- VSCode, when I need to format/prettify a single line large JSON object.
 
 ## Terminal
 
