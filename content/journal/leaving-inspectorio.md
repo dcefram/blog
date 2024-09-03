@@ -6,7 +6,7 @@ title = "Leaving Inspectorio"
 description = "A reflection on my journey with Inspectorio"
 slug = "leaving-inspectorio"
 type = "journal"
-draft = true
+draft = false 
 toc = false
 +++
 
