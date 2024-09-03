@@ -38,7 +38,8 @@ a while back. I hope to gather my thoughts and document more of them here soon.
 
 On the technical side though, I definitely learned less than what I gained at my
 short stint at Dealtale, as I joined a product development team working on a
-five year old project at the time I joined the company. This fact, however, did
+five year old project at the time I joined the company, in contrast to Dealtale
+where I was one of the few pioneer engineers. This fact, however, did
 give me the opportunities to apply some ideas in practice. One such example would
 be our push to migrate our codebase from JavaScript to Typescript, which put the
 ideas that I formed after reading
