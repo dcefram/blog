@@ -10,7 +10,7 @@ draft = false
 toc = false
 +++
 
-It's been over two years since I joined Inspectorio. I started as an individual
+It's been over two years since I joined [Inspectorio](https://inspectorio.com). I started as an individual
 contributor, but I was thrust into a leadership role right after my first month.
 It has been an interesting journey, and, much like my time with
 [XSplit]({{< ref "/journal/on-to-a-new-challenge.md" >}} "On to a new challenge"),
