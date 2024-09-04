@@ -1,7 +1,7 @@
 +++
 author = "Daniel Cefram Ramirez"
 tags = ["Career"]
-date = 2024-09-03T20:46:00+08:00
+date = 2024-09-04T00:46:00+08:00
 title = "Leaving Inspectorio"
 description = "A reflection on my journey with Inspectorio"
 slug = "leaving-inspectorio"
