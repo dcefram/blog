@@ -34,7 +34,7 @@ skills. This experience made me yearn for a position where I could have a broade
 impact, beyond what I could achieve as an individual contributor.
 
 I blogged one of [such "learnings"]({{< ref "/thoughts/choice-of-words-in-meetings">}} "Choice of words in meetings")
-a while back. I hope to gather my thoughts and document more of them here soon.
+a while back, an experience I gained after numerous presentations with top leadership (our CEO and co-founder in this case). I hope to gather my thoughts and document more of them here soon.
 
 On the technical side though, I definitely learned less than what I gained at my
 short stint at Dealtale, as I joined a product development team working on a
