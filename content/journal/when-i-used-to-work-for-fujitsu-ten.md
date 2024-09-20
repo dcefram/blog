@@ -56,7 +56,7 @@ Lastly, this is the company where I met my wife. [Read the whole love story here
 
 ## Conclusion
 
-The 3 years and 9 months I stayed with Fujitsu Ten was a great start to my career, although I moved on to [XSplit](https://rmrz.ph/journal/on-to-a-new-challenge/), the company which I credit most of my professional growth with, I still appreciated the core foundations that Fujitsu Ten gave me. As what Mame-san said:
+The 3 years and 2 months I stayed with Fujitsu Ten was a great start to my career, although I moved on to [XSplit](https://rmrz.ph/journal/on-to-a-new-challenge/), the company which I credit most of my professional growth with, I still appreciated the core foundations that Fujitsu Ten gave me. As what Mame-san said:
 
 > Pag napagtiyagaan mo na ang Fujitsu Ten, lahat na ng ibang kumpanya ay sisiw nalang sa iyo
 
