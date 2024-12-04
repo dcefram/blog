@@ -30,7 +30,7 @@ Here's how I use it:
   <source src="grabenah-demo.mp4" type="video/mp4">
 </video>
 
-Pretty straightforward.
+Pretty straightforward. I just airdrop images to my mac and then execute the CLI app.
 
 ## Conclusion
 
