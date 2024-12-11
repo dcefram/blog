@@ -24,7 +24,8 @@ join the event, and showcase the bank's technical prowess! :P
 {{< img-proc "images/ms.jpg" "Resize" "800x" "center" "" "r180">}}
 
 The people that joined from the division I belonged were people who were also trying to set an example
-for the rest of the team. They were my fellow Principal Engineer, Lem, and our QA Manager, Marky.
+for the rest of the team. They were my fellow Principal Engineer, Lem, and our QA Manager, Marky. We three
+ended up being one team... In fact, we were the smallest team, with the average team size being 5 to 7 people.
 
 The event went better than we expected, as we initially thought of going with the obvious route of creating
 yet another chatbot, trying to squeeze an "AI Chatbot" into our existing application. Fortunately, Marky
