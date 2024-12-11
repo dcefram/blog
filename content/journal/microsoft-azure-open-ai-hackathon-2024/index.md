@@ -6,7 +6,7 @@ title = "Microsoft Azure Open AI Hackathon 2024"
 description = "We won first by not going the chatbot route"
 slug = "microsoft-azure-open-ai-hackathon-2024"
 type = "journal"
-draft = true
+draft = false
 toc = false
 +++
 
@@ -54,7 +54,7 @@ sequenceDiagram
 We were able to get this all up and running in 3 hours time, with my laptop being the on-prem server for our
 hackathon demo, while Lem did the implementation on our actual mobile app, connected to a lower test environment.
 
-This idea was a good call, as the rest of the team presented chatbots upon chatbots, that by the time it was our
+This idea was a good call, as the rest of the teams presented chatbots upon chatbots, that by the time it was our
 turn, everybody expected that we'd show a chatbot too... but low and behold, we presented them an actual running
 mobile application, doing an actual product demo of the feature we just added. It felt like one of those sprint
 demos that teams usually do after a sprint.
