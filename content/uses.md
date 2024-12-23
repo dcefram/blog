@@ -22,8 +22,8 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 ## Terminal
 
-- I use plain old [iTerm2](https://iterm2.com/).
-- I use [Fish](https://fishshell.com/) as my command line shell.
+- [Kitty](https://sw.kovidgoyal.net/kitty/).
+- I use [Fish](https://fishshell.com/) as my command line shell. There has been some rough edges, should've went with a bash-compatible shell.
 
 ## Other Dev-ish Tools
 
@@ -36,20 +36,19 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 ## Productivity Apps
 
-- [Bear](https://bear.app).
+- [Obsidian](https://obsidian.md).
 - I still use Apple [Notes](https://www.icloud.com/notes) when using my iPad because it got better Apple Pencil support.
   - Although admittedly, I find myself using Freeform more often than Apple Notes in my iPad during meetings. The infinite canvas behavior is just awesome.
 - We use [Confluence](https://www.atlassian.com/software/confluence) at work... because [Jira](https://www.atlassian.com/software/jira).
-- [Slack](https://slack.com) for work.
-- Forcing [Discord](https://discord.com) for non-gaming use.
+- [Teams](https://teams.microsoft.com) for work.
+- [Slack](https://slack.com) and [Discord](https://discord.com) for communities I'm part of.
 - [1Password](https://1password.com/) for now, but figuring out how to ditch this one soon. It's too good to ditch as of now though :|
 - [CleanShot X](https://cleanshot.com).
 - [Shottr](https://shottr.cc) when I need the pixels. Got a license, here's to me hoping the dev continues to improve it. Still cheaper than Cleanshot's [PixelSnap](https://getpixelsnap.com).
 - [Presentify](https://apps.apple.com/us/app/presentify-screen-annotation/id1507246666) for screen annotations while presenting. Easily the most used app that I bought out of impulse.
-- [Maccy](https://maccy.app/) as my clipboard manager.
+- [Raycast](https://www.raycast.com).
 - [Grammarly](https://www.grammarly.com). Still better than Microsoft Editor.
-- [Firefox](https://www.mozilla.org/en-US/firefox/) at work.
-- [Arc](https://arc.net/) for personal use.
+- [Arc](https://arc.net/) for my primary browser. Still using it even though the browser company is pivoting to another project.
 
 ## Other Apps for weird flex
 
