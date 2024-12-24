@@ -8,7 +8,7 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 ## Devices
 
-- 13" MacBook Air M1 (Work, company provided).
+- 14" MacBook Pro M3 (Work, company provided).
 - 14" MacBook Pro M1 Max (Personal, experiments, personal projects).
 - Lenovo Q24H-10 23.8" Monitor.
 - Magic Keyboard.
