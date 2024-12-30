@@ -22,7 +22,8 @@ Here's a list of equipments and tools that I use for work and personal work-like
 
 ## Terminal
 
-- [Kitty](https://sw.kovidgoyal.net/kitty/).
+- [Ghostty](https://ghostty.org/).
+- [Zellij](https://zellij.dev/).
 - I use [Fish](https://fishshell.com/) as my command line shell. There has been some rough edges, should've went with a bash-compatible shell.
 
 ## Other Dev-ish Tools
