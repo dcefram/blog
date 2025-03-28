@@ -26,7 +26,7 @@ We give a jolt to each other's lives. Booyeah, cheezit.
 
 ## About Me
 
-I have over 14 years of experience in software engineering and leading teams, initially starting in the embedded engineering field with [Denso Ten](https://www.denso-ten.com/), then moving on to multimedia streaming software development with [XSplit](https://xsplit.com/), joined a couple of startups like [Dealtale](https://www.linkedin.com/company/dealtale/) by [Vianai](https://vian.ai/), led a product engineering team for a supply chain management SaaS platform known as [Inspectorio](https://www.inspectorio.com/),
+I have over 15 years of experience in software engineering and leading teams, initially starting in the embedded engineering field with [Denso Ten](https://www.denso-ten.com/), then moving on to multimedia streaming software development with [XSplit](https://xsplit.com/), joined a couple of startups like [Dealtale](https://www.linkedin.com/company/dealtale/) by [Vianai](https://vian.ai/), led a product engineering team for a supply chain management SaaS platform known as [Inspectorio](https://www.inspectorio.com/),
 and now a Senior Assistant Vice President and Principal Engineer at [Security Bank](https://securitybank.com.ph).
 
 Outside of work, I draw doodles, write long walls of text, and experiment on things that is outside my area of expertise.
