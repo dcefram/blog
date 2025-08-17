@@ -3,11 +3,12 @@ languageCode = "en"
 title = "rmrz"
 theme = "akin"
 copyright = "No fancy copyright. Just <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/uk/'>creative commons</a> | <a href='https://www.goatcounter.com/'>There's some vanity tracking going on, sorry</a> | <a href='https://rmrz.ph/index.xml'>RSS</a>."
-# Number of posts per page
-Paginate = 10
 enableRobotsTXT = true
 pygmentsCodeFences = true
 pygmentsStyle = "monokai"
+
+[pagination]
+pagerSize = 10
 
 [params.assets]
 customCSS = ["css/custom.css"]
