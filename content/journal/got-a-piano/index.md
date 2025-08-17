@@ -6,7 +6,7 @@ title = "Got a Piano"
 description = ""
 slug = "got-a-piano"
 type = "journal"
-draft = true
+draft = false
 toc = false
 +++
 
