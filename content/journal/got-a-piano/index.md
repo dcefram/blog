@@ -3,14 +3,12 @@ author = "Daniel Cefram Ramirez"
 tags = ['piano']
 date = 2025-08-17T19:07:37+08:00
 title = "Got a Piano"
-description = ""
+description = "My daughter decided that she wanted to learn the piano, so we got her piano lessons and her own digital piano with weighted keys."
 slug = "got-a-piano"
 type = "journal"
 draft = false
 toc = false
 +++
-
-My daughter decided that she wanted to learn the piano, so we got her piano lessons and her own digital piano with weighted keys.
 
 Our requirement was a real “Partner Mode,” where the piano splits into two sections with the same key range. The most affordable option from a reputable brand was the Korg B2.
 The cheapest we could find from a reputable brand was Korg's B2.
