@@ -24,3 +24,11 @@ So maybe a pricier piano wouldn’t be a waste after all, since I’m using it o
 One of the software bundled with Korg was a 3 month license of [Skoove](https://www.skoove.com/en), which I found really useful for self learning piano for myself while my daughter attends "proper music classes".
 
 If ever this _hobby_ does not fade away for either my daughter or myself, I might consider buying a better Korg piano.
+
+### August 21, 2025 Update
+
+I caught my daughter playing a piece that wasn't part of her music lessons. It's sort of a hint to me that she's really interested as she's going beyond the lesson plan.
+
+<video width="100%" autoplay muted controls>
+  <source src="images/janine-piano.webm" type="video/webm">
+</video>
