@@ -35,7 +35,7 @@ Outside of work, I draw doodles, write long walls of text, and experiment on thi
 
 - <dc@rmrz.ph>
 - [Github](https://github.com/dcefram)
-- [@rmrz.ph](https://bsky.app/profile/rmrz.ph)
+- [@dcefram](https://www.threads.com/@dcefram)
 - [LinkedIn](https://ph.linkedin.com/in/daniel-cefram-ramirez) (Got lazy half way on creating my own web resume)
 
 ## Others
