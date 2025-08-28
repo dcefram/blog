@@ -29,6 +29,14 @@ If ever this _hobby_ does not fade away for either my daughter or myself, I migh
 
 I caught my daughter playing a piece that wasn't part of her music lessons. It's sort of a hint to me that she's really interested as she's going beyond the lesson plan.
 
-<video width="100%" autoplay muted controls>
+<video width="50%" autoplay muted controls>
   <source src="images/janine-piano.webm" type="video/webm">
+</video>
+
+### August 28, 2025 Update
+
+May eldest surprised me with her _own_ composition XD
+
+<video width="50%" autoplay muted controls>
+  <source src="images/janine-piano-compose-1.webm" type="video/webm">
 </video>
