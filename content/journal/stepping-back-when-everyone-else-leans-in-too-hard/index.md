@@ -21,7 +21,7 @@ would actually help the onlookers see sides that they would have otherwise overl
 accordingly.
 
 One must be careful though, as we do have the tendencies to rank arguments that resonate with our own biases as
-of higher importance that it might have actually been, thus a quick check on my own personal biases help keep things
+of higher importance than it might have actually been, thus a quick check on my own personal biases help keep things
 in check.
 
 Apart from the observations I got related to the topic that was being discussed, the exchange and aftermath helped me
