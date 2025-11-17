@@ -11,10 +11,10 @@ toc = false
 +++
 
 Quite recently, I have had the pleasure (sarcasm intended) of witnessing
-two colleagues with strong personalities clashing, each response doubling down with their side of the story.
+colleagues with strong personalities clashing, each response doubling down with their side of the story.
 
 One thing that I did notice is that on each response, their vision seemed to narrow down greatly, which can
-be dangerous when trying to reach a consensus. Hover, being the observer at this moment reminded me about the advantages
+be dangerous when trying to reach a consensus. However, being the observer at this moment reminded me about the advantages
 of listening on both sides, helping me out see the bigger picture as more often than not, they would focus on
 selling their side of the story, and raising the gaps that they see on the opposing side. Taking note of these
 would actually help the onlookers see sides that they would have otherwise overlooked, and be able to "rank" them
