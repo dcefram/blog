@@ -15,9 +15,10 @@ Hopefully all books I read is in goodreads too, so that I can simply rely on the
 
 ### Completed books
 
-- [Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout - [Notes](/notes/pragmatic-thinking-and-learning/)
-- [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/en/book/show/18988711) by Andy Hunt
+- [Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
+- [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/en/book/show/18988711) by Andy Hunt - [Notes](/notes/pragmatic-thinking-and-learning/)
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle) by Will Larson
+- [The Pragmatic Programmer: Your journey To Mastery](https://www.goodreads.com/book/show/126520556-the-pragmatic-programmer) by David Thomas and Andrew Hunt
 
 ## Udemy splurges
 
