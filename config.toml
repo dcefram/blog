@@ -47,7 +47,8 @@ keybase = "dcefram"
 repo = "dcefram/blog"   # github repo path
 issueTerm = "pathname"  # valid values: pathname, url, title, og:title, <issue-term>,
 label = "blog comment"
-theme = "boxy-light"
+themeLight = "boxy-light"
+themeDark = "photon-dark"
 
 [taxonomies]
 tag ="tags"
