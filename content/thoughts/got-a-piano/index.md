@@ -1,11 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ['piano']
+tags = ['piano', "journal"]
 date = 2025-08-17T19:07:37+08:00
 title = "Got a Piano"
 description = "My daughter decided that she wanted to learn the piano, so we got her piano lessons and her own digital piano with weighted keys."
 slug = "got-a-piano"
 type = "journal"
+aliases = ['/journal/got-a-piano/']
 draft = false
 toc = false
 +++

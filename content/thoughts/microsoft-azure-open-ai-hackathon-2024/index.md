@@ -1,11 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["hackathon"]
+tags = ["hackathon", "journal"]
 date = 2024-12-11T20:29:28+08:00
 title = "Microsoft Azure Open AI Hackathon 2024"
 description = "We won first by not going the chatbot route"
 slug = "microsoft-azure-open-ai-hackathon-2024"
 type = "journal"
+aliases = ['/journal/microsoft-azure-open-ai-hackathon-2024/']
 draft = false
 toc = false
 +++

@@ -1,11 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Life"]
+tags = ["Life", "journal"]
 date = 2017-01-17T10:10:00Z
 title = "When we tie the knot"
 description = "Wedding. It's my wedding day today."
 slug = "when-we-tie-the-knot"
 type = "post"
+aliases = ['/journal/when-we-tie-the-knot/']
 draft = false
 +++
 

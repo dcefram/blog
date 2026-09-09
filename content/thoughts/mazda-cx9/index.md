@@ -1,10 +1,11 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Cars"]
+tags = ["Cars", "journal"]
 date = 2023-06-23T01:03:27+08:00
 title = "Mazda Cx9"
 description = "First time switching over to Mazda, and I'm pretty impressed."
 type = "post"
+aliases = ['/journal/mazda-cx9/']
 draft = false
 
 +++

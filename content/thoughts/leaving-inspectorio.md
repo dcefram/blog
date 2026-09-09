@@ -1,11 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Career"]
+tags = ["Career", "journal"]
 date = 2024-09-04T00:46:00+08:00
 title = "Leaving Inspectorio"
 description = "A reflection on my journey with Inspectorio"
 slug = "leaving-inspectorio"
 type = "journal"
+aliases = ['/journal/leaving-inspectorio/']
 draft = false 
 toc = false
 +++
@@ -13,7 +14,7 @@ toc = false
 It's been over two years since I joined [Inspectorio](https://inspectorio.com). I started as an individual
 contributor, but I was thrust into a leadership role right after my first month.
 It has been an interesting journey, and, much like my time with
-[XSplit]({{< ref "/journal/on-to-a-new-challenge.md" >}} "On to a new challenge"),
+[XSplit]({{< ref "/thoughts/on-to-a-new-challenge.md" >}} "On to a new challenge"),
 I would attribute a great deal of my professional growth to this experience.
 
 Over a month ago, I handed in my resignation letter, and I'm rendering my last

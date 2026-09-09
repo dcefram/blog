@@ -4,8 +4,9 @@ date = 2021-03-11T09:31:25+08:00
 description = "I just wanted my git log graphs to have less noise"
 draft = false
 title = "Deleting Merged Branches"
-tags = ["Fish", "Tools"]
+tags = ["Fish", "Tools", "journal"]
 type = "toys"
+aliases = ['/journal/deleting-merged-branches/']
 +++
 
 There was this one project that I was involved in that never deleted merged branches. Not only was rebasing to latest branch not the norm in this project, but so was squashing, thus there are a lot of commits littered all over the repository.

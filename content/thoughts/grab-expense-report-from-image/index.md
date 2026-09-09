@@ -1,11 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Go", "Tools"]
+tags = ["Go", "Tools", "journal"]
 date = 2024-06-07T00:23:21+08:00
 title = "Grabbing details from Grab Food activities screenshot"
 description = "Extracting expenses from Grab Screenshots to a CSV for budget expense tracking"
 slug = "grab-expense-report-from-image"
 type = "journal"
+aliases = ['/journal/grab-expense-report-from-image/']
 draft = false
 toc = false
 +++

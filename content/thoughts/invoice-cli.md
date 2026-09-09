@@ -1,11 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["invoice"]
+tags = ["invoice", "journal"]
 date = 2025-08-26T19:23:12+08:00
 title = "Creating Invoices in the command line"
 description = "Just stumbled upon this gem, and my laziness got some ideas"
 slug = "invoice-cli"
 type = "journal"
+aliases = ['/journal/invoice-cli/']
 draft = false
 toc = false
 +++

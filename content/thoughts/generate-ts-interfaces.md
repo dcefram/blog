@@ -1,12 +1,13 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["TypeScript", "Tools"]
+tags = ["TypeScript", "Tools", "journal"]
 date = 2020-07-03T09:31:25+08:00
 description = "I made a script that would generate TypeScript interfaces from XML or JSON."
 draft = false
 linktitle = ""
 title = "Generate TS Interfaces from JSON or XML"
 type = "toys"
+aliases = ['/journal/generate-ts-interfaces/']
 
 +++
 

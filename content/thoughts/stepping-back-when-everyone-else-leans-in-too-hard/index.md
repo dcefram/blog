@@ -1,11 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Soft Skills"]
+tags = ["Soft Skills", "journal"]
 date = 2025-11-16T14:19:42+08:00
 title = "Stepping Back When Everyone Else Leans in Too Hard"
 description = "A room full of smart people can still shrink in perspective when biases take the wheel."
 slug = "stepping-back-when-everyone-else-leans-in-too-hard"
 type = "journal"
+aliases = ['/journal/stepping-back-when-everyone-else-leans-in-too-hard/']
 draft = false
 toc = false
 +++

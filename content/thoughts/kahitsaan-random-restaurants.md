@@ -1,12 +1,13 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Crystal Language", "Tools"]
+tags = ["Crystal Language", "Tools", "journal"]
 date = 2018-12-19T09:12:14+08:00
 draft = false
 linktitle = ""
 title = "Kahitsaan Random Restaurants"
 description = "The results of being hungry but couldn't decide where to eat."
 type = "toys"
+aliases = ['/journal/kahitsaan-random-restaurants/']
 
 +++
 

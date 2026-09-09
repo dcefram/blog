@@ -1,12 +1,13 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Career"]
+tags = ["Career", "journal"]
 date = 2018-09-11T12:31:38+08:00
 description = "Why I left a great job at XSplit, a company that I felt as the golden standard of how employers should be."
 draft = false
 linktitle = ""
 title = "On to a new challenge"
 type = "post"
+aliases = ['/journal/on-to-a-new-challenge/']
 
 +++
 
@@ -16,7 +17,7 @@ Looking back, it's been a wild 4 years ride. From being a stiff corporate employ
 
 ## Why I loved SplitmediaLabs
 
-[I used to work for Fujitsu Ten](https://rmrz.ph/journal/when-i-used-to-work-for-fujitsu-ten/), and although they provided me great opportunities like going to multiple business trips to Japan, **Fujitsu Ten** **is in fact a Japanese corporation**. With that came the strict dress code, strict working hours, and frequent overtimes. You know, what Japanese people normally do.
+[I used to work for Fujitsu Ten](https://rmrz.ph/thoughts/when-i-used-to-work-for-fujitsu-ten/), and although they provided me great opportunities like going to multiple business trips to Japan, **Fujitsu Ten** **is in fact a Japanese corporation**. With that came the strict dress code, strict working hours, and frequent overtimes. You know, what Japanese people normally do.
 
 So when I first joined SplitmediaLabs, it felt like freedom. There were no dress codes, as in I could wear shorts and slippers to work, the time-in/out was super flexible, and we could even play games in the office. We had free dinner, a ping-pong table, and we could bring toys to work... I mean, a girl named Ira even brought her skateboard to work when I first started working there.
 

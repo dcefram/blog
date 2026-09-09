@@ -68,7 +68,7 @@ hrefTargetBlank = true
   [[menu.main]]
     identifier = "journal"
     name = "Public Journal"
-    url = "/journal/"
+    url = "/tags/journal/"
     weight = 2
   [[menu.main]]
     identifier = "about"

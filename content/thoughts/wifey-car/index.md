@@ -1,11 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ['cars']
+tags = ['cars', "journal"]
 date = 2025-08-20T08:28:30+08:00
 title = "Wifey Car"
 description = "The bank had a car plan benefit, so we availed it"
 slug = "wifey-car"
 type = "journal"
+aliases = ['/journal/wifey-car/']
 draft = false
 toc = false
 +++
@@ -17,7 +18,7 @@ This meant that I won't be able to drive my wife and kids to school whenever I'm
 one of the benefits that I was entitled to was getting a car paid by the company (_I had to pay a small percentage though,
 as I'm just an SAVP, but the majority is paid by the company_).
 
-The car we opted for was either a Suzuki Jimny or a hatchback car, as my wife found it challenging to drive our [Mazda CX-9](https://rmrz.ph/journal/mazda-cx9) due
+The car we opted for was either a Suzuki Jimny or a hatchback car, as my wife found it challenging to drive our [Mazda CX-9](https://rmrz.ph/thoughts/mazda-cx9) due
 to its size. So a smaller car is a requirement from my wife.
 
 We like the Jimny to be honest, but the three doors Jimny's interior space was just too small, while the 5 doors was a lot

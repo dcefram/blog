@@ -1,10 +1,11 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["JavaScript", "Tools"]
+tags = ["JavaScript", "Tools", "journal"]
 date = 2022-12-25T00:00:00Z
 title = "Sharing Screen Recordings with Kap"
 description = "In a quest to minimize recurring subscription expenses, I made a plugin for Kap."
 type = "toys"
+aliases = ['/journal/sharing-screen-recordings/']
 +++
 
 I've been a long-time [CleanShot](https://cleanshot.cloud) user turned CleanShot **Cloud** user, but recently, I've been trying to clamp down on my online subscriptions. With that, I'm trying to look for alternatives to the current tools I use, although it does not need to be a free alternative. I'm aiming to cut down the monthly costs, so I'm just fine with software that would charge for a one-time payment with free updates for at least a year.

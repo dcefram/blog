@@ -1,11 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Dev Tools"]
+tags = ["Dev Tools", "journal"]
 date = 2025-12-24T22:34:50+08:00
 title = "Switched to Mise"
 description = "After months using Proto, I decided to switch to Mise"
 slug = "switched-to-mise"
 type = "journal"
+aliases = ['/journal/switched-to-mise/']
 draft = false 
 toc = false
 +++

@@ -1,13 +1,12 @@
 +++
 author = "Daniel Cefram Ramirez"
-tags = ["Fish", "Tools"]
+tags = ["Fish", "Tools", "journal"]
 date = 2023-07-23T23:38:35+08:00
 title = "Resizing images and uploading to GCP Storage"
 description = "A simple script to upload images that are blog-friendly"
 type = "toys"
 draft = false
-aliases = ['/posts/resize-and-upload-gcp']
-
+aliases = ['/posts/resize-and-upload-gcp', '/journal/resize-and-upload-gcp/']
 +++
 
 I am currently using GCS for the images in my blog, and I usually never resized images before uploading them to the bucket. I always thought that everything would be handled for me once I upload images to the bucket, thinking that there was already a built-in CDN on top of GCS.
