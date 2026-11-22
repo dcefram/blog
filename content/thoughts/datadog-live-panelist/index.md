@@ -30,11 +30,11 @@ I was upfront with the Datadog folks about it. They knew where we stood, and the
 
 The second was the lineup.
 
-A CEO. A CTO. And me.
+A CEO. A CTO. And me... a "just and engineer".
 
-I started wondering what I was walking into. Would it be all business strategy and boardroom decisions? Would there be room for someone whose days are spent on deployments, incidents, and figuring out why a certain API suddenly got slower?
+I started wondering what I was walking into. Would it be all business strategy and boardroom decisions? Would there be room for someone whose days are spent on deployments, incidents, and figuring out why a certain API suddenly got slower? I mean, my former boss was formerly the head of engineering (and now the head of architecture), and he's the one I am standing-in for.
 
-It wasn't really about the titles. I just wasn't sure my stories would fit.
+To be honest, it wasn't really about the titles. I just wasn't sure my perspective would fit the panel discussion.
 
 I said yes anyway.
 
